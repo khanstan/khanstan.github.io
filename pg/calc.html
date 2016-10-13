@@ -1,0 +1,176 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Travel calc</title>
+  <meta name="description" content="Travel calculator for piratesglory.com">
+  <meta name="author" content="KhanStan">
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+<script>
+
+window.addEventListener('input', function (e) {
+ getTime();
+}, false);
+
+</script>
+
+
+<form action="" id="calc" onsubmit="return false;">
+   <fieldset>
+    <legend>Travel Calc!</legend>
+ 
+    <label >Port A</label>
+ 
+    <select id="portA" name="portA">
+    <option value="Kanoni">Kanoni</option>
+    <option value="Baramas">Baramas</option>
+    <option value="St. Martins">St. Martins</option>
+    <option value="Pania">Pania</option>
+    <option value="Regis">Regis</option>
+    <option value="Goroum">Goroum</option>
+    <option value="Newland">Newland</option>
+    <option value="Hannes">Hannes</option>
+    <option value="Vaasburg">Vaasburg</option>
+    <option value="Seaglory">Seaglory</option>
+    <option value="Tortuga">Tortuga</option>
+    <option value="Tzogos">Tzogos</option>
+    <option value="Aiora">Aiora</option>
+    <option value="Thorakas">Thorakas</option>
+    <option value="Gasp">Gasp</option>
+    <option value="Neapolis">Neapolis</option>
+    <option value="Caspian">Caspian</option>
+    <option value="Prote">Prote</option>
+    <option value="Chalkos">Chalkos</option>
+    <option value="Psaral">Psaral</option>
+    <option value="Akrotiri">Akrotiri</option>
+
+   </select>
+
+
+    <label >Port B</label>
+ 
+    <select id="portB" name="portB">
+    <option value="Kanoni">Kanoni</option>
+    <option value="Baramas">Baramas</option>
+    <option value="St. Martins">St. Martins</option>
+    <option value="Pania">Pania</option>
+    <option value="Regis">Regis</option>
+    <option value="Goroum">Goroum</option>
+    <option value="Newland">Newland</option>
+    <option value="Hannes">Hannes</option>
+    <option value="Vaasburg">Vaasburg</option>
+    <option value="Seaglory">Seaglory</option>
+    <option value="Tortuga">Tortuga</option>
+    <option value="Tzogos">Tzogos</option>
+    <option value="Aiora">Aiora</option>
+    <option value="Thorakas">Thorakas</option>
+    <option value="Gasp">Gasp</option>
+    <option value="Neapolis">Neapolis</option>
+    <option value="Caspian">Caspian</option>
+    <option value="Prote">Prote</option>
+    <option value="Chalkos">Chalkos</option>
+    <option value="Psaral">Psaral</option>
+    <option value="Akrotiri">Akrotiri</option>
+   </select>
+    <br/>
+
+    <label>Slowest ship type.</label>
+ 
+    <select id="ship" name="ship">
+    <option value="Howker">Howker</option>
+    <option value="Cutter">Cutter</option>
+    <option value="Sloop">Sloop</option>
+    <option value="Fluyt">Fluyt</option>
+    <option value="Sloop of war">Sloop of war</option>
+    <option value="Galleon">Galleon</option>
+    <option value="Large fluyt">Large fluyt</option>
+    <option value="Merchantman">Merchantman</option>
+    <option value="Trade galleon">Trade galleon</option>
+    <option value="Brigantine">Brigantine</option>
+    <option value="Large merchantman">Large merchantman</option>
+    <option value="Brig">Brig</option>
+    <option value="Brig of war">Brig of war</option>
+    <option value="War galleon">War galleon</option>
+    <option value="Frigate">Frigate</option>
+    <option value="Flag galleon">Flag galleon</option>
+    <option value="Large frigate">Large frigate</option>
+    <option value="Ship of the line">Ship of the line</option>
+    </select>
+    <label>Crew:</label>
+    <input type="number" min="15" max="250" step="1"  name="quantity" id="quantity" onkeypress='return event.charCode >= 48 && event.charCode <= 57'/>
+      <u><sub onclick="javascript:max();">[max]</sub></u>
+
+    <label>Cotton:</label>
+ 
+    <select id="cotton" name="ship">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    </select>
+
+
+    <label>Hammocks:</label>
+ 
+    <select id="hammocks" name="ship">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    </select>
+   </br>
+
+    <label>Control the skies:</label>
+ 
+    <select id="skies" name="ship">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    </select>
+ 
+     <label>Favourable winds:</label>
+ 
+    <select id="winds" name="ship">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    </select>
+
+    <div id="totalTime"></div>
+</form>
+    </fieldset>
+
+
+
+<script src="calc.js"></script>
+
+</body>
+</html>
