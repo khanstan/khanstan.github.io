@@ -44,7 +44,23 @@ var ships = {
     "Ship of the line": {"base": 42, "max_crew": 250}
 };
 
-// Let's calculate the distance between each port!
+// Polyfill .includes for older browsers
+
+if (!String.prototype.includes) {
+  String.prototype.includes = function(search, start) {
+    'use strict';
+    if (typeof start !== 'number') {
+      start = 0;
+    }
+    
+    if (start + search.length > this.length) {
+      return false;
+    } else {
+      return this.indexOf(search, start) !== -1;
+    }
+  };
+}
+
 
 function getShips() {
     s = document.getElementById("ship");
@@ -83,7 +99,7 @@ function getSpeed() {
     var basespeed = ships[getShips()]["base"] + (ships[getShips()]["base"] * 3 * c1 / 100);
     var shipspeed = basespeed * ((ccrew / ships[getShips()]["max_crew"]) + 1) / 2;
     var finalspeed = shipspeed + (shipspeed * h1 / 100);
-    if (g1 > 0) {
+    if (g1 > 0 && getShips().includes("alleon")) {
     	finalspeed = finalspeed + (finalspeed * g1 * 1.5 / 100);
     }
 
