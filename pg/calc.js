@@ -26,22 +26,22 @@ var ports = {
 var ships = {
     "Howker": {"base": 21, "max_crew": 30},
     "Cutter": {"base": 50, "max_crew": 25},
-    "Sloop": {"base": 169, "max_crew": 50},
-    "Fluyt": {"base": 362, "max_crew": 40},
-    "Sloop of war": {"base": 437, "max_crew": 75},
-    "Galleon": {"base": 524, "max_crew": 60},
-    "Large fluyt": {"base": 239, "max_crew": 60},
-    "Merchantman": {"base": 674, "max_crew": 75},
-    "Trade galleon": {"base": 443, "max_crew": 60},
-    "Brigantine": {"base": 341, "max_crew": 100},
-    "Large merchantman": {"base": 259, "max_crew": 100},
-    "Brig": {"base": 234, "max_crew": 125},
-    "Brug of war": {"base": 453, "max_crew": 150},
-    "War galleon": {"base": 590, "max_crew": 150},
-    "Frigate": {"base": 679, "max_crew": 150},
-    "Flag galleon": {"base": 583, "max_crew": 200},
-    "Large frigate": {"base": 678, "max_crew": 225},
-    "Ship of the line": {"base": 761, "max_crew": 250}
+    "Sloop": {"base": 40, "max_crew": 50},
+    "Fluyt": {"base": 11, "max_crew": 40},
+    "Sloop of war": {"base": 45, "max_crew": 75},
+    "Galleon": {"base": 20, "max_crew": 60},
+    "Large fluyt": {"base": 14, "max_crew": 60},
+    "Merchantman": {"base": 22, "max_crew": 75},
+    "Trade galleon": {"base": 10, "max_crew": 60},
+    "Brigantine": {"base": 32, "max_crew": 100},
+    "Large merchantman": {"base": 24, "max_crew": 100},
+    "Brig": {"base": 30, "max_crew": 125},
+    "Brug of war": {"base": 35, "max_crew": 150},
+    "War galleon": {"base": 22, "max_crew": 150},
+    "Frigate": {"base": 44, "max_crew": 150},
+    "Flag galleon": {"base": 25, "max_crew": 200},
+    "Large frigate": {"base": 40, "max_crew": 225},
+    "Ship of the line": {"base": 42, "max_crew": 250}
 };
 
 // Let's calculate the distance between each port!
