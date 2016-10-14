@@ -3,13 +3,14 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="viewport" content="width=600px, initial-scale=1.0, user-scalable=yes">
     <title>Travel calc</title>
     <meta name="description" content="Travel calculator for piratesglory.com">
     <meta name="author" content="KhanStan">
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
   <![endif]-->
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -24,10 +25,10 @@ window.addEventListener('input', function (e) {
 
 
 <form action="" id="calc" onsubmit="return false;">
-   <fieldset>
+    <fieldset class="fieldset-auto-width">
     <legend>Travel Calc!</legend>
- 
-    <label >Port A</label>
+    <center>
+    <label >Port A:</label>
  
     <select id="portA" name="portA">
     <option value="Kanoni">Kanoni</option>
@@ -55,7 +56,7 @@ window.addEventListener('input', function (e) {
    </select>
 
 
-    <label >Port B</label>
+    <label>Port B:</label>
  
     <select id="portB" name="portB">
     <option value="Kanoni">Kanoni</option>
@@ -79,11 +80,11 @@ window.addEventListener('input', function (e) {
     <option value="Chalkos">Chalkos</option>
     <option value="Psaral">Psaral</option>
     <option value="Akrotiri">Akrotiri</option>
-   </select>
-    <br/>
+    </select>
+    <hr>
 
-    <label>Slowest ship type.</label>
- 
+    <label>Slowest ship type:</label>
+    </br>
     <select id="ship" name="ship">
     <option value="Howker">Howker</option>
     <option value="Cutter">Cutter</option>
@@ -104,11 +105,14 @@ window.addEventListener('input', function (e) {
     <option value="Large frigate">Large frigate</option>
     <option value="Ship of the line">Ship of the line</option>
     </select>
-    <label>Crew:</label>
-    <input type="number" min="15" max="250" step="1"  name="quantity" id="quantity" onkeypress='return event.charCode >= 48 && event.charCode <= 57'/>
-      <u><sub onclick="javascript:max();">[max]</sub></u>
+    <hr>
 
-    <label>Cotton:</label>
+    <label>Crew:</label>
+    <input type="number" min="15" max="250" step="1"  name="quantity" id="quantity" onkeypress='return event.charCode >= 48 && event.charCode <= 57' />
+    <sub onclick="javascript:max();">[max]</sub>
+    <hr>
+
+    <label>Cotton Sails:</label>
  
     <select id="cotton" name="ship">
     <option value="0">0</option>
@@ -125,7 +129,7 @@ window.addEventListener('input', function (e) {
     </select>
 
 
-    <label>Hammocks:</label>
+    <label>Double Hammocks:</label>
  
     <select id="hammocks" name="ship">
     <option value="0">0</option>
@@ -140,7 +144,7 @@ window.addEventListener('input', function (e) {
     <option value="9">9</option>
     <option value="10">10</option>
     </select>
-   </br>
+    <hr>
 
     <label>Control the skies:</label>
  
@@ -153,7 +157,7 @@ window.addEventListener('input', function (e) {
     <option value="5">5</option>
     </select>
  
-     <label>Favourable winds:</label>
+    <label>Favourable winds:</label>
  
     <select id="winds" name="ship">
     <option value="0">0</option>
@@ -163,8 +167,35 @@ window.addEventListener('input', function (e) {
     <option value="4">4</option>
     <option value="5">5</option>
     </select>
-
+    </br>
+    <label>Spanish galleons:</label>
+ 
+    <select id="galleons" name="ship">
+    <option value="0">Not learned</option>
+    <option value="1">Level 1.</option>
+    <option value="2">Level 2.</option>
+    <option value="3">Level 3.</option>
+    <option value="4">Level 4.</option>
+    <option value="5">Level 5.</option>    
+    <option value="6">Level 6.</option>
+    <option value="7">Level 7.</option>
+    <option value="8">Level 8.</option>
+    <option value="9">Level 9.</option>
+    <option value="10">Level 10.</option>
+    <option value="11">Level 11.</option>
+    <option value="12">Level 12.</option>
+    <option value="13">Level 13.</option>
+    <option value="14">Level 14.</option>
+    <option value="15">Level 15.</option>
+    <option value="16">Level 16.</option>
+    <option value="17">Level 17.</option>
+    <option value="18">Level 18.</option>
+    <option value="19">Level 19.</option>
+    <option value="20">Level 20.</option>
+    </select>
+    </center>
     <div id="totalTime"></div>
+    <div id="clear"><p onclick="resetform();"">Reset form.</p></div>
 </fieldset>
 </form>
 

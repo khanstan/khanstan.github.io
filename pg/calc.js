@@ -78,9 +78,15 @@ function getSpeed() {
     var sk1 = sk.options[sk.selectedIndex].value;
     var w = document.getElementById("winds");
     var w1 = w.options[w.selectedIndex].value;
+    var g = document.getElementById("galleons");
+    var g1 = g.options[g.selectedIndex].value;
     var basespeed = ships[getShips()]["base"] + (ships[getShips()]["base"] * 3 * c1 / 100);
     var shipspeed = basespeed * ((ccrew / ships[getShips()]["max_crew"]) + 1) / 2;
     var finalspeed = shipspeed + (shipspeed * h1 / 100);
+    if (g1 > 0) {
+    	finalspeed = finalspeed + (finalspeed * g1 * 1.5 / 100);
+    }
+
     if (sk1 > 0 && w1 > 0) {
         var cw = finalspeed + (finalspeed * (w1 - sk1) * 10 / 100);
         return cw;
@@ -108,7 +114,7 @@ function getTime() {
 
     var time = getDistance() / getSpeed();
 
-    document.getElementById("totalTime").innerHTML = "Time is " + secondsToHms(time);
+    document.getElementById("totalTime").innerHTML = "Time till arrival:  " + secondsToHms(time);
 
     return time;
 }
@@ -116,5 +122,10 @@ function getTime() {
 function max() {
     var m = ships[getShips()]["max_crew"];
     document.getElementById("quantity").value = m;
+    return getTime();
 }
 
+function resetform() {
+	document.getElementById("calc").reset();
+	document.getElementById("totalTime").innerHTML = "";
+}
