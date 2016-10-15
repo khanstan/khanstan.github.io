@@ -44,23 +44,29 @@ var ships = {
     "Ship of the line": {"base": 42, "max_crew": 250}
 };
 
+function addEvent(element, evnt, funct){
+  if (element.attachEvent)
+   return element.attachEvent('on'+evnt, funct);
+  else
+   return element.addEventListener(evnt, funct, false);
+}
+
+
+addEvent(
+    document.getElementById('link'),
+    'click',
+    function () { max(); }
+);
+
+addEvent(
+    document.getElementById('clear'),
+    'click',
+    function () { resetForm(); }
+);
+
 window.addEventListener('input', function (e) {
  getTime();
 }, false);
-
-document.addEventListener('DOMContentLoaded', function() {
-    var link = document.getElementById('link');
-    var reset = document.getElementById('clear');
-    // onClick's logic below:
-    link.addEventListener('click', function() {
-        max();
-    reset.addEventListener('click', function() {
-        resetForm();
-    })
-    });
-});
-
-
 
 
 // Polyfill .includes for older browsers
