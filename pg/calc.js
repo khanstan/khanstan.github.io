@@ -36,13 +36,32 @@ var ships = {
     "Brigantine": {"base": 32, "max_crew": 100},
     "Large merchantman": {"base": 24, "max_crew": 100},
     "Brig": {"base": 30, "max_crew": 125},
-    "Brug of war": {"base": 35, "max_crew": 150},
+    "Brig of war": {"base": 35, "max_crew": 150},
     "War galleon": {"base": 22, "max_crew": 150},
     "Frigate": {"base": 44, "max_crew": 150},
     "Flag galleon": {"base": 25, "max_crew": 200},
     "Large frigate": {"base": 40, "max_crew": 225},
     "Ship of the line": {"base": 42, "max_crew": 250}
 };
+
+window.addEventListener('input', function (e) {
+ getTime();
+}, false);
+
+document.addEventListener('DOMContentLoaded', function() {
+    var link = document.getElementById('link');
+    var reset = document.getElementById('clear');
+    // onClick's logic below:
+    link.addEventListener('click', function() {
+        max();
+    reset.addEventListener('click', function() {
+        resetForm();
+    })
+    });
+});
+
+
+
 
 // Polyfill .includes for older browsers
 

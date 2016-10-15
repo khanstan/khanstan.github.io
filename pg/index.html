@@ -16,14 +16,6 @@
 
 <body>
 
-<script>
-
-window.addEventListener('input', function (e) {
- getTime();
-}, false);
-
-</script>
-
 <center>
 <form action="" id="calc" onsubmit="return false;">
     <fieldset class="fieldset-auto-width">
@@ -110,8 +102,24 @@ window.addEventListener('input', function (e) {
 
     <label>Crew:</label>
     <input type="number" min="15" max="250" step="1"  name="quantity" id="quantity" value="15" onkeypress='return event.charCode >= 48 && event.charCode <= 57' />
-    <sub onclick="javascript:max();">[max]</sub>
+    <sub id="link">[max]</sub>
     <hr>
+
+    <label>Double Hammocks:</label>
+ 
+    <select id="hammocks" name="ship">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    </select>
 
     <label>Cotton Sails:</label>
  
@@ -129,22 +137,6 @@ window.addEventListener('input', function (e) {
     <option value="10">10</option>
     </select>
 
-
-    <label>Double Hammocks:</label>
- 
-    <select id="hammocks" name="ship">
-    <option value="0">0</option>
-    <option value="1">1</option>
-    <option value="2">2</option>
-    <option value="3">3</option>
-    <option value="4">4</option>
-    <option value="5">5</option>
-    <option value="6">6</option>
-    <option value="7">7</option>
-    <option value="8">8</option>
-    <option value="9">9</option>
-    <option value="10">10</option>
-    </select>
     <hr>
 
     <label>Control the skies:</label>
@@ -169,6 +161,7 @@ window.addEventListener('input', function (e) {
     <option value="5">5</option>
     </select>
     </br>
+    <hr>
     <label>Spanish galleons:</label>
  
     <select id="galleons" name="ship">
@@ -196,7 +189,7 @@ window.addEventListener('input', function (e) {
     </select>
     </center>
     <div id="totalTime"></div>
-    <div id="clear"><p onclick = "resetform();">Reset form.</p></div>
+    <div id="clear"><p>Reset form.</p></div>
 </fieldset>
 </form>
 </center>
