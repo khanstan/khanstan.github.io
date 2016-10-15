@@ -4,21 +4,28 @@ body {
 	padding: 0 !important;
 }
 
+img {
+    height: 18px;
+    width: 18px;
+    position: relative;
+    top: 2px;
+}
+
+
+
 .fieldset-auto-width {
     display: inline-block;
     background: #21170c;
     color: #fff;
     font-family: "Trebuchet MS";
-    font-size: 14px;
+    font-size: 13px;
     border:1px dotted white;
     -moz-border-radius:8px;
     -webkit-border-radius:8px;	
     border-radius:8px;	
 }
 
-#portA, #portB, #ship, #cotton, #hammocks, #skies, #winds, #galleons {
 
-}
 
 #clear {
 	color: #f90;
