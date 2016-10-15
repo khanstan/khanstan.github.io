@@ -160,7 +160,7 @@ function max() {
     return getTime();
 }
 
-function resetform() {
+function resetForm() {
 	document.getElementById("calc").reset();
 	document.getElementById("totalTime").innerHTML = "";
 }
