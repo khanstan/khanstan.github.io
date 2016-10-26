@@ -1,0 +1,83 @@
+body {
+	background-color:#181818;
+}
+
+
+
+img {
+    height: 18px;
+    width: 18px;
+    position: relative;
+    top: 2px;
+}
+
+
+.fieldset-auto-width {
+	position: absolute; 
+	top: 0px; 
+	right: 0px; 
+	overflow: hidden;
+    display: inline-block;
+    background: #21170c;
+    color: #fff;
+    font-family: "Trebuchet MS";
+    font-size: 13px;
+    border:1px dotted white;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;	
+}
+
+#todos {
+	margin:0 auto;
+    text-align:left;
+    list-style-position: inside;
+	color: white;
+    width: 200px;
+    border: 3px solid #73AD21;
+}
+
+#clear {
+	color: #f90;
+	cursor:pointer;
+	text-decoration:underline;
+	text-align: center;
+	font-size: 12px;
+}
+
+sub {
+	color: #f90;
+	cursor:pointer;
+	text-decoration:underline;
+}
+
+
+#totalTime {
+	margin: 0 auto;
+	padding-top: 20px;
+	text-align: center;
+	color: #ff0;
+}
+
+.ht_master tr:nth-of-type(even) > td {
+  background-color: #0f0b05;
+  color: #fff;
+  font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+  font-size: 13px;
+}
+
+.ht_master tr:nth-of-type(odd) > td {
+  background-color: #080603;
+  color: #fff;
+  font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+  font-size: 13px;
+}
+
+
+.handsontable th {
+	font-family: "Trebuchet MS";
+	color: #FFF !important;
+	font-size: 14px;
+	background-color: #2C1D10 !important;
+	font-weight: bold !important;
+	 }
