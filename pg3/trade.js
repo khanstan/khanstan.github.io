@@ -18,7 +18,7 @@ function getJSON(url) {
 
 
 
-var str = getJSON('https://api.myjson.com/bins/1aerrh') ;
+var str = getJSON('data.json') ;
 
 var obj = jQuery.parseJSON(str);
 
