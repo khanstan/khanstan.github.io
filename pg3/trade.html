@@ -7,21 +7,23 @@
     <title>Travel calculator</title>
     <meta name="description" content="Travel calculator for piratesglory.com">
     <meta name="author" content="KhanStan">
+    <script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
     <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="styles2.css">
     <link rel="stylesheet" href="styles.css">
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
   <![endif]-->
 
 </head>
-
 <body>
+<div id="example" style="display: inline-block; width: 600px; float: left;"></div>
 
 <center>
 <form action="" id="calc" onsubmit="return false;">
     <fieldset class="fieldset-auto-width">
+
     <legend>Travel Calc!</legend>
     <center>
     <label >Port A:</label>
@@ -105,9 +107,6 @@
     <label>Crew:</label>
     <input type="number" min="15" max="250" step="1"  name="quantity" id="quantity" value="15" onkeypress='return event.charCode >= 48 && event.charCode <= 57' />
     <sub id="link">[max]</sub>
-    <hr>
-    <label>Cargo:</label>
-    <input type="number" min="15" max="600" step="1"  name="cargo" id="cargo" value="15" onkeypress='return event.charCode >= 48 && event.charCode <= 57' />
     <hr>
     <img src="double_hammocks.gif" alt="MDN">
     <label>Double Hammocks:</label>
@@ -195,32 +194,19 @@
     </center>
 
     <div id="totalTime"></div>
-    <div id="totalProfit"></div>
     <div id="clear"><p>Reset form</p></div>
-
+    <div id="profit"></div>
 </fieldset>
 </form>
-
 </center>
 
-<center>
-<h2>Most profitable routes:</h2>
 
-<table id="itemList" class='myTable'>
-    <thead>
-        <tr class = 'myTableHeader'>
-            <td>Ports</td>
-            <td>Profit</td>
-        </tr>
-    </thead>
-    <tbody class = 'myTableBody'>
-    </tbody>
-</table>
 
-</center>
 
-<script src="trade.js"></script>
+<script src="http://docs.handsontable.com/0.28.4/bower_components/handsontable/dist/handsontable.full.js"></script>
+<link type="text/css" href="http://docs.handsontable.com/0.28.4/bower_components/handsontable/dist/handsontable.full.css" rel="stylesheet"  />
 <script src="calc.js"></script>
+<script src="script.js"></script>
 
 </body>
 </html>
