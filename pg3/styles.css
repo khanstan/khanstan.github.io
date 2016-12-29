@@ -13,7 +13,9 @@ img {
     top: 2px;
 }
 
-
+h2 {
+	color: #ffffff;
+}
 
 .fieldset-auto-width {
     display: inline-block;
@@ -53,28 +55,44 @@ sub {
 }
 
 .myTable {
-	border-spacing: 0;
+    border-width: 1px;
+    border-spacing: 0;
+    border-style: dotted;
+    border-color: #aaa;
+    border-collapse: separate;
+    background-color: #000000;
     font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 12px;
     color: #ddd;
+    text-align: center;
 }
 
-.myTableHeader {
-	display: table-row;
-	background: #000000;
-	font-size: 15px;
-	height: 15px;
-}
+
 
 .myTableBody {
-	background: #151007;
+	background: #000000;
 	font-size: 13px;
+}
+thead {
+	display: table-header-group;
 }
 
 .myTableRow {
 	height: 20px;
 }
 
+#myTablePorts {
+	width: 200px;
+	text-align: center;
+}
+
 #totalProfit {
 	color: red;
 	font-size: 20px;
+}
+
+tbody tr:hover {
+  	background-color:#0f0b05;
+	text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;
+	cursor:pointer;
 }
