@@ -78,7 +78,7 @@
     </select>
     <hr>
 
-    <label>Slowest ship type:</label>
+    <label style = "font-family: 'Indie Flower', cursive;"">Slowest ship type:</label>
     </br>
     <select id="ship" name="ship">
     <option value="Howker">Howker</option>
@@ -106,8 +106,9 @@
     <input type="number" min="15" max="250" step="1"  name="quantity" id="quantity" value="15" onkeypress='return event.charCode >= 48 && event.charCode <= 57' />
     <sub id="link">[max]</sub>
     <hr>
-    <label>Cargo:</label>
-    <input type="number" min="15" max="600" step="1"  name="cargo" id="cargo" value="15" onkeypress='return event.charCode >= 48 && event.charCode <= 57' />
+    <label>Fleet cargo:</label>
+    <input type="number" min="15" max="750" step="1"  name="cargo" id="cargo" value="0" onkeypress='return event.charCode >= 48 && event.charCode <= 57' />
+    <sub id="link2">[max]</sub>
     <hr>
     <img src="double_hammocks.gif" alt="MDN">
     <label>Double Hammocks:</label>
@@ -208,6 +209,7 @@
 
 <table id="itemList" class='myTable'>
     <thead>
+
         <tr class = 'myTableHeader'>
             <td>Ports</td>
             <td>Profit</td>

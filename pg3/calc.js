@@ -1,4 +1,3 @@
-
 var ports = {
     "Kanoni": {"x_cd": 47, "y_cd": 202},
     "Baramas": {"x_cd": 141, "y_cd": 173},
@@ -44,6 +43,17 @@ var ships = {
     "Ship of the line": {"base": 42, "max_crew": 250, "cargo": 60}
 };
 
+function gg(e) {
+    g = e.innerText;
+    split = g.split('-');
+    first = split[0];
+    second = split[1];
+    document.getElementById('portA').value = first;
+    document.getElementById('portB').value = second;
+
+    return workaround();
+}
+
 function addEvent(element, evnt, funct){
   if (element.attachEvent)
    return element.attachEvent('on'+evnt, funct);
@@ -51,11 +61,16 @@ function addEvent(element, evnt, funct){
    return element.addEventListener(evnt, funct, false);
 }
 
-
 addEvent(
     document.getElementById('link'),
     'click',
     function () { max(); }
+);
+
+addEvent(
+    document.getElementById('link2'),
+    'click',
+    function () { cargo(); }
 );
 
 addEvent(
@@ -66,6 +81,8 @@ addEvent(
 
 window.addEventListener('input', function (e) {
  tradeCalc();
+ cargo();
+ max();
 }, false);
 
 
@@ -125,7 +142,7 @@ function getSpeed() {
     var shipspeed = basespeed * ((ccrew / ships[getShips()]["max_crew"]) + 1) / 2;
     var finalspeed = shipspeed + (shipspeed * h1 / 100);
     if (g1 > 0 && getShips().includes("alleon")) {
-    	finalspeed = finalspeed + (finalspeed * g1 * 1.5 / 100);
+        finalspeed = finalspeed + (finalspeed * g1 * 1.5 / 100);
     }
 
     if (sk1 > 0 && w1 > 0) {
@@ -166,12 +183,23 @@ function getTime() {
 function max() {
     var m = ships[getShips()]["max_crew"];
     document.getElementById("quantity").value = m;
-    return getTime();
+    return workaround();
+}
+
+function cargo() {
+    var c = ships[getShips()]["cargo"];
+    document.getElementById("cargo").value = c*5;
+    return workaround();
+}
+
+function workaround() {
+    getTime();
+    tradeCalc();
 }
 
 function resetForm() {
-	document.getElementById("calc").reset();
-	document.getElementById("totalTime").innerHTML = "";
+    document.getElementById("calc").reset();
+    document.getElementById("totalTime").innerHTML = "";
 }
 
 function minTrip() {
@@ -205,12 +233,12 @@ function getByKey() {
 function tradeCalc() {
     var trips = 86400 / minTrip();
     var cargo = document.getElementById("cargo").value;
-    var pr = (trips * getByKey()) * cargo;
+    var pr = Math.round((trips * getByKey()) * cargo);
     
-    document.getElementById("totalProfit").innerHTML = "Profit per day: " + pr;
+    document.getElementById("totalProfit").innerHTML = "Profit per day ~ " + pr;
 }
 console.log(getByKey());
 /*
-problema e v konvertiraneto ot sekundi v kolko tripa v denonoshtie ima. 86400 mintrip nqkyv math trqbva. todo json host. best routes
+problema e v konvertiraneto ot sekundi v kolko tripa v denonoshtie ima. 86400 mintrip nqkyv math trqbva. best routes
 for chosen ships. HTML za fleet/ cargo... tables and stuff... dead end sunday!!!!
 */
