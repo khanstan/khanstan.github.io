@@ -198,6 +198,7 @@ function workaround() {
 function resetForm() {
     document.getElementById("calc").reset();
     document.getElementById("totalTime").innerHTML = "";
+    document.getElementById("totalProfit").innerHTML = "";
 }
 
 function minTrip() {
