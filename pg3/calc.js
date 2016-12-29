@@ -81,8 +81,6 @@ addEvent(
 
 window.addEventListener('input', function (e) {
  tradeCalc();
- cargo();
- max();
 }, false);
 
 
