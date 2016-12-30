@@ -91,6 +91,13 @@ thead {
 	font-size: 20px;
 }
 
+#lastupdate {
+	width: 200px;
+	color: #ffffff;
+	font-size: 12px;
+	margin-bottom: 15px;
+}
+
 tbody tr:hover {
   	background-color:#0f0b05;
 	text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;
