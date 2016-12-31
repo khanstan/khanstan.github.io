@@ -35,25 +35,29 @@ for (var i = 0, len = sliced.length; i < len; i +=1) {
     rows +=  "<tr class = 'myTableRow'><td class = 'myTableData'>"+ "#" + ind + ". " + '<td onclick="gg(this)" id = myTablePorts>' + key + "</td></td><td>" + '<img src="gold_coins.gif" style = "width:14px;height:14px;" alt="MDN">  ' + obj[key] + "</td></tr>";
 }
 
-var unix_timestamp = obj["timestamp"]["server"];
-var date = unix_timestamp*1000;
-var curdate = (new Date).getTime();
-var diff = curdate - date
+
 
 function msToTime() {
+    var unix_timestamp = obj["timestamp"]["server"];
+    var date = unix_timestamp*1000;
+    var curdate = (new Date).getTime();
+    var diff = curdate - date
     var milliseconds = parseInt((diff%1000)/100)
         , seconds = parseInt((diff/1000)%60)
         , minutes = parseInt((diff/(1000*60))%60)
-        , hours = parseInt((diff/(1000*60*60))%24);
+        , hours = parseInt((diff/(1000*60*60)));
 
     hours = (hours < 10) ? "0" + hours : hours;
     minutes = (minutes < 10) ? "0" + minutes : minutes;
     seconds = (seconds < 10) ? "0" + seconds : seconds;
     time = "Time since last update:<font color='red'> " + hours + "h:" + minutes + "m:" + seconds + "s</font> (this page will take around 15 minutes to update after resource prices get recalculated!)"
     document.getElementById("lastupdate").innerHTML = time;
+    return console.log()
 }
 
 jQuery(document).ready(function(){
   $(rows).appendTo( "#itemList tbody" );
   msToTime();
 });
+
+
