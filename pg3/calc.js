@@ -46,6 +46,7 @@ var ships = {
 $( "select" )
   .change(function () {
     sumCargo();
+    tradeCalc();
   })
 
 
@@ -138,6 +139,67 @@ if (!String.prototype.includes) {
   };
 }
 
+function max() {
+    var m = ships[getShips()]["max_crew"];
+    document.getElementById("quantity").value = m;
+    return workaround();
+}
+
+
+function workaround() {
+    getTime();
+    sumCargo();
+    tradeCalc();
+}
+
+function resetForm() {
+    document.getElementById("calc").reset();
+    document.getElementById("totalTime").innerHTML = "";
+    document.getElementById("totalProfit").innerHTML = "";
+}
+
+function getByKey() {
+    var a = document.getElementById("portA").value;
+    var b = document.getElementById("portB").value;
+    var key1 = a + "-" + b;
+    var key2 = b + "-" + a;
+    var proff = 0;
+    var keyz = obj[key1];
+    var keyz1 = obj[key2];
+    if(typeof keyz !== "undefined") {
+        return keyz
+    }
+    else {
+        return keyz1
+    }
+}
+
+function save() {
+    var input1 = document.getElementById('ship1');
+    var input2 = document.getElementById('ship2');
+    var input3 = document.getElementById('ship3');
+    var input4 = document.getElementById('ship4');
+    var input5 = document.getElementById('ship5');
+    localStorage['ship1'] = input1.value;
+    localStorage['ship2'] = input2.value;
+    localStorage['ship3'] = input3.value;
+    localStorage['ship4'] = input4.value;
+    localStorage['ship5'] = input5.value;
+}
+
+function load() {
+    var input1 = document.getElementById('ship1');
+    var input2 = document.getElementById('ship2');
+    var input3 = document.getElementById('ship3');
+    var input4 = document.getElementById('ship4');
+    var input5 = document.getElementById('ship5');
+    input1.value = localStorage['ship1'];
+    input2.value = localStorage['ship2'];
+    input3.value = localStorage['ship3'];
+    input4.value = localStorage['ship4'];
+    input5.value = localStorage['ship5'];
+    return workaround();
+}
 
 function getShips() {
     s = document.getElementById("ship");
@@ -194,7 +256,6 @@ function getSpeed() {
     }
 
 }
-
 function secondsToHms(d) {
     d = Number(d);
     var h = Math.floor(d / 3600);
@@ -202,7 +263,6 @@ function secondsToHms(d) {
     var s = Math.floor(d % 3600 % 60);
     return ((h > 0 ? h + ":" + (m < 10 ? "0" : "") : "") + m + ":" + (s < 10 ? "0" : "") + s); 
 }
-
 
 
 function getTime() {
@@ -215,25 +275,6 @@ function getTime() {
 
 }
 
-function max() {
-    var m = ships[getShips()]["max_crew"];
-    document.getElementById("quantity").value = m;
-    return workaround();
-}
-
-
-function workaround() {
-    getTime();
-    sumCargo();
-    tradeCalc();
-}
-
-function resetForm() {
-    document.getElementById("calc").reset();
-    document.getElementById("totalTime").innerHTML = "";
-    document.getElementById("totalProfit").innerHTML = "";
-}
-
 function minTrip() {
     var tradetime;
     if (getTime() < 3600) {
@@ -242,53 +283,6 @@ function minTrip() {
         tradetime = getTime();
     }
     return tradetime * 2;
-}
-
-function getByKey() {
-    var a = document.getElementById("portA").value;
-    var b = document.getElementById("portB").value;
-    var key1 = a + "-" + b;
-    var key2 = b + "-" + a;
-    var proff = 0;
-    var keyz = obj[key1];
-    var keyz1 = obj[key2];
-    if(typeof keyz !== "undefined") {
-        return keyz
-    }
-    else {
-        return keyz1
-    }
-}
-
-
-
-
-
-function save() {
-    var input1 = document.getElementById('ship1');
-    var input2 = document.getElementById('ship2');
-    var input3 = document.getElementById('ship3');
-    var input4 = document.getElementById('ship4');
-    var input5 = document.getElementById('ship5');
-    localStorage['ship1'] = input1.value;
-    localStorage['ship2'] = input2.value;
-    localStorage['ship3'] = input3.value;
-    localStorage['ship4'] = input4.value;
-    localStorage['ship5'] = input5.value;
-}
-
-function load() {
-    var input1 = document.getElementById('ship1');
-    var input2 = document.getElementById('ship2');
-    var input3 = document.getElementById('ship3');
-    var input4 = document.getElementById('ship4');
-    var input5 = document.getElementById('ship5');
-    input1.value = localStorage['ship1'];
-    input2.value = localStorage['ship2'];
-    input3.value = localStorage['ship3'];
-    input4.value = localStorage['ship4'];
-    input5.value = localStorage['ship5'];
-    return workaround();
 }
 
 function tradeCalc() {
