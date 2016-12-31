@@ -24,11 +24,11 @@ var obj = jQuery.parseJSON(str);
 var keysSorted = Object.keys(obj).sort(function(a,b){return obj[b]-obj[a]})
 
 
-var table = document.createElement('table');
+
 var rows = "";
 var ordKeys = Object.keys(obj).sort(function(a,b){return obj[b]-obj[a]}); // pass inside a function if you want specific order
 var key;
-var sliced = ordKeys.slice(0,10)
+var sliced = ordKeys.slice(0,20)
 for (var i = 0, len = sliced.length; i < len; i +=1) {
     key = sliced[i]
     ind = [i+1]
@@ -39,8 +39,6 @@ var unix_timestamp = obj["timestamp"]["server"];
 var date = unix_timestamp*1000;
 var curdate = (new Date).getTime();
 var diff = curdate - date
-console.log(unix_timestamp);
-
 
 function msToTime() {
     var milliseconds = parseInt((diff%1000)/100)

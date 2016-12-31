@@ -43,6 +43,31 @@ var ships = {
     "Ship of the line": {"base": 42, "max_crew": 250, "cargo": 60}
 };
 
+$( "select" )
+  .change(function () {
+    sumCargo();
+  })
+
+
+function sumCargo() {
+    sa = document.getElementById("ship1");
+    s1 = sa.options[sa.selectedIndex].value;
+    sb = document.getElementById("ship2");
+    s2 = sb.options[sb.selectedIndex].value;
+    sc = document.getElementById("ship3");
+    s3 = sc.options[sc.selectedIndex].value;    
+    sd = document.getElementById("ship4");
+    s4 = sd.options[sd.selectedIndex].value;
+    se = document.getElementById("ship5");
+    s5 = se.options[se.selectedIndex].value;
+    var a = ships[s1]["cargo"];
+    var b = ships[s2]["cargo"];
+    var c = ships[s3]["cargo"];
+    var d = ships[s4]["cargo"];
+    var e = ships[s5]["cargo"];
+    return document.getElementById("cargo").value = a+b+c+d+e;
+}
+
 function gg(e) {
     g = e.innerText;
     split = g.split('-');
@@ -70,7 +95,19 @@ addEvent(
 addEvent(
     document.getElementById('link2'),
     'click',
-    function () { cargo(); }
+    function () { sumCargo(); }
+);
+
+addEvent(
+    document.getElementById('linksave'),
+    'click',
+    function () { save(); }
+);
+
+addEvent(
+    document.getElementById('linkload'),
+    'click',
+    function () { load(); }
 );
 
 addEvent(
@@ -184,14 +221,10 @@ function max() {
     return workaround();
 }
 
-function cargo() {
-    var c = ships[getShips()]["cargo"];
-    document.getElementById("cargo").value = c*5;
-    return workaround();
-}
 
 function workaround() {
     getTime();
+    sumCargo();
     tradeCalc();
 }
 
@@ -229,6 +262,35 @@ function getByKey() {
 
 
 
+
+
+function save() {
+    var input1 = document.getElementById('ship1');
+    var input2 = document.getElementById('ship2');
+    var input3 = document.getElementById('ship3');
+    var input4 = document.getElementById('ship4');
+    var input5 = document.getElementById('ship5');
+    localStorage['ship1'] = input1.value;
+    localStorage['ship2'] = input2.value;
+    localStorage['ship3'] = input3.value;
+    localStorage['ship4'] = input4.value;
+    localStorage['ship5'] = input5.value;
+}
+
+function load() {
+    var input1 = document.getElementById('ship1');
+    var input2 = document.getElementById('ship2');
+    var input3 = document.getElementById('ship3');
+    var input4 = document.getElementById('ship4');
+    var input5 = document.getElementById('ship5');
+    input1.value = localStorage['ship1'];
+    input2.value = localStorage['ship2'];
+    input3.value = localStorage['ship3'];
+    input4.value = localStorage['ship4'];
+    input5.value = localStorage['ship5'];
+    return workaround();
+}
+
 function tradeCalc() {
     var trips = 86400 / minTrip();
     var cargo = document.getElementById("cargo").value;
@@ -236,8 +298,3 @@ function tradeCalc() {
     
     document.getElementById("totalProfit").innerHTML = "Profit per day ~ " + pr;
 }
-console.log(getByKey());
-/*
-problema e v konvertiraneto ot sekundi v kolko tripa v denonoshtie ima. 86400 mintrip nqkyv math trqbva. best routes
-for chosen ships. HTML za fleet/ cargo... tables and stuff... dead end sunday!!!!
-*/
