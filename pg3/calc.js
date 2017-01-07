@@ -43,6 +43,15 @@ var ships = {
     "Ship of the line": {"base": 42, "max_crew": 250, "cargo": 60}
 };
 
+function getID(id){
+   return document.getElementById(id);
+}
+
+var selectedOption = function(id) {
+    var element = getID(id);
+    return element.options[element.selectedIndex].value;
+}
+
 $( "select" )
   .change(function () {
     sumCargo();
@@ -51,22 +60,17 @@ $( "select" )
 
 
 function sumCargo() {
-    sa = document.getElementById("ship1");
-    s1 = sa.options[sa.selectedIndex].value;
-    sb = document.getElementById("ship2");
-    s2 = sb.options[sb.selectedIndex].value;
-    sc = document.getElementById("ship3");
-    s3 = sc.options[sc.selectedIndex].value;    
-    sd = document.getElementById("ship4");
-    s4 = sd.options[sd.selectedIndex].value;
-    se = document.getElementById("ship5");
-    s5 = se.options[se.selectedIndex].value;
+    var s1 = selectedOption('ship1');
+    var s2 = selectedOption('ship2');  
+    var s3 = selectedOption('ship3'); 
+    var s4 = selectedOption('ship4');
+    var s5 = selectedOption('ship5');
     var a = ships[s1]["cargo"];
     var b = ships[s2]["cargo"];
     var c = ships[s3]["cargo"];
     var d = ships[s4]["cargo"];
     var e = ships[s5]["cargo"];
-    return document.getElementById("cargo").value = a+b+c+d+e;
+    return getID("cargo").value = a+b+c+d+e;
 }
 
 function gg(e) {
@@ -74,8 +78,8 @@ function gg(e) {
     split = g.split('-');
     first = split[0];
     second = split[1];
-    document.getElementById('portA').value = first;
-    document.getElementById('portB').value = second;
+    getID('portA').value = first;
+    getID('portB').value = second;
 
     return workaround();
 }
@@ -88,31 +92,31 @@ function addEvent(element, evnt, funct){
 }
 
 addEvent(
-    document.getElementById('link'),
+    getID('link'),
     'click',
     function () { max(); }
 );
 
 addEvent(
-    document.getElementById('link2'),
+    getID('link2'),
     'click',
     function () { sumCargo(); }
 );
 
 addEvent(
-    document.getElementById('linksave'),
+    getID('linksave'),
     'click',
     function () { save(); }
 );
 
 addEvent(
-    document.getElementById('linkload'),
+    getID('linkload'),
     'click',
     function () { load(); }
 );
 
 addEvent(
-    document.getElementById('clear'),
+    getID('clear'),
     'click',
     function () { resetForm(); }
 );
@@ -141,7 +145,7 @@ if (!String.prototype.includes) {
 
 function max() {
     var m = ships[getShips()]["max_crew"];
-    document.getElementById("quantity").value = m;
+    getID("quantity").value = m;
     return workaround();
 }
 
@@ -153,14 +157,14 @@ function workaround() {
 }
 
 function resetForm() {
-    document.getElementById("calc").reset();
-    document.getElementById("totalTime").innerHTML = "";
-    document.getElementById("totalProfit").innerHTML = "";
+    getID("calc").reset();
+    getID("totalTime").innerHTML = "";
+    getID("totalProfit").innerHTML = "";
 }
 
 function getByKey() {
-    var a = document.getElementById("portA").value;
-    var b = document.getElementById("portB").value;
+    var a = getID("portA").value;
+    var b = getID("portB").value;
     var key1 = a + "-" + b;
     var key2 = b + "-" + a;
     var proff = 0;
@@ -175,11 +179,11 @@ function getByKey() {
 }
 
 function save() {
-    var input1 = document.getElementById('ship1');
-    var input2 = document.getElementById('ship2');
-    var input3 = document.getElementById('ship3');
-    var input4 = document.getElementById('ship4');
-    var input5 = document.getElementById('ship5');
+    var input1 = getID('ship1');
+    var input2 = getID('ship2');
+    var input3 = getID('ship3');
+    var input4 = getID('ship4');
+    var input5 = getID('ship5');
     localStorage['ship1'] = input1.value;
     localStorage['ship2'] = input2.value;
     localStorage['ship3'] = input3.value;
@@ -188,11 +192,11 @@ function save() {
 }
 
 function load() {
-    var input1 = document.getElementById('ship1');
-    var input2 = document.getElementById('ship2');
-    var input3 = document.getElementById('ship3');
-    var input4 = document.getElementById('ship4');
-    var input5 = document.getElementById('ship5');
+    var input1 = getID('ship1');
+    var input2 = getID('ship2');
+    var input3 = getID('ship3');
+    var input4 = getID('ship4');
+    var input5 = getID('ship5');
     input1.value = localStorage['ship1'];
     input2.value = localStorage['ship2'];
     input3.value = localStorage['ship3'];
@@ -202,16 +206,13 @@ function load() {
 }
 
 function getShips() {
-    s = document.getElementById("ship");
-    s1 = s.options[s.selectedIndex].value;
+    var s1 = selectedOption('ship');
     return s1;
 }
 
 function getDistance() {
-    var pA = document.getElementById("portA");
-    var pAv = pA.options[pA.selectedIndex].value;
-    var pB = document.getElementById("portB");
-    var pBv = pB.options[pB.selectedIndex].value;
+    var pAv = selectedOption('portA');
+    var pBv = selectedOption('portB');
     var x = Math.abs(ports[pAv]["x_cd"] - ports[pBv]["x_cd"]);
     var y = Math.abs(ports[pAv]["y_cd"] - ports[pBv]["y_cd"]);
     var total = x + y;
@@ -224,17 +225,13 @@ function getSpeed() {
 //Ship speed = Base Ship Speed * ((Current Crew / Max Crew) + 1) / 2
 //Final Ship Speed = Ship Speed + (Ship Speed * Double Hammocks / 100)
 
-    var c = document.getElementById("cotton");
-    var c1 = c.options[c.selectedIndex].value;
-    var h = document.getElementById("hammocks");
-    var h1 = h.options[h.selectedIndex].value;
-    var ccrew = document.getElementById("quantity").value;
-    var sk = document.getElementById("skies");
-    var sk1 = sk.options[sk.selectedIndex].value;
-    var w = document.getElementById("winds");
-    var w1 = w.options[w.selectedIndex].value;
-    var g = document.getElementById("galleons");
-    var g1 = g.options[g.selectedIndex].value;
+    var ccrew = getID("quantity").value;
+    var c1 = selectedOption('cotton');
+    var h1 = selectedOption('hammocks');
+    var sk1 = selectedOption('skies');
+    var w1 = selectedOption('winds');
+    var g1 = selectedOption('galleons');
+
     var basespeed = ships[getShips()]["base"] + (ships[getShips()]["base"] * 3 * c1 / 100);
     var shipspeed = basespeed * ((ccrew / ships[getShips()]["max_crew"]) + 1) / 2;
     var finalspeed = shipspeed + (shipspeed * h1 / 100);
@@ -269,7 +266,7 @@ function getTime() {
 
     var time = getDistance() / getSpeed();
 
-    document.getElementById("totalTime").innerHTML = "Time till arrival:  " + secondsToHms(time);
+    getID("totalTime").innerHTML = "Time till arrival:  " + secondsToHms(time);
 
     return time;
 
@@ -287,8 +284,8 @@ function minTrip() {
 
 function tradeCalc() {
     var trips = 86400 / minTrip();
-    var cargo = document.getElementById("cargo").value;
+    var cargo = getID("cargo").value;
     var pr = Math.round((trips * getByKey()) * cargo);
     
-    document.getElementById("totalProfit").innerHTML = "Profit per day ~ " + pr;
+    getID("totalProfit").innerHTML = "Profit per day ~ " + pr;
 }
