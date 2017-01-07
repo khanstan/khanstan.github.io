@@ -287,5 +287,5 @@ function tradeCalc() {
     var cargo = getID("cargo").value;
     var pr = Math.round((trips * getByKey()) * cargo);
     
-    getID("totalProfit").innerHTML = "Profit per day ~ " + pr;
+    getID("totalProfit").innerHTML = "Profit per day ~ <img src='gold_coins.gif'>" + pr;
 }
