@@ -5,11 +5,11 @@
 
 "Seaglory-Caspian":0.0,
 
-"Seaglory-Goroum":4.0,
+"Seaglory-Goroum":6.0,
 
 "Seaglory-Tzogos":3.0,
 
-"Seaglory-Prote":5.0,
+"Seaglory-Prote":4.0,
 
 "Seaglory-Hannes":3.0,
 
@@ -21,7 +21,7 @@
 
 "Seaglory-Regis":5.0,
 
-"Seaglory-Newland":4.0,
+"Seaglory-Newland":6.0,
 
 "Seaglory-Akrotiri":9.0,
 
@@ -31,7 +31,7 @@
 
 "Seaglory-Neapolis":0.0,
 
-"Seaglory-Chalkos":4.0,
+"Seaglory-Chalkos":6.0,
 
 "Seaglory-Thorakas":4.0,
 
@@ -39,7 +39,7 @@
 
 "Seaglory-Pania":5.0,
 
-"Seaglory-Aiora":4.0,
+"Seaglory-Aiora":5.0,
 
 "Baramas-Baramas":0.0,
 
@@ -49,9 +49,9 @@
 
 "Baramas-Tzogos":8.0,
 
-"Baramas-Prote":4.0,
+"Baramas-Prote":5.0,
 
-"Baramas-Hannes":5.0,
+"Baramas-Hannes":3.0,
 
 "Baramas-Kanoni":2.0,
 
@@ -59,27 +59,27 @@
 
 "Baramas-Tortuga":3.0,
 
-"Baramas-Regis":8.0,
+"Baramas-Regis":6.0,
 
 "Baramas-Newland":3.0,
 
 "Baramas-Akrotiri":0.0,
 
-"Baramas-Gasp":7.0,
+"Baramas-Gasp":5.0,
 
-"Baramas-Psaral":7.0,
+"Baramas-Psaral":5.0,
 
 "Baramas-Neapolis":4.0,
 
-"Baramas-Chalkos":6.0,
+"Baramas-Chalkos":2.0,
 
-"Baramas-Thorakas":6.0,
+"Baramas-Thorakas":4.0,
 
 "Baramas-Vaasburg":5.0,
 
 "Baramas-Pania":0.0,
 
-"Baramas-Aiora":3.0,
+"Baramas-Aiora":4.0,
 
 "Caspian-Caspian":0.0,
 
@@ -87,7 +87,7 @@
 
 "Caspian-Tzogos":3.0,
 
-"Caspian-Prote":5.0,
+"Caspian-Prote":4.0,
 
 "Caspian-Hannes":3.0,
 
@@ -117,17 +117,17 @@
 
 "Caspian-Pania":7.0,
 
-"Caspian-Aiora":4.0,
+"Caspian-Aiora":5.0,
 
 "Goroum-Goroum":0.0,
 
 "Goroum-Tzogos":3.0,
 
-"Goroum-Prote":7.0,
+"Goroum-Prote":8.0,
 
 "Goroum-Hannes":3.0,
 
-"Goroum-Kanoni":5.0,
+"Goroum-Kanoni":7.0,
 
 "Goroum-St. Martins":5.0,
 
@@ -137,87 +137,87 @@
 
 "Goroum-Newland":0.0,
 
-"Goroum-Akrotiri":9.0,
+"Goroum-Akrotiri":5.0,
 
-"Goroum-Gasp":7.0,
+"Goroum-Gasp":4.0,
 
-"Goroum-Psaral":5.0,
+"Goroum-Psaral":8.0,
 
-"Goroum-Neapolis":4.0,
+"Goroum-Neapolis":7.0,
 
 "Goroum-Chalkos":0.0,
 
-"Goroum-Thorakas":6.0,
+"Goroum-Thorakas":5.0,
 
 "Goroum-Vaasburg":6.0,
 
 "Goroum-Pania":4.0,
 
-"Goroum-Aiora":6.0,
+"Goroum-Aiora":9.0,
 
 "Tzogos-Tzogos":0.0,
 
-"Tzogos-Prote":4.0,
+"Tzogos-Prote":3.0,
 
-"Tzogos-Hannes":2.0,
+"Tzogos-Hannes":4.0,
 
 "Tzogos-Kanoni":2.0,
 
-"Tzogos-St. Martins":7.0,
+"Tzogos-St. Martins":8.0,
 
 "Tzogos-Tortuga":3.0,
 
 "Tzogos-Regis":0.0,
 
-"Tzogos-Newland":5.0,
+"Tzogos-Newland":3.0,
 
-"Tzogos-Akrotiri":6.0,
+"Tzogos-Akrotiri":8.0,
 
 "Tzogos-Gasp":0.0,
 
-"Tzogos-Psaral":4.0,
+"Tzogos-Psaral":6.0,
 
-"Tzogos-Neapolis":2.0,
+"Tzogos-Neapolis":5.0,
 
 "Tzogos-Chalkos":3.0,
 
-"Tzogos-Thorakas":3.0,
+"Tzogos-Thorakas":5.0,
 
 "Tzogos-Vaasburg":5.0,
 
-"Tzogos-Pania":5.0,
+"Tzogos-Pania":7.0,
 
-"Tzogos-Aiora":3.0,
+"Tzogos-Aiora":4.0,
 
 "Prote-Prote":0.0,
 
-"Prote-Hannes":4.0,
+"Prote-Hannes":3.0,
 
 "Prote-Kanoni":0.0,
 
-"Prote-St. Martins":8.0,
+"Prote-St. Martins":5.0,
 
-"Prote-Tortuga":7.0,
+"Prote-Tortuga":4.0,
 
-"Prote-Regis":6.0,
+"Prote-Regis":5.0,
 
-"Prote-Newland":5.0,
+"Prote-Newland":4.0,
 
-"Prote-Akrotiri":6.0,
+"Prote-Akrotiri":9.0,
 
-"Prote-Gasp":8.0,
+"Prote-Gasp":7.0,
 
-"Prote-Psaral":6.0,
+"Prote-Psaral":5.0,
 
-"Prote-Neapolis":8.0,
+"Prote-Neapolis":3.0,
 
-"Prote-Chalkos":4.0,
+"Prote-Chalkos":3.0,
 
-"Prote-Thorakas":5.0,
+"Prote-Thorakas":4.0,
 
-"Prote-Vaasburg":9.0,
+"Prote-Vaasburg":6.0,
 
-"Prote-Pania":6.0,
+"Prote-Pania":7.0,
 
 "Prote-Aiora":0.0,
 
@@ -225,13 +225,13 @@
 
 "Hannes-Kanoni":6.0,
 
-"Hannes-St. Martins":6.0,
+"Hannes-St. Martins":7.0,
 
 "Hannes-Tortuga":3.0,
 
 "Hannes-Regis":4.0,
 
-"Hannes-Newland":4.0,
+"Hannes-Newland":3.0,
 
 "Hannes-Akrotiri":4.0,
 
@@ -249,7 +249,7 @@
 
 "Hannes-Pania":3.0,
 
-"Hannes-Aiora":3.0,
+"Hannes-Aiora":4.0,
 
 "Kanoni-Kanoni":0.0,
 
@@ -261,13 +261,13 @@
 
 "Kanoni-Newland":3.0,
 
-"Kanoni-Akrotiri":4.0,
+"Kanoni-Akrotiri":6.0,
 
 "Kanoni-Gasp":6.0,
 
 "Kanoni-Psaral":8.0,
 
-"Kanoni-Neapolis":10.0,
+"Kanoni-Neapolis":6.0,
 
 "Kanoni-Chalkos":2.0,
 
@@ -283,13 +283,13 @@
 
 "St. Martins-Tortuga":0.0,
 
-"St. Martins-Regis":9.0,
+"St. Martins-Regis":10.0,
 
 "St. Martins-Newland":5.0,
 
 "St. Martins-Akrotiri":11.0,
 
-"St. Martins-Gasp":8.0,
+"St. Martins-Gasp":12.0,
 
 "St. Martins-Psaral":11.0,
 
@@ -297,13 +297,13 @@
 
 "St. Martins-Chalkos":8.0,
 
-"St. Martins-Thorakas":7.0,
+"St. Martins-Thorakas":8.0,
 
 "St. Martins-Vaasburg":0.0,
 
 "St. Martins-Pania":5.0,
 
-"St. Martins-Aiora":5.0,
+"St. Martins-Aiora":6.0,
 
 "Tortuga-Tortuga":0.0,
 
@@ -313,9 +313,9 @@
 
 "Tortuga-Akrotiri":10.0,
 
-"Tortuga-Gasp":4.0,
+"Tortuga-Gasp":7.0,
 
-"Tortuga-Psaral":8.0,
+"Tortuga-Psaral":7.0,
 
 "Tortuga-Neapolis":3.0,
 
@@ -327,11 +327,11 @@
 
 "Tortuga-Pania":4.0,
 
-"Tortuga-Aiora":4.0,
+"Tortuga-Aiora":5.0,
 
 "Regis-Regis":0.0,
 
-"Regis-Newland":7.0,
+"Regis-Newland":5.0,
 
 "Regis-Akrotiri":6.0,
 
@@ -339,7 +339,7 @@
 
 "Regis-Psaral":6.0,
 
-"Regis-Neapolis":4.0,
+"Regis-Neapolis":7.0,
 
 "Regis-Chalkos":5.0,
 
@@ -349,27 +349,27 @@
 
 "Regis-Pania":5.0,
 
-"Regis-Aiora":5.0,
+"Regis-Aiora":6.0,
 
 "Newland-Newland":0.0,
 
-"Newland-Akrotiri":9.0,
+"Newland-Akrotiri":5.0,
 
-"Newland-Gasp":9.0,
+"Newland-Gasp":4.0,
 
-"Newland-Psaral":6.0,
+"Newland-Psaral":8.0,
 
-"Newland-Neapolis":4.0,
+"Newland-Neapolis":7.0,
 
 "Newland-Chalkos":0.0,
 
-"Newland-Thorakas":7.0,
+"Newland-Thorakas":5.0,
 
 "Newland-Vaasburg":6.0,
 
 "Newland-Pania":4.0,
 
-"Newland-Aiora":4.0,
+"Newland-Aiora":5.0,
 
 "Akrotiri-Akrotiri":0.0,
 
@@ -379,7 +379,7 @@
 
 "Akrotiri-Neapolis":7.0,
 
-"Akrotiri-Chalkos":12.0,
+"Akrotiri-Chalkos":4.0,
 
 "Akrotiri-Thorakas":5.0,
 
@@ -387,41 +387,41 @@
 
 "Akrotiri-Pania":0.0,
 
-"Akrotiri-Aiora":5.0,
+"Akrotiri-Aiora":8.0,
 
 "Gasp-Gasp":0.0,
 
 "Gasp-Psaral":5.0,
 
-"Gasp-Neapolis":3.0,
+"Gasp-Neapolis":6.0,
 
-"Gasp-Chalkos":7.0,
+"Gasp-Chalkos":4.0,
 
 "Gasp-Thorakas":4.0,
 
-"Gasp-Vaasburg":6.0,
+"Gasp-Vaasburg":9.0,
 
 "Gasp-Pania":4.0,
 
-"Gasp-Aiora":7.0,
+"Gasp-Aiora":8.0,
 
 "Psaral-Psaral":0.0,
 
 "Psaral-Neapolis":4.0,
 
-"Psaral-Chalkos":4.0,
+"Psaral-Chalkos":7.0,
 
 "Psaral-Thorakas":0.0,
 
-"Psaral-Vaasburg":10.0,
+"Psaral-Vaasburg":9.0,
 
 "Psaral-Pania":5.0,
 
-"Psaral-Aiora":5.0,
+"Psaral-Aiora":6.0,
 
 "Neapolis-Neapolis":0.0,
 
-"Neapolis-Chalkos":4.0,
+"Neapolis-Chalkos":7.0,
 
 "Neapolis-Thorakas":3.0,
 
@@ -429,17 +429,17 @@
 
 "Neapolis-Pania":3.0,
 
-"Neapolis-Aiora":7.0,
+"Neapolis-Aiora":4.0,
 
 "Chalkos-Chalkos":0.0,
 
-"Chalkos-Thorakas":5.0,
+"Chalkos-Thorakas":4.0,
 
 "Chalkos-Vaasburg":9.0,
 
-"Chalkos-Pania":7.0,
+"Chalkos-Pania":3.0,
 
-"Chalkos-Aiora":3.0,
+"Chalkos-Aiora":4.0,
 
 "Thorakas-Thorakas":0.0,
 
@@ -447,18 +447,18 @@
 
 "Thorakas-Pania":4.0,
 
-"Thorakas-Aiora":4.0,
+"Thorakas-Aiora":5.0,
 
 "Vaasburg-Vaasburg":0.0,
 
 "Vaasburg-Pania":6.0,
 
-"Vaasburg-Aiora":6.0,
+"Vaasburg-Aiora":7.0,
 
 "Pania-Pania":0.0,
 
-"Pania-Aiora":5.0,
+"Pania-Aiora":6.0,
 
 "Aiora-Aiora":0.0,
 
-"timestamp" : { "server" :1483866879}}
+"timestamp" : { "server" :1484092862}}
