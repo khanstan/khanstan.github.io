@@ -1,7 +1,7 @@
 ﻿/*
  * 
  * TableSorter 2.0a - Client-side table sorting with ease!
- * Version 2.0.5b
+ * Version 2.0.5
  * @requires jQuery v1.2.3
  * 
  * Copyright (c) 2007 Christian Bach
