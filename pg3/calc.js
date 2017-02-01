@@ -157,6 +157,7 @@ function workaround() {
     getTime();
     sumCargo();
     tradeCalc();
+    max();
 }
 
 function resetForm() {
