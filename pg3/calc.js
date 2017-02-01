@@ -125,6 +125,9 @@ window.addEventListener('input', function (e) {
  tradeCalc();
 }, false);
 
+getID("quantity").addEventListener('change', function (e) {
+ max();
+}, false);
 
 // Polyfill .includes for older browsers
 
