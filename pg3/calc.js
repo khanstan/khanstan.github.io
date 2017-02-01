@@ -157,7 +157,6 @@ function workaround() {
     getTime();
     sumCargo();
     tradeCalc();
-    max();
 }
 
 function resetForm() {
@@ -189,12 +188,14 @@ function save() {
     var input3 = getID('ship3');
     var input4 = getID('ship4');
     var input5 = getID('ship5');
+    var input6 = getID('quantity');
     localStorage['ship'] = input0.value;
     localStorage['ship1'] = input1.value;
     localStorage['ship2'] = input2.value;
     localStorage['ship3'] = input3.value;
     localStorage['ship4'] = input4.value;
     localStorage['ship5'] = input5.value;
+    localStorage['quantity'] = input6.value;
 }
 
 function load() {
@@ -204,12 +205,14 @@ function load() {
     var input3 = getID('ship3');
     var input4 = getID('ship4');
     var input5 = getID('ship5');
+    var input6 = getID('quantity')
     input0.value = localStorage['ship']
     input1.value = localStorage['ship1'];
     input2.value = localStorage['ship2'];
     input3.value = localStorage['ship3'];
     input4.value = localStorage['ship4'];
     input5.value = localStorage['ship5'];
+    input6.value = localStorage['quantity']
     return workaround();
 }
 
