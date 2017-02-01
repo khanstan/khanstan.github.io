@@ -125,7 +125,7 @@ window.addEventListener('input', function (e) {
  tradeCalc();
 }, false);
 
-getID("quantity").addEventListener('change', function (e) {
+getID("ship").addEventListener('change', function (e) {
  max();
 }, false);
 
