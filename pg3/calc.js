@@ -203,7 +203,7 @@ function load() {
     var input3 = getID('ship3');
     var input4 = getID('ship4');
     var input5 = getID('ship5');
-    input0.valie = localStorage['ship'];
+    input0.value = localStorage['ship']
     input1.value = localStorage['ship1'];
     input2.value = localStorage['ship2'];
     input3.value = localStorage['ship3'];
