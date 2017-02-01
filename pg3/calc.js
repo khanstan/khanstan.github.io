@@ -182,11 +182,13 @@ function getByKey() {
 }
 
 function save() {
+    var input0 = getID('ship');
     var input1 = getID('ship1');
     var input2 = getID('ship2');
     var input3 = getID('ship3');
     var input4 = getID('ship4');
     var input5 = getID('ship5');
+    localStorage['ship'] = input0.value;
     localStorage['ship1'] = input1.value;
     localStorage['ship2'] = input2.value;
     localStorage['ship3'] = input3.value;
@@ -195,11 +197,13 @@ function save() {
 }
 
 function load() {
+    var input0 = getID('ship');
     var input1 = getID('ship1');
     var input2 = getID('ship2');
     var input3 = getID('ship3');
     var input4 = getID('ship4');
     var input5 = getID('ship5');
+    input0.valie = localStorage['ship'];
     input1.value = localStorage['ship1'];
     input2.value = localStorage['ship2'];
     input3.value = localStorage['ship3'];
