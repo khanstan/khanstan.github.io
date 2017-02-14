@@ -32,7 +32,7 @@ var sliced = ordKeys.slice(0,20)
 for (var i = 0, len = sliced.length; i < len; i +=1) {
     key = sliced[i]
     ind = [i+1]
-    rows +=  "<tr class = 'myTableRow'><td class = 'myTableData'>"+ "#" + ind + ". " + '<td onclick="gg(this)" id = myTablePorts>' + key + "</td></td><td>" + '<img src="gold_coins.gif" style = "width:14px;height:14px;" alt="MDN">  ' + obj[key] + "</td></tr>";
+    rows +=  "<tr class = 'myTableRow'><td class = 'myTableData'>"+ "#" + ind + ". " + '<td onclick="gg(this)" id = myTablePorts>' + key + "</td></td><td>" + '<img src="resources/gold_coins.gif" style = "width:14px;height:14px;" alt="MDN">  ' + obj[key] + "</td></tr>";
 }
 
 
@@ -59,5 +59,3 @@ jQuery(document).ready(function(){
   $(rows).appendTo( "#itemList tbody" );
   msToTime();
 });
-
-

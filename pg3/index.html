@@ -7,7 +7,7 @@
     <title>Travel calculator</title>
     <meta name="description" content="Travel calculator for piratesglory.com">
     <meta name="author" content="KhanStan">
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="resources/favicon.ico">
     <link rel="stylesheet" href="styles.css">
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 
@@ -25,7 +25,7 @@
     <legend>Travel Calc!</legend>
     <center>
     <label >Port A:</label>
- 
+
     <select id="portA" name="portA">
     <option value="Kanoni">Kanoni</option>
     <option value="Baramas">Baramas</option>
@@ -52,7 +52,7 @@
 
 
     <label>Port B:</label>
- 
+
     <select id="portB" name="portB">
     <option value="Kanoni">Kanoni</option>
     <option value="Baramas">Baramas</option>
@@ -106,9 +106,9 @@
     <input type="number" min="25" max="250" step="1"  name="quantity" id="quantity" value="15" onkeypress='return event.charCode >= 48 && event.charCode <= 57' />
     <sub id="link">[max]</sub>
         <hr>
-    <img src="double_hammocks.gif" alt="MDN">
+    <img src="resources/double_hammocks.gif" alt="MDN">
     <label>Double Hammocks:</label>
- 
+
     <select id="hammocks" name="ship">
     <option value="0">0</option>
     <option value="1">1</option>
@@ -122,9 +122,9 @@
     <option value="9">9</option>
     <option value="10">10</option>
     </select>
-    <img src="cotton_sails.gif" alt="MDN">
+    <img src="resources/cotton_sails.gif" alt="MDN">
     <label>Cotton Sails:</label>
- 
+
     <select id="cotton" name="ship">
     <option value="0">0</option>
     <option value="1">1</option>
@@ -141,7 +141,7 @@
     <hr>
 
     <label>Control the skies:</label>
- 
+
     <select id="skies" name="ship">
     <option value="0">0</option>
     <option value="1">1</option>
@@ -150,9 +150,9 @@
     <option value="4">4</option>
     <option value="5">5</option>
     </select>
- 
+
     <label>Favourable winds:</label>
- 
+
     <select id="winds" name="ship">
     <option value="0">0</option>
     <option value="1">1</option>
@@ -165,14 +165,14 @@
     <hr>
 
     <label>Spanish galleons:</label>
- 
+
     <select id="galleons" name="ship">
     <option value="0">Not learned</option>
     <option value="1">Level 1.</option>
     <option value="2">Level 2.</option>
     <option value="3">Level 3.</option>
     <option value="4">Level 4.</option>
-    <option value="5">Level 5.</option>    
+    <option value="5">Level 5.</option>
     <option value="6">Level 6.</option>
     <option value="7">Level 7.</option>
     <option value="8">Level 8.</option>
@@ -309,7 +309,7 @@
 
 
 
-<h2>Most profitable routes:</h2>
+<h2>Highest Price Differences:</h2>
 <div id="lastupdate"></div>
 <table id="itemList" class='myTable'>
     <thead>
@@ -324,6 +324,21 @@
     </tbody>
 </table>
 </center>
+
+<a class = "menu" href="https://github.com/khanstan">
+  <div id="btn1" class="button">
+    <p class="pmenu">GitHub</p>
+    <img class="imenu" src="resources/github.png">
+  </div>
+</a>
+
+<a class = "menu" href="http://s2.piratesglory.com/show_char2.php?feed=35300">
+  <div id="btn2" class="button">
+    <p class="pmenu">Pirates Glory</p>
+    <img class="imenu" src="resources/pirates.png">
+  </div>
+</a>
+
 
 <script src="trade.js"></script>
 <script src="calc.js"></script>
