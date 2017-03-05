@@ -17,7 +17,7 @@ function getJSON(url) {
 
 
 
-var str = getJSON('data.json') ;
+var str = getJSON('resources/data.json') ;
 
 var obj = jQuery.parseJSON(str);
 

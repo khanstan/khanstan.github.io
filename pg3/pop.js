@@ -17,8 +17,8 @@ function getJSON(url) {
 
 
 
-var str1 = getJSON('old.json');
-var str2 = getJSON('new.json');
+var str1 = getJSON('resources/old.json');
+var str2 = getJSON('resources/new.json');
 
 var obj1 = jQuery.parseJSON(str1);
 var obj2 = jQuery.parseJSON(str2);

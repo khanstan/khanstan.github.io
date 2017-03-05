@@ -17,7 +17,6 @@ img {
 
 h2 {
 	color: #ffffff;
-
 }
 
 a {
@@ -28,7 +27,7 @@ a {
 
 .fieldset-auto-width {
     display: inline-block;
-    width: 380px;
+    width: 330px;
     background: #21170c;
     color: #fff;
     font-family: "Trebuchet MS";
@@ -105,6 +104,9 @@ thead {
 	color: #ffffff;
 	font-size: 12px;
 	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align = center;
 }
 
 tbody tr:hover {
