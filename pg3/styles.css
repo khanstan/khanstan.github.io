@@ -20,6 +20,12 @@ h2 {
 
 }
 
+a {
+	color: #f90;
+	cursor:pointer;
+	text-decoration:underline;
+}
+
 .fieldset-auto-width {
     display: inline-block;
     width: 380px;

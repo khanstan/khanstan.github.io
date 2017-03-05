@@ -1,0 +1,64 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#A7A1AE;
+  background-color:#181818;
+}
+
+.table-fill td {
+	  font-weight: normal;
+	  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+	   -moz-box-shadow: 0 2px 2px -2px #0E1119;
+	        box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.table-fill  {
+  text-align: left;
+  overflow: hidden;
+  width: 45%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+.table-fill td, .table-fill th {
+	padding-bottom: 1%;
+	padding-top: 1%;
+  padding-left:2%;
+}
+
+/* Background-color of the odd rows */
+.table-fill tr:nth-child(odd) {
+	  background-color: #323C50;
+}
+
+/* Background-color of the even rows */
+.table-fill tr:nth-child(even) {
+	  background-color: #2C3446;
+}
+
+.table-fill th {
+	  background-color: #1F2739;
+}
+
+.table-fill td:first-child { color: #FB667A; }
+
+.table-fill th h1 {
+	  font-weight: bold;
+	  font-size: 1em;
+  text-align: left;
+  color: #187172;
+}
+
+.negative {
+  color: #ff4040;
+}
+
+.positive {
+  color: #1eff00;
+}
