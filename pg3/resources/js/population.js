@@ -28,8 +28,6 @@ var rows = "";
 
 var map = obj3['url']
 
-var
-
 for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
     ind = [i+1];
     key = Object.keys(obj1)[i];
