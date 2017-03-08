@@ -15,7 +15,12 @@
   <![endif]-->
 </head>
 <body>
-<table id = "dataTable" class = "table-fill">
+
+<header>
+  Population fluctuations between last two updates!
+</header>
+
+<table id="dataTable" class="table-fill">
   <tr>
     <th><h1>Port</h1></th>
     <th><h1>Yesterday</h1></th>
@@ -23,6 +28,23 @@
     <th><h1>Difference</h1></th>
   </tr>
 </table>
+
+  <!-- Trigger the Modal -->
+<img id="map" width="300" height="200">
+
+  <!-- The Modal -->
+<div id="mapModal" class="modal">
+
+    <!-- The Close Button -->
+<span id="close" class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+    <!-- Modal Content (The Image) -->
+<img class="modal-content" id="map01">
+
+    <!-- Modal Caption (Image Text) -->
+<div id="caption"></div>
+
+</div>
 
 <script src="resources/js/population.js"></script>
 </body>

@@ -27,6 +27,34 @@ var obj3 = jQuery.parseJSON(str3);
 var rows = "";
 
 var map = obj3['url']
+$("#map").attr("src", map);
+// Get the modal
+var modal = document.getElementById('mapModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('map');
+var modalImg = document.getElementById("map01");
+
+modal.addEventListener('click', function(){
+  this.style.display="none";
+})
+
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = 'Avonmora Today';
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+
 
 for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
     ind = [i+1];
