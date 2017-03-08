@@ -19,11 +19,16 @@ function getJSON(url) {
 
 var str1 = getJSON('resources/old.json');
 var str2 = getJSON('resources/new.json');
-
+var str3 = getJSON('resources/map.json');
 var obj1 = jQuery.parseJSON(str1);
 var obj2 = jQuery.parseJSON(str2);
+var obj3 = jQuery.parseJSON(str3);
 
 var rows = "";
+
+var map = obj3['url']
+
+var
 
 for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
     ind = [i+1];
