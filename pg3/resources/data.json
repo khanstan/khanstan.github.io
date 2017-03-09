@@ -5,7 +5,7 @@
 
 "Caspian-Seaglory":0,
 
-"Caspian-Chalkos":5,
+"Caspian-Chalkos":8,
 
 "Caspian-Goroum":3,
 
@@ -13,31 +13,31 @@
 
 "Caspian-Gasp":5,
 
-"Caspian-Regis":4,
+"Caspian-Regis":3,
 
-"Caspian-Tzogos":3,
+"Caspian-Tzogos":4,
 
-"Caspian-Akrotiri":9,
+"Caspian-Akrotiri":10,
 
-"Caspian-Baramas":5,
+"Caspian-Baramas":7,
 
-"Caspian-Pania":4,
+"Caspian-Pania":6,
 
-"Caspian-Hannes":4,
+"Caspian-Hannes":5,
 
-"Caspian-Psaral":5,
+"Caspian-Psaral":4,
 
 "Caspian-Thorakas":3,
 
-"Caspian-St. Martins":9,
+"Caspian-St. Martins":8,
 
-"Caspian-Tortuga":4,
+"Caspian-Tortuga":6,
 
-"Caspian-Vaasburg":6,
+"Caspian-Vaasburg":8,
 
 "Caspian-Aiora":5,
 
-"Caspian-Kanoni":5,
+"Caspian-Kanoni":6,
 
 "Caspian-Prote":4,
 
@@ -45,45 +45,45 @@
 
 "Neapolis-Seaglory":0,
 
-"Neapolis-Chalkos":5,
+"Neapolis-Chalkos":9,
 
-"Neapolis-Goroum":3,
+"Neapolis-Goroum":4,
 
-"Neapolis-Newland":4,
+"Neapolis-Newland":5,
 
-"Neapolis-Gasp":4,
+"Neapolis-Gasp":5,
 
 "Neapolis-Regis":3,
 
-"Neapolis-Tzogos":2,
+"Neapolis-Tzogos":4,
 
 "Neapolis-Akrotiri":7,
 
-"Neapolis-Baramas":3,
+"Neapolis-Baramas":4,
 
-"Neapolis-Pania":2,
+"Neapolis-Pania":3,
 
-"Neapolis-Hannes":3,
+"Neapolis-Hannes":4,
 
-"Neapolis-Psaral":4,
+"Neapolis-Psaral":3,
 
 "Neapolis-Thorakas":2,
 
-"Neapolis-St. Martins":8,
+"Neapolis-St. Martins":5,
 
 "Neapolis-Tortuga":3,
 
 "Neapolis-Vaasburg":5,
 
-"Neapolis-Aiora":7,
+"Neapolis-Aiora":4,
 
-"Neapolis-Kanoni":7,
+"Neapolis-Kanoni":5,
 
-"Neapolis-Prote":6,
+"Neapolis-Prote":3,
 
 "Seaglory-Seaglory":0,
 
-"Seaglory-Chalkos":5,
+"Seaglory-Chalkos":8,
 
 "Seaglory-Goroum":3,
 
@@ -91,23 +91,23 @@
 
 "Seaglory-Gasp":5,
 
-"Seaglory-Regis":4,
+"Seaglory-Regis":3,
 
-"Seaglory-Tzogos":3,
+"Seaglory-Tzogos":4,
 
-"Seaglory-Akrotiri":8,
+"Seaglory-Akrotiri":7,
 
 "Seaglory-Baramas":4,
 
 "Seaglory-Pania":3,
 
-"Seaglory-Hannes":4,
+"Seaglory-Hannes":5,
 
-"Seaglory-Psaral":5,
+"Seaglory-Psaral":4,
 
 "Seaglory-Thorakas":3,
 
-"Seaglory-St. Martins":9,
+"Seaglory-St. Martins":6,
 
 "Seaglory-Tortuga":4,
 
@@ -115,7 +115,7 @@
 
 "Seaglory-Aiora":5,
 
-"Seaglory-Kanoni":5,
+"Seaglory-Kanoni":6,
 
 "Seaglory-Prote":4,
 
@@ -125,33 +125,33 @@
 
 "Chalkos-Newland":0,
 
-"Chalkos-Gasp":10,
+"Chalkos-Gasp":7,
 
 "Chalkos-Regis":5,
 
-"Chalkos-Tzogos":4,
+"Chalkos-Tzogos":7,
 
-"Chalkos-Akrotiri":11,
+"Chalkos-Akrotiri":8,
 
-"Chalkos-Baramas":7,
+"Chalkos-Baramas":4,
 
-"Chalkos-Pania":6,
+"Chalkos-Pania":3,
 
-"Chalkos-Hannes":4,
+"Chalkos-Hannes":5,
 
-"Chalkos-Psaral":5,
+"Chalkos-Psaral":4,
 
-"Chalkos-Thorakas":3,
+"Chalkos-Thorakas":7,
 
-"Chalkos-St. Martins":8,
+"Chalkos-St. Martins":10,
 
-"Chalkos-Tortuga":7,
+"Chalkos-Tortuga":9,
 
-"Chalkos-Vaasburg":9,
+"Chalkos-Vaasburg":11,
 
 "Chalkos-Aiora":5,
 
-"Chalkos-Kanoni":5,
+"Chalkos-Kanoni":3,
 
 "Chalkos-Prote":4,
 
@@ -159,11 +159,11 @@
 
 "Goroum-Newland":0,
 
-"Goroum-Gasp":8,
+"Goroum-Gasp":4,
 
-"Goroum-Regis":3,
+"Goroum-Regis":2,
 
-"Goroum-Tzogos":2,
+"Goroum-Tzogos":4,
 
 "Goroum-Akrotiri":7,
 
@@ -171,11 +171,11 @@
 
 "Goroum-Pania":2,
 
-"Goroum-Hannes":3,
+"Goroum-Hannes":4,
 
-"Goroum-Psaral":4,
+"Goroum-Psaral":3,
 
-"Goroum-Thorakas":2,
+"Goroum-Thorakas":6,
 
 "Goroum-St. Martins":4,
 
@@ -183,19 +183,19 @@
 
 "Goroum-Vaasburg":5,
 
-"Goroum-Aiora":4,
+"Goroum-Aiora":8,
 
-"Goroum-Kanoni":4,
+"Goroum-Kanoni":6,
 
-"Goroum-Prote":3,
+"Goroum-Prote":7,
 
 "Newland-Newland":0,
 
-"Newland-Gasp":9,
+"Newland-Gasp":5,
 
-"Newland-Regis":4,
+"Newland-Regis":3,
 
-"Newland-Tzogos":3,
+"Newland-Tzogos":5,
 
 "Newland-Akrotiri":8,
 
@@ -203,11 +203,11 @@
 
 "Newland-Pania":3,
 
-"Newland-Hannes":4,
+"Newland-Hannes":5,
 
-"Newland-Psaral":5,
+"Newland-Psaral":4,
 
-"Newland-Thorakas":3,
+"Newland-Thorakas":7,
 
 "Newland-St. Martins":5,
 
@@ -215,11 +215,11 @@
 
 "Newland-Vaasburg":6,
 
-"Newland-Aiora":7,
+"Newland-Aiora":6,
 
-"Newland-Kanoni":7,
+"Newland-Kanoni":4,
 
-"Newland-Prote":6,
+"Newland-Prote":5,
 
 "Gasp-Gasp":0,
 
@@ -233,9 +233,9 @@
 
 "Gasp-Pania":4,
 
-"Gasp-Hannes":5,
+"Gasp-Hannes":6,
 
-"Gasp-Psaral":6,
+"Gasp-Psaral":5,
 
 "Gasp-Thorakas":4,
 
@@ -247,63 +247,63 @@
 
 "Gasp-Aiora":6,
 
-"Gasp-Kanoni":6,
+"Gasp-Kanoni":8,
 
-"Gasp-Prote":9,
+"Gasp-Prote":5,
 
 "Regis-Regis":0,
 
 "Regis-Tzogos":0,
 
-"Regis-Akrotiri":5,
+"Regis-Akrotiri":4,
 
-"Regis-Baramas":4,
+"Regis-Baramas":3,
 
-"Regis-Pania":3,
+"Regis-Pania":2,
 
 "Regis-Hannes":4,
 
-"Regis-Psaral":5,
+"Regis-Psaral":3,
 
-"Regis-Thorakas":3,
+"Regis-Thorakas":2,
 
-"Regis-St. Martins":8,
+"Regis-St. Martins":7,
 
-"Regis-Tortuga":4,
+"Regis-Tortuga":3,
 
-"Regis-Vaasburg":6,
+"Regis-Vaasburg":5,
 
-"Regis-Aiora":5,
+"Regis-Aiora":4,
 
-"Regis-Kanoni":5,
+"Regis-Kanoni":6,
 
-"Regis-Prote":8,
+"Regis-Prote":3,
 
 "Tzogos-Tzogos":0,
 
-"Tzogos-Akrotiri":4,
+"Tzogos-Akrotiri":7,
 
-"Tzogos-Baramas":3,
+"Tzogos-Baramas":6,
 
-"Tzogos-Pania":2,
+"Tzogos-Pania":5,
 
-"Tzogos-Hannes":6,
+"Tzogos-Hannes":8,
 
 "Tzogos-Psaral":7,
 
-"Tzogos-Thorakas":5,
+"Tzogos-Thorakas":6,
 
-"Tzogos-St. Martins":7,
+"Tzogos-St. Martins":8,
 
-"Tzogos-Tortuga":3,
+"Tzogos-Tortuga":4,
 
-"Tzogos-Vaasburg":5,
+"Tzogos-Vaasburg":6,
 
-"Tzogos-Aiora":4,
+"Tzogos-Aiora":5,
 
-"Tzogos-Kanoni":4,
+"Tzogos-Kanoni":7,
 
-"Tzogos-Prote":7,
+"Tzogos-Prote":4,
 
 "Akrotiri-Akrotiri":0,
 
@@ -311,37 +311,37 @@
 
 "Akrotiri-Pania":0,
 
-"Akrotiri-Hannes":5,
+"Akrotiri-Hannes":6,
 
-"Akrotiri-Psaral":6,
+"Akrotiri-Psaral":5,
 
 "Akrotiri-Thorakas":4,
 
 "Akrotiri-St. Martins":10,
 
-"Akrotiri-Tortuga":11,
+"Akrotiri-Tortuga":13,
 
 "Akrotiri-Vaasburg":11,
 
-"Akrotiri-Aiora":7,
+"Akrotiri-Aiora":8,
 
-"Akrotiri-Kanoni":5,
+"Akrotiri-Kanoni":6,
 
-"Akrotiri-Prote":10,
+"Akrotiri-Prote":7,
 
 "Baramas-Baramas":0,
 
 "Baramas-Pania":0,
 
-"Baramas-Hannes":8,
+"Baramas-Hannes":9,
 
-"Baramas-Psaral":9,
+"Baramas-Psaral":8,
 
 "Baramas-Thorakas":7,
 
 "Baramas-St. Martins":5,
 
-"Baramas-Tortuga":6,
+"Baramas-Tortuga":8,
 
 "Baramas-Vaasburg":6,
 
@@ -349,27 +349,27 @@
 
 "Baramas-Kanoni":3,
 
-"Baramas-Prote":8,
+"Baramas-Prote":4,
 
 "Pania-Pania":0,
 
-"Pania-Hannes":3,
+"Pania-Hannes":4,
 
-"Pania-Psaral":4,
+"Pania-Psaral":3,
 
 "Pania-Thorakas":2,
 
 "Pania-St. Martins":4,
 
-"Pania-Tortuga":5,
+"Pania-Tortuga":7,
 
 "Pania-Vaasburg":5,
 
-"Pania-Aiora":8,
+"Pania-Aiora":7,
 
-"Pania-Kanoni":6,
+"Pania-Kanoni":5,
 
-"Pania-Prote":11,
+"Pania-Prote":6,
 
 "Hannes-Hannes":0,
 
@@ -377,37 +377,37 @@
 
 "Hannes-Thorakas":0,
 
-"Hannes-St. Martins":6,
+"Hannes-St. Martins":8,
 
-"Hannes-Tortuga":4,
+"Hannes-Tortuga":5,
 
-"Hannes-Vaasburg":6,
+"Hannes-Vaasburg":7,
 
-"Hannes-Aiora":5,
+"Hannes-Aiora":6,
 
 "Hannes-Kanoni":5,
 
-"Hannes-Prote":4,
+"Hannes-Prote":5,
 
 "Psaral-Psaral":0,
 
 "Psaral-Thorakas":0,
 
-"Psaral-St. Martins":12,
+"Psaral-St. Martins":7,
 
-"Psaral-Tortuga":10,
+"Psaral-Tortuga":4,
 
-"Psaral-Vaasburg":12,
+"Psaral-Vaasburg":6,
 
-"Psaral-Aiora":6,
+"Psaral-Aiora":5,
 
-"Psaral-Kanoni":6,
+"Psaral-Kanoni":4,
 
-"Psaral-Prote":5,
+"Psaral-Prote":4,
 
 "Thorakas-Thorakas":0,
 
-"Thorakas-St. Martins":5,
+"Thorakas-St. Martins":6,
 
 "Thorakas-Tortuga":3,
 
@@ -415,7 +415,7 @@
 
 "Thorakas-Aiora":4,
 
-"Thorakas-Kanoni":4,
+"Thorakas-Kanoni":3,
 
 "Thorakas-Prote":3,
 
@@ -429,7 +429,7 @@
 
 "St. Martins-Kanoni":4,
 
-"St. Martins-Prote":7,
+"St. Martins-Prote":8,
 
 "Tortuga-Tortuga":0,
 
@@ -439,7 +439,7 @@
 
 "Tortuga-Kanoni":3,
 
-"Tortuga-Prote":6,
+"Tortuga-Prote":7,
 
 "Vaasburg-Vaasburg":0,
 
@@ -447,7 +447,7 @@
 
 "Vaasburg-Kanoni":5,
 
-"Vaasburg-Prote":8,
+"Vaasburg-Prote":9,
 
 "Aiora-Aiora":0,
 
@@ -461,4 +461,4 @@
 
 "Prote-Prote":0,
 
-"timestamp" : { "server" :1488931336}}
+"timestamp" : { "server" :1489017751}}
