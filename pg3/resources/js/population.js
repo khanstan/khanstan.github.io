@@ -26,8 +26,10 @@ var obj3 = jQuery.parseJSON(str3);
 
 var rows = "";
 
+// Modal starts here
 var map = obj3['url']
 $("#map").attr("src", map);
+
 // Get the modal
 var modal = document.getElementById('mapModal');
 
@@ -54,7 +56,7 @@ span.onclick = function() {
   modal.style.display = "none";
 }
 
-
+// End modal
 
 for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
     ind = [i+1];
