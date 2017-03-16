@@ -63,6 +63,7 @@ for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
     key = Object.keys(obj1)[i];
     yesterday = Number(obj1[key]['pop']);
     today = Number(obj2[key]['pop']);
+    flag = '<img src="http://s2.piratesglory.com/images/countries/' + obj2[key]['controlled_by'] + '.gif">  '
 
     difference = function() {
       var result;
@@ -78,7 +79,7 @@ for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
       return style;
     }
 
-    rows += '<tr><td>' + key + '</td><td>' + yesterday.toLocaleString() + '</td><td>' + today.toLocaleString() + '</td><td' + difference() + '</td></tr>';
+    rows += '<tr><td>'+ flag + key + '</td><td>' + yesterday.toLocaleString() + '</td><td>' + today.toLocaleString() + '</td><td' + difference() + '</td></tr>';
 }
 
 
