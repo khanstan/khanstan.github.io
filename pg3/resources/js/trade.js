@@ -1,8 +1,8 @@
 function getJSON(url) {
-    var resp ;
-    var xmlHttp ;
+    var resp;
+    var xmlHttp;
 
-    resp  = '' ;
+    resp  = '';
     xmlHttp = new XMLHttpRequest();
 
     if(xmlHttp != null)
@@ -12,12 +12,12 @@ function getJSON(url) {
         resp = xmlHttp.responseText;
      }
 
-    return resp ;
+    return resp;
 }
 
 
 
-var str = getJSON('resources/data.json') ;
+var str = getJSON('resources/data.json');
 
 var obj = jQuery.parseJSON(str);
 
@@ -29,7 +29,7 @@ var profitable_ports = {
   'Tortuga-Aiora': obj['Tortuga-Aiora'],
   'Seaglory-Aiora': obj['Seaglory-Aiora'],
   'Seaglory-Vaasburg': obj['Seaglory-Vaasburg']
-}
+};
 
 var rows = "";
 var rows2 = "";

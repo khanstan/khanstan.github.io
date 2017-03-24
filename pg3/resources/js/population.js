@@ -1,8 +1,8 @@
 function getJSON(url) {
-    var resp ;
-    var xmlHttp ;
+    var resp;
+    var xmlHttp;
 
-    resp  = '' ;
+    resp  = '';
     xmlHttp = new XMLHttpRequest();
 
     if(xmlHttp != null)
@@ -12,7 +12,7 @@ function getJSON(url) {
         resp = xmlHttp.responseText;
      }
 
-    return resp ;
+    return resp;
 }
 
 
@@ -63,7 +63,7 @@ for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
     key = Object.keys(obj1)[i];
     yesterday = Number(obj1[key]['pop']);
     today = Number(obj2[key]['pop']);
-    flag = '<img src="http://s2.piratesglory.com/images/countries/' + obj2[key]['controlled_by'] + '.gif">  '
+    flag = '<img src="https://s2.piratesglory.com/images/countries/' + obj2[key]['controlled_by'] + '.gif">  '
 
     difference = function() {
       var result;
