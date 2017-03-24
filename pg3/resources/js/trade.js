@@ -87,12 +87,22 @@ btn.onclick = function () {
       tableB.style.display = "table";
       this.innerText = '[Display all routes]'
     }
-}
+};
 // end switch
 
+(function() {
 
-jQuery(document).ready(function(){
+var tbody1 = document.getElementById('itemList').getElementsByTagName('tbody')[0];
+var tbody2 = document.getElementById('itemList2').getElementsByTagName('tbody')[0];
+
+
+
+tbody1.innerHTML = rows;
+tbody2.innerHTML = rows2;
+})();
+
+/*jQuery(document).ready(function(){
   $(rows).appendTo( "#itemList tbody" );
   $(rows2).appendTo( "#itemList2 tbody" );
   msToTime();
-});
+});*/

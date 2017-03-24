@@ -56,7 +56,7 @@ $( "select" )
   .change(function () {
     sumCargo();
     tradeCalc();
-  })
+  });
 
 
 function sumCargo() {

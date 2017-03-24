@@ -20,15 +20,16 @@ function getJSON(url) {
 var str1 = getJSON('resources/old.json');
 var str2 = getJSON('resources/new.json');
 var str3 = getJSON('resources/map.json');
-var obj1 = jQuery.parseJSON(str1);
-var obj2 = jQuery.parseJSON(str2);
-var obj3 = jQuery.parseJSON(str3);
+var obj1 = JSON.parse(str1);
+var obj2 = JSON.parse(str2);
+var obj3 = JSON.parse(str3);
 
 var rows = "";
 
 // Modal starts here
-var map = obj3['url']
-$("#map").attr("src", map);
+var map = obj3['url'];
+document.getElementById('map').setAttribute('src', map)
+//$("#map").attr("src", map);
 
 // Get the modal
 var modal = document.getElementById('mapModal');
@@ -80,9 +81,16 @@ for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
     }
 
     rows += '<tr><td>'+ flag + key + '</td><td>' + yesterday.toLocaleString() + '</td><td>' + today.toLocaleString() + '</td><td' + difference() + '</td></tr>';
-}
+};
+
+(function() {
+
+var table = document.getElementById('dataTable');
+table.innerHTML = rows;
+    
+})();
 
 
-jQuery(document).ready(function(){
+/*jQuery(document).ready(function(){
   $(rows).appendTo( "#dataTable" );
-});
+});*/
