@@ -19,7 +19,7 @@ function getJSON(url) {
 
 var str = getJSON('resources/data.json');
 
-var obj = jQuery.parseJSON(str);
+var obj = JSON.parse(str);
 
 
 var profitable_ports = {

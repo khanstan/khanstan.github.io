@@ -140,11 +140,6 @@ if (!String.prototype.includes) {
     };
 }
 
-function max() {
-    var m = ships[getShips()].max_crew;
-    getID("quantity").value = m;
-    return workaround();
-}
 
 
 function workaround() {
@@ -200,7 +195,7 @@ function load() {
         input4 = getID('ship4'),
         input5 = getID('ship5'),
         input6 = getID('quantity');
-    input0.value = localStorage.ship
+    input0.value = localStorage.ship;
     input1.value = localStorage.ship1;
     input2.value = localStorage.ship2;
     input3.value = localStorage.ship3;
@@ -230,7 +225,7 @@ function getSpeed() {
 //Ship speed = Base Ship Speed * ((Current Crew / Max Crew) + 1) / 2
 //Final Ship Speed = Ship Speed + (Ship Speed * Double Hammocks / 100)
 
-    var ccrew = getID("quantity").value;
+    var ccrew = getID("quantity").value,
         c1 = selectedOption('cotton'),
         h1 = selectedOption('hammocks'),
         sk1 = selectedOption('skies'),
@@ -310,3 +305,10 @@ for(i = 0; i < selects.length; ++i) {
         tradeCalc();
         max();
 }, false)};
+
+
+function max() {
+    var m = ships[getShips()].max_crew;
+    getID("quantity").value = m;
+    return workaround();
+}
