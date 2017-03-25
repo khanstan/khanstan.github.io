@@ -43,111 +43,105 @@ var ships = {
     "Ship of the line": {"base": 42, "max_crew": 250, "cargo": 60}
 };
 
-function getID(id){
-   return document.getElementById(id);
+function getID(id) {
+    return document.getElementById(id);
 }
 
-var selectedOption = function(id) {
+var selectedOption = function (id) {
     var element = getID(id);
     return element.options[element.selectedIndex].value;
-}
-
-$( "select" )
-  .change(function () {
-    sumCargo();
-    tradeCalc();
-  });
-
+};
 
 function sumCargo() {
-    var s1 = selectedOption('ship1');
-    var s2 = selectedOption('ship2');  
-    var s3 = selectedOption('ship3'); 
-    var s4 = selectedOption('ship4');
-    var s5 = selectedOption('ship5');
-    var a = ships[s1]["cargo"];
-    var b = ships[s2]["cargo"];
-    var c = ships[s3]["cargo"];
-    var d = ships[s4]["cargo"];
-    var e = ships[s5]["cargo"];
-    return getID("cargo").value = a+b+c+d+e;
+    var s1 = selectedOption('ship1'),
+        s2 = selectedOption('ship2'),
+        s3 = selectedOption('ship3'),
+        s4 = selectedOption('ship4'),
+        s5 = selectedOption('ship5'),
+        a = ships[s1].cargo,
+        b = ships[s2].cargo,
+        c = ships[s3].cargo,
+        d = ships[s4].cargo,
+        e = ships[s5].cargo,
+        cargoValue = getID("cargo").value = a + b + c + d + e;
+    return cargoValue;
 }
 
 function gg(e) {
-    g = e.innerText;
-    split = g.split('-');
-    first = split[0];
-    second = split[1];
+    var g = e.innerText,
+        split = g.split('-'),
+        first = split[0],
+        second = split[1];
     getID('portA').value = first;
     getID('portB').value = second;
-
+    
     return workaround();
 }
 
-function addEvent(element, evnt, funct){
-  if (element.attachEvent)
-   return element.attachEvent('on'+evnt, funct);
-  else
-   return element.addEventListener(evnt, funct, false);
+function addEvent(element, evnt, funct) {
+    if (element.attachEvent)
+        return element.attachEvent('on'+evnt, funct);
+    else
+        return element.addEventListener(evnt, funct, false);
 }
 
 addEvent(
     getID('link'),
     'click',
     function () { max(); }
-);
+)
 
 addEvent(
     getID('link2'),
     'click',
     function () { sumCargo(); }
-);
+)
 
 addEvent(
     getID('linksave'),
     'click',
     function () { save(); }
-);
+)
 
 addEvent(
     getID('linkload'),
     'click',
     function () { load(); }
-);
+)
 
 addEvent(
     getID('clear'),
     'click',
     function () { resetForm(); }
-);
+)
 
 window.addEventListener('input', function (e) {
- tradeCalc();
+    tradeCalc();
 }, false);
 
 getID("ship").addEventListener('change', function (e) {
- max();
+    max();
 }, false);
 
 // Polyfill .includes for older browsers
 
 if (!String.prototype.includes) {
-  String.prototype.includes = function(search, start) {
-    'use strict';
-    if (typeof start !== 'number') {
-      start = 0;
-    }
-    
-    if (start + search.length > this.length) {
-      return false;
-    } else {
-      return this.indexOf(search, start) !== -1;
-    }
-  };
+    String.prototype.includes = function (search, start) {
+        'use strict';
+        if (typeof start !== 'number') {
+            start = 0;
+        }
+
+        if (start + search.length > this.length) {
+            return false;
+        } else {
+            return this.indexOf(search, start) !== -1;
+        }
+    };
 }
 
 function max() {
-    var m = ships[getShips()]["max_crew"];
+    var m = ships[getShips()].max_crew;
     getID("quantity").value = m;
     return workaround();
 }
@@ -166,46 +160,46 @@ function resetForm() {
 }
 
 function getByKey() {
-    var a = getID("portA").value;
-    var b = getID("portB").value;
-    var key1 = a + "-" + b;
-    var key2 = b + "-" + a;
-    var proff = 0;
-    var keyz = obj[key1];
-    var keyz1 = obj[key2];
+    var a = getID("portA").value,
+        b = getID("portB").value,
+        key1 = a + "-" + b,
+        key2 = b + "-" + a,
+        proff = 0,
+        keyz = obj[key1],
+        keyz1 = obj[key2];
+    
     if(typeof keyz !== "undefined") {
-        return keyz
-    }
-    else {
-        return keyz1
+        return keyz;
+    } else {
+        return keyz1;
     }
 }
 
 function save() {
-    var input0 = getID('ship');
-    var input1 = getID('ship1');
-    var input2 = getID('ship2');
-    var input3 = getID('ship3');
-    var input4 = getID('ship4');
-    var input5 = getID('ship5');
-    var input6 = getID('quantity');
-    localStorage['ship'] = input0.value;
-    localStorage['ship1'] = input1.value;
-    localStorage['ship2'] = input2.value;
-    localStorage['ship3'] = input3.value;
-    localStorage['ship4'] = input4.value;
-    localStorage['ship5'] = input5.value;
-    localStorage['quantity'] = input6.value;
+    var input0 = getID('ship'),
+        input1 = getID('ship1'),
+        input2 = getID('ship2'),
+        input3 = getID('ship3'),
+        input4 = getID('ship4'),
+        input5 = getID('ship5'),
+        input6 = getID('quantity');
+    localStorage.ship = input0.value;
+    localStorage.ship1 = input1.value;
+    localStorage.ship2 = input2.value;
+    localStorage.ship3 = input3.value;
+    localStorage.ship4 = input4.value;
+    localStorage.ship5 = input5.value;
+    localStorage.quantity = input6.value;
 }
 
 function load() {
-    var input0 = getID('ship');
-    var input1 = getID('ship1');
-    var input2 = getID('ship2');
-    var input3 = getID('ship3');
-    var input4 = getID('ship4');
-    var input5 = getID('ship5');
-    var input6 = getID('quantity')
+    var input0 = getID('ship'),
+        input1 = getID('ship1'),
+        input2 = getID('ship2'),
+        input3 = getID('ship3'),
+        input4 = getID('ship4'),
+        input5 = getID('ship5'),
+        input6 = getID('quantity');
     input0.value = localStorage['ship']
     input1.value = localStorage['ship1'];
     input2.value = localStorage['ship2'];
@@ -222,12 +216,12 @@ function getShips() {
 }
 
 function getDistance() {
-    var pAv = selectedOption('portA');
-    var pBv = selectedOption('portB');
-    var x = Math.abs(ports[pAv]["x_cd"] - ports[pBv]["x_cd"]);
-    var y = Math.abs(ports[pAv]["y_cd"] - ports[pBv]["y_cd"]);
-    var total = x + y;
-    var distance = Math.round(total * 10 * 50);
+    var pAv = selectedOption('portA'),
+        pBv = selectedOption('portB'),
+        x = Math.abs(ports[pAv]["x_cd"] - ports[pBv]["x_cd"]),
+        y = Math.abs(ports[pAv]["y_cd"] - ports[pBv]["y_cd"]),
+        total = x + y,
+        distance = Math.round(total * 10 * 50);
     return distance;
 }
 
@@ -237,15 +231,15 @@ function getSpeed() {
 //Final Ship Speed = Ship Speed + (Ship Speed * Double Hammocks / 100)
 
     var ccrew = getID("quantity").value;
-    var c1 = selectedOption('cotton');
-    var h1 = selectedOption('hammocks');
-    var sk1 = selectedOption('skies');
-    var w1 = selectedOption('winds');
-    var g1 = selectedOption('galleons');
-
-    var basespeed = ships[getShips()]["base"] + (ships[getShips()]["base"] * 3 * c1 / 100);
-    var shipspeed = basespeed * ((ccrew / ships[getShips()]["max_crew"]) + 1) / 2;
-    var finalspeed = shipspeed + (shipspeed * h1 / 100);
+        c1 = selectedOption('cotton'),
+        h1 = selectedOption('hammocks'),
+        sk1 = selectedOption('skies'),
+        w1 = selectedOption('winds'),
+        g1 = selectedOption('galleons'),
+        basespeed = ships[getShips()]["base"] + (ships[getShips()]["base"] * 3 * c1 / 100),
+        shipspeed = basespeed * ((ccrew / ships[getShips()]["max_crew"]) + 1) / 2,
+        finalspeed = shipspeed + (shipspeed * h1 / 100);
+    
     if (g1 > 0 && getShips().includes("alleon")) {
         finalspeed = finalspeed + (finalspeed * g1 * 1.5 / 100);
     }
@@ -265,10 +259,10 @@ function getSpeed() {
 
 }
 function secondsToHms(d) {
-    d = Number(d);
-    var h = Math.floor(d / 3600);
-    var m = Math.floor(d % 3600 / 60);
-    var s = Math.floor(d % 3600 % 60);
+    var d = Number(d),
+        h = Math.floor(d / 3600),
+        m = Math.floor(d % 3600 / 60),
+        s = Math.floor(d % 3600 % 60);
     return ((h > 0 ? h + ":" + (m < 10 ? "0" : "") : "") + m + ":" + (s < 10 ? "0" : "") + s); 
 }
 
@@ -294,9 +288,25 @@ function minTrip() {
 }
 
 function tradeCalc() {
-    var trips = 86400 / minTrip();
-    var cargo = getID("cargo").value;
-    var pr = Math.round((trips * getByKey()) * cargo);
+    var trips = 86400 / minTrip(),
+        cargo = getID("cargo").value,
+        pr = Math.round((trips * getByKey()) * cargo);
     
     getID("totalProfit").innerHTML = "Profit per day ~ " + pr;
 }
+
+
+/*$( "select" )
+  .change(function () {
+    sumCargo();
+    tradeCalc();
+  });*/
+
+var selects = document.getElementsByTagName('select');
+
+for(i = 0; i < selects.length; ++i) {
+    selects[i].addEventListener('change', function (e) {
+        sumCargo();
+        tradeCalc();
+        max();
+}, false)};
