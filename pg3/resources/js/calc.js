@@ -89,31 +89,31 @@ addEvent(
     getID('link'),
     'click',
     function () { max(); }
-)
+);
 
 addEvent(
     getID('link2'),
     'click',
     function () { sumCargo(); }
-)
+);
 
 addEvent(
     getID('linksave'),
     'click',
     function () { save(); }
-)
+);
 
 addEvent(
     getID('linkload'),
     'click',
     function () { load(); }
-)
+);
 
 addEvent(
     getID('clear'),
     'click',
     function () { resetForm(); }
-)
+);
 
 window.addEventListener('input', function (e) {
     tradeCalc();
@@ -168,7 +168,7 @@ function getByKey() {
         keyz = obj[key1],
         keyz1 = obj[key2];
     
-    if(typeof keyz !== "undefined") {
+    if (typeof keyz !== "undefined") {
         return keyz;
     } else {
         return keyz1;
@@ -200,13 +200,13 @@ function load() {
         input4 = getID('ship4'),
         input5 = getID('ship5'),
         input6 = getID('quantity');
-    input0.value = localStorage['ship']
-    input1.value = localStorage['ship1'];
-    input2.value = localStorage['ship2'];
-    input3.value = localStorage['ship3'];
-    input4.value = localStorage['ship4'];
-    input5.value = localStorage['ship5'];
-    input6.value = localStorage['quantity']
+    input0.value = localStorage.ship
+    input1.value = localStorage.ship1;
+    input2.value = localStorage.ship2;
+    input3.value = localStorage.ship3;
+    input4.value = localStorage.ship4;
+    input5.value = localStorage.ship5;
+    input6.value = localStorage.quantity;
     return workaround();
 }
 
