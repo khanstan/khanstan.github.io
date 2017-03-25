@@ -66,7 +66,7 @@ function msToTime() {
     hours = (hours < 10) ? "0" + hours : hours;
     minutes = (minutes < 10) ? "0" + minutes : minutes;
     seconds = (seconds < 10) ? "0" + seconds : seconds;
-    time = "Time since last update:<font color='red'> " + hours + "h:" + minutes + "m:" + seconds + "s</font> (this page will take around 15 minutes to update after resource prices get recalculated!)"
+    time = "Time since last update:<font color='red'> " + hours + "h:" + minutes + "m:" + seconds + "s</font> (this page will take around 15 minutes to update after resource prices get recalculated!)";
     document.getElementById("lastupdate").innerHTML = time;
     return console.log()
 }
@@ -91,14 +91,13 @@ btn.onclick = function () {
 // end switch
 
 (function() {
+    var tbody1 = document.getElementById('itemList').getElementsByTagName('tbody')[0];
+    var tbody2 = document.getElementById('itemList2').getElementsByTagName('tbody')[0];
 
-var tbody1 = document.getElementById('itemList').getElementsByTagName('tbody')[0];
-var tbody2 = document.getElementById('itemList2').getElementsByTagName('tbody')[0];
-
-
-
-tbody1.innerHTML += rows;
-tbody2.innerHTML += rows2;
+    tbody1.innerHTML += rows;
+    tbody2.innerHTML += rows2;
+    msToTime();
+    
 })();
 
 /*jQuery(document).ready(function(){
