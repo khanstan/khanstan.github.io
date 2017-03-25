@@ -97,8 +97,8 @@ var tbody2 = document.getElementById('itemList2').getElementsByTagName('tbody')[
 
 
 
-tbody1.innerHTML = rows;
-tbody2.innerHTML = rows2;
+tbody1.innerHTML += rows;
+tbody2.innerHTML += rows2;
 })();
 
 /*jQuery(document).ready(function(){

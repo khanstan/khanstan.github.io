@@ -83,10 +83,16 @@ for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
     rows += '<tr><td>'+ flag + key + '</td><td>' + yesterday.toLocaleString() + '</td><td>' + today.toLocaleString() + '</td><td' + difference() + '</td></tr>';
 };
 
-(function() {
 
-var table = document.getElementById('dataTable');
-table.innerHTML = rows;
+
+(function() {
+    
+    document.getElementById('yesterday').innerHTML = (function(d){ d.setDate(d.getDate()-1); return d})(new Date).toISOString().slice(0,10);
+    document.getElementById('today').innerHTML = (function(d){ d.setDate(d.getDate()); return d})(new Date).toISOString().slice(0,10);
+    
+    
+    var table = document.getElementById('dataTable');
+    table.innerHTML += rows;
     
 })();
 
