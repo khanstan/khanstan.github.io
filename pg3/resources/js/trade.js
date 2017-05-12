@@ -28,7 +28,8 @@ var profitable_ports = {
   'Tzogos-Aiora': obj['Tzogos-Aiora'],
   'Tortuga-Aiora': obj['Tortuga-Aiora'],
   'Seaglory-Aiora': obj['Seaglory-Aiora'],
-  'Seaglory-Vaasburg': obj['Seaglory-Vaasburg']
+  'Seaglory-Vaasburg': obj['Seaglory-Vaasburg'],
+  'Baramas-St. Martins': obj['Baramas-St. Martins']
 };
 
 var rows = "";
