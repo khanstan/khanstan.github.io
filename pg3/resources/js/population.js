@@ -59,7 +59,7 @@ span.onclick = function() {
 
 // End modal
 
-for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
+for (var i = 0, len = Object.keys(obj1).length; i < len - 1; i +=1) {
     ind = [i+1];
     key = Object.keys(obj1)[i];
     yesterday = Number(obj1[key]['pop']);
@@ -87,8 +87,9 @@ for (var i = 0, len = Object.keys(obj1).length; i < len; i +=1) {
 
 (function() {
     
-    document.getElementById('yesterday').innerHTML = (function(d){ d.setDate(d.getDate()-1); return d})(new Date).toISOString().slice(0,10);
-    document.getElementById('today').innerHTML = (function(d){ d.setDate(d.getDate()); return d})(new Date).toISOString().slice(0,10);
+    document.getElementById('yesterday').innerHTML = new Date(obj1['timestamp'] * 1e3).toISOString().slice(0, 10);
+    document.getElementById('today').innerHTML = new Date(obj2['timestamp'] * 1e3).toISOString().slice(0, 10);
+
     
     
     var table = document.getElementById('dataTable');
