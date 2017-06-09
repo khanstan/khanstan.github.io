@@ -61,7 +61,6 @@ $(document).ready(function () {
                 document.getElementById("uniqueModifiers").textContent=data.uniqueModifiers;
                 break;
         }
-        console.log(data.uniqueModifiers)
 
     });
 
