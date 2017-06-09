@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Diablo II</title>
+    <link rel="stylesheet" href="/resources/css/d2.css" type="text/css">
+    <link rel="stylesheet" href="/resources/css/menu.css" type="text/css">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  </head>
+  <body>
+	<nav class="nav-group" id="nav">
+	    <a href="index.html" > Home </a>
+	    <a href="runes.html" > Population </a> 
+	    <a href="classes.html" > Classes </a>
+	    <a href="#" onclick="window.localStorage.clear()">clear storage</a>
+	</nav>
+
+	<section class="webdesigntuts-workshop">
+	<form action="" method="">
+			<input type="search" class="typeahead" data-provider="typeahead" placeholder="What are you looking for?">
+			</form>
+			<br>
+			<div id ="runeword" class = "hidden">
+				<h1 id="runewordName"></h1>
+				<span id="allowedItems"></span>
+				<span id="runes"></span>
+				<span id="modifiers"></span>
+				<span id="runeWordReqLevel"></span>
+			</div>
+
+			<div id="rune" class="hidden">
+				<img id="runeIcon" />
+				<h1 id="runeName"></h1>
+				<div id="runeWeaponBonus">Weapons: <br></div>
+				<div id="runeArmorBonus">Armor/Helms/Shields: <br></div>
+				<div id="runeReqLevel">req.lvl: </div>
+			</div>
+
+			<div id="unique" class="hidden">
+				<h1 id="uniqueName"></h1>
+				<div id="baseItem"></div>
+				<img id="uniqueSrcIcon" />
+				<div id="uniqueRequirements"></div>
+				<div id="uniqueReqLevel"></div>
+				<div id="uniqueModifiers"></div>
+			</div>
+
+	</section>
+
+
+
+  <script src="resources/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+  <script src="resources/js/typeahead.bundle.js" type="text/javascript"></script>
+  <script src="resources/js/main.js" type="text/javascript"></script>
+
+
+  </body>
+</html>
