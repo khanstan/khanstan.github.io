@@ -1,10 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Cabin:400);
 
+html {
+  overflow-y: scroll;
+}
+
 body {
 	background-color: #151515;
 	margin: 0;
-	height: 100%;
-	min-height: 100%;
 }
 
 .webdesigntuts-workshop {
