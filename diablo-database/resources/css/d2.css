@@ -3,6 +3,8 @@
 body {
 	background-color: #151515;
 	margin: 0;
+	height: 100%;
+	min-height: 100%;
 }
 
 .webdesigntuts-workshop {
@@ -208,4 +210,19 @@ body {
 
 .sugRune {
 	color: #827c6b;
+}
+
+#footer {
+
+	position: fixed;
+	color: #6f706f;
+	border-radius: 5px;
+	width: 300px;
+	bottom: 0;
+	background-color: #262525;
+	text-align: center;
+}
+
+a {
+	color: inherit;
 }
