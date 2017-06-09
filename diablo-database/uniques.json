@@ -195,7 +195,7 @@
 		"baseItem": "Ettin Axe",
 		"uniqueRequirements": "1H Damage: (105-122) to (211-244)\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 145\nMinimum Dexterity: 45\nDurability: 24\n",
 		"uniqueReqLevel": "72",
-		"uniqueModifiers": "+220-270% Enhanced Damage (varies)\n+5% to Maximum Cold Resist\nCannot be Frozen\nSocketed (3-5) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+220-270% Enhanced Damage (varies)\n+5% to Maximum Cold Resist\nCannot be Frozen\nSocketed (3-5) (varies)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Axes",
@@ -213,7 +213,7 @@
 		"baseItem": "Berserker Axe",
 		"uniqueRequirements": "1H Damage: (79-91) to (234-269)\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 138\nMinimum Dexterity: 59\nDurability: 26\n",
 		"uniqueReqLevel": "70",
-		"uniqueModifiers": "+230-280% Enhanced Damage (varies)\n40% Increased Attack Speed\n-33% Target Defense\n66% Deadly Strike\n+6-9 to Life After Each Kill (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+230-280% Enhanced Damage (varies)\n40% Increased Attack Speed\n-33% Target Defense\n66% Deadly Strike\n+6-9 to Life After Each Kill (varies)\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Axes",
@@ -249,7 +249,7 @@
 		"baseItem": "Glorious Axe",
 		"uniqueRequirements": "2H Damage: (204-234) to (421-483)\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 164\nMinimum Dexterity: 55\nDurability: 50\n",
 		"uniqueReqLevel": "75",
-		"uniqueModifiers": "+240-290% Enhanced Damage (varies)\n25% Chance of Crushing Blow\n30% Increased Attack Speed\n-33% Target Defense\n50% Chance to Cast Level 6 Decrepify When You Kill an Enemy\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+240-290% Enhanced Damage (varies)\n25% Chance of Crushing Blow\n30% Increased Attack Speed\n-33% Target Defense\n50% Chance to Cast Level 6 Decrepify When You Kill an Enemy\n\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Bows",
@@ -411,7 +411,7 @@
 		"baseItem": "Ward Bow",
 		"uniqueRequirements": "2H Damage: (50-60) to (132-159)\nAttack Speed: [0]\nMinimum Strength: 72\nMinimum Dexterity: 146\n",
 		"uniqueReqLevel": "65",
-		"uniqueModifiers": "+150-200% Enhanced Damage (varies)\nIgnore Target's Defense\n33% Deadly Strike\n+3-5 to Guided Arrow (varies)\nFires Magic Arrows (Level 11)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+150-200% Enhanced Damage (varies)\nIgnore Target's Defense\n33% Deadly Strike\n+3-5 to Guided Arrow (varies)\nFires Magic Arrows (Level 11)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Bows",
@@ -627,7 +627,7 @@
 		"baseItem": "Ghost Glaive",
 		"uniqueRequirements": "1H Damage: (70-81) to (225-261)\nAttack Speed: [20]\nMinimum Strength: 79\nMinimum Dexterity: 127\n",
 		"uniqueReqLevel": "76",
-		"uniqueModifiers": "+150-190% Enhanced Damage (varies)\n9-13% Life Stolen per Hit (varies)\n+15 to Mana After Each Kill\nReplenishes 1 Quantity Every 2 Seconds\nEthereal (Cannot be Repaired)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+150-190% Enhanced Damage (varies)\n9-13% Life Stolen per Hit (varies)\n+15 to Mana After Each Kill\nReplenishes 1 Quantity Every 2 Seconds\nEthereal (Cannot be Repaired)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Javelins",
@@ -1572,7 +1572,7 @@
 		"baseItem": "Phase Blade",
 		"uniqueRequirements": "1H Damage: (102-114) to (115-129)\nMelee Range: 2\nAttack Speed: [-30]\nMinimum Strength: 25\nMinimum Dexterity: 136\nDurability: Indestructible\n",
 		"uniqueReqLevel": "85",
-		"uniqueModifiers": "+230-270% Enhanced Damage (varies)\n30% Increased Attack Speed\nAdds 250-500 Magic Damage\nAdds 250-500 Cold Damage - 10 Second Duration\n+1 to All Skills\n+5-10 to All Attributes (varies)\nLevel 10-13 Sanctuary Aura When Equipped (varies)\n+3 to Light Radius(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+230-270% Enhanced Damage (varies)\n30% Increased Attack Speed\nAdds 250-500 Magic Damage\nAdds 250-500 Cold Damage - 10 Second Duration\n+1 to All Skills\n+5-10 to All Attributes (varies)\nLevel 10-13 Sanctuary Aura When Equipped (varies)\n+3 to Light Radius\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Swords",
@@ -1590,7 +1590,7 @@
 		"baseItem": "Ataghan",
 		"uniqueRequirements": "1H Damage: (75-88) to (133-156)\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 138\nMinimum Dexterity: 95\nDurability: 22\n",
 		"uniqueReqLevel": "65",
-		"uniqueModifiers": "+190-240% Enhanced Damage (varies)\n+100-150% Damage to Demons (varies)\n+200-300 to Attack Rating Against Demons\nAdds 250-500 Fire Damage\n3-6% Mana Stolen per Hit (varies)\n+3-7 Lightning Absorb (varies)\nSocketed (1-2) (varies)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+190-240% Enhanced Damage (varies)\n+100-150% Damage to Demons (varies)\n+200-300 to Attack Rating Against Demons\nAdds 250-500 Fire Damage\n3-6% Mana Stolen per Hit (varies)\n+3-7 Lightning Absorb (varies)\nSocketed (1-2) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Swords",
@@ -2075,7 +2075,7 @@
 		"baseItem": "Kraken Shell",
 		"uniqueRequirements": "Defense: 1514 - 1722\nArmor Type: Medium\nMinimum Strength: 174\nDurability: Indestructible\n",
 		"uniqueReqLevel": "65",
-		"uniqueModifiers": "+170-200% Enhanced Defense (varies)\n+100-150 Defense (varies)\n+40-50 To Strength (varies)\nDamage Reduced By 15-25% (varies)\nIndestructible(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+170-200% Enhanced Defense (varies)\n+100-150 Defense (varies)\n+40-50 To Strength (varies)\nDamage Reduced By 15-25% (varies)\nIndestructible\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Armor",
@@ -2102,7 +2102,7 @@
 		"baseItem": "Sacred Armor",
 		"uniqueRequirements": "Defense: 1322 - 1502\nArmor Type: Medium\nMinimum Strength: -\nDurability: Indestructible\n",
 		"uniqueReqLevel": "84",
-		"uniqueModifiers": "+120-150% Enhanced Defense (varies)\n+50-100% Damage to Demons (varies)\n20% Faster Run/Walk\n+20-30 to Strength (varies)\nAll Resistances +20-30 (varies)\nCannot Be Frozen\nRequirements -100%\nSlain Monsters Rest in Peace\nIndestructible(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+120-150% Enhanced Defense (varies)\n+50-100% Damage to Demons (varies)\n20% Faster Run/Walk\n+20-30 to Strength (varies)\nAll Resistances +20-30 (varies)\nCannot Be Frozen\nRequirements -100%\nSlain Monsters Rest in Peace\nIndestructible\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Belts",
@@ -2336,7 +2336,7 @@
 		"baseItem": "Myrmidon Greaves",
 		"uniqueRequirements": "Defense: 122 - 144\nKick Damage: 83 - 149\nMinimum Strength: 167\nDurability: 24\n",
 		"uniqueReqLevel": "71",
-		"uniqueModifiers": "+70-100% Enhanced Defense (varies)\n+1-2 To Shadow Disciplines (varies) (Assassin Only)\n30% Faster Run/Walk\n30% Faster Hit Recovery\n+15-25 to Dexterity (varies)\nRequirements -20%(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+70-100% Enhanced Defense (varies)\n+1-2 To Shadow Disciplines (varies) (Assassin Only)\n30% Faster Run/Walk\n30% Faster Hit Recovery\n+15-25 to Dexterity (varies)\nRequirements -20%\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Circlets",
@@ -2354,7 +2354,7 @@
 		"baseItem": "Diadem",
 		"uniqueRequirements": "Defense: 150 - 260\nMinimum Strength: -\nDurability: 20\n",
 		"uniqueReqLevel": "76",
-		"uniqueModifiers": "+100-200 Defense (varies)\n+1 to All Skills\n25% Faster Cast Rate\n-(15-20)% to Enemy Lightning Resistance (varies)\n+(10-15)% to Lightning Skill Damage (varies)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+100-200 Defense (varies)\n+1 to All Skills\n25% Faster Cast Rate\n-(15-20)% to Enemy Lightning Resistance (varies)\n+(10-15)% to Lightning Skill Damage (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "Gloves",
@@ -2681,7 +2681,7 @@
 		"baseItem": "Demonhead",
 		"uniqueRequirements": "Defense: 310 - 387\nMinimum Strength: 102\nDurability: 20\n",
 		"uniqueReqLevel": "83",
-		"uniqueModifiers": "+100-150% Enhanced Defense (varies)\n+2 To All Skills\n20% Increased Attack Speed\n8-10% Life Stolen Per Hit (varies)\n+25-30 To Strength (varies)\n+10% To Maximum Poison Resist\nFire Resist -30%\nPoison Resist +70%\n15% Chance To Cast Level 15 Poison Nova When Struck\nLevel 3 Venom (20 charges)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+100-150% Enhanced Defense (varies)\n+2 To All Skills\n20% Increased Attack Speed\n8-10% Life Stolen Per Hit (varies)\n+25-30 To Strength (varies)\n+10% To Maximum Poison Resist\nFire Resist -30%\nPoison Resist +70%\n15% Chance To Cast Level 15 Poison Nova When Struck\nLevel 3 Venom (20 charges)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	},
 	{
 		"type": "unique",
@@ -2944,7 +2944,7 @@
 		"baseItem": "Matriarchal Spear",
 		"uniqueRequirements": "2H Damage: (214-247) to (316-361)\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 114\nMinimum Dexterity: 142\nDurability: 28\n",
 		"uniqueReqLevel": "64",
-		"uniqueModifiers": "+230-280% Enhanced Damage (varies)\nAdds 101-187 Magic Damage\n+400-600 Defense (varies)\nAll Resistances +30-50 (varies)\n+1-3 to Javelin and Spear Skills (varies) (Amazon Only)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+230-280% Enhanced Damage (varies)\nAdds 101-187 Magic Damage\n+400-600 Defense (varies)\nAll Resistances +30-50 (varies)\n+1-3 to Javelin and Spear Skills (varies) (Amazon Only)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "amazonWeapons",
@@ -2953,7 +2953,7 @@
 		"baseItem": "Matriarchal Javelin",
 		"uniqueRequirements": "1H Damage: (75-90) to (135-162)\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 107\nMinimum Dexterity: 151\n",
 		"uniqueReqLevel": "69",
-		"uniqueModifiers": "+150-200% Enhanced Damage (varies)\nAdds 1-511 Lightning Damage\n15% Increased Attack Speed\n-15% to Enemy Lightning Resistance\n20% Chance to Cast Level 14 Lightning on Striking\n+2-4 to Javelin and Spear Skills (varies) (Amazon Only)\n+3 to Lightning Bolt (Amazon Only)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+150-200% Enhanced Damage (varies)\nAdds 1-511 Lightning Damage\n15% Increased Attack Speed\n-15% to Enemy Lightning Resistance\n20% Chance to Cast Level 14 Lightning on Striking\n+2-4 to Javelin and Spear Skills (varies) (Amazon Only)\n+3 to Lightning Bolt (Amazon Only)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "assasinKatars",
@@ -2980,7 +2980,7 @@
 		"baseItem": "Battle Cestus",
 		"uniqueRequirements": "1H Damage: (145-172) to (170-201)\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 100\nMinimum Dexterity: 100\nDurability: Indestructible\n",
 		"uniqueReqLevel": "78",
-		"uniqueModifiers": "+170-220% Enhanced Damage (varies)\n-25% Target Defense\nFreezes Target +2\n+10-15 Mana After Each Kill (varies)\n33% Chance to Cast Level 8 Frost Nova on Striking\nIndestructible\nEthereal (Cannot be Repaired)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+170-220% Enhanced Damage (varies)\n-25% Target Defense\nFreezes Target +2\n+10-15 Mana After Each Kill (varies)\n33% Chance to Cast Level 8 Frost Nova on Striking\nIndestructible\nEthereal (Cannot be Repaired)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "assasinKatars",
@@ -3043,7 +3043,7 @@
 		"baseItem": "Blood Spirit",
 		"uniqueRequirements": "Minimum Strength: 86\nDurability: 20\n",
 		"uniqueReqLevel": "63",
-		"uniqueModifiers": "+130-140% Enhanced Defense (varies)\n60-120% Bonus to Attack Rating (varies)\n7-10% Life Stolen Per Hit (varies)\n33% Chance of Open Wounds\n+2-4 To Shape Shifting Skills (varies) (Druid Only)\n+1-2 To Feral Rage (varies) (Druid Only)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+130-140% Enhanced Defense (varies)\n60-120% Bonus to Attack Rating (varies)\n7-10% Life Stolen Per Hit (varies)\n33% Chance of Open Wounds\n+2-4 To Shape Shifting Skills (varies) (Druid Only)\n+1-2 To Feral Rage (varies) (Druid Only)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "druidPelts",
@@ -3088,7 +3088,7 @@
 		"baseItem": "Bloodlord Skull",
 		"uniqueRequirements": "Defense: 357 - 417\nBlock: P: 32% Am/As/B: 32% D/N/S: 32%\nMinimum Strength: 106\nDurability: 20\n",
 		"uniqueReqLevel": "65",
-		"uniqueModifiers": "+140-180% Enhanced Defense (varies)\n+1-3 To Summoning Skills (varies) (Necromancer Only)\n+1-3 To Poison And Bone Skills (varies) (Necromancer Only)\n+1-3 To Curses (varies) (Necromancer Only)\n+30% Faster Cast Rate\nIncrease Maximum Mana 10%(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+140-180% Enhanced Defense (varies)\n+1-3 To Summoning Skills (varies) (Necromancer Only)\n+1-3 To Poison And Bone Skills (varies) (Necromancer Only)\n+1-3 To Curses (varies) (Necromancer Only)\n+30% Faster Cast Rate\nIncrease Maximum Mana 10%\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "paladinShields",
@@ -3142,7 +3142,7 @@
 		"baseItem": "Dimensional Shard",
 		"uniqueRequirements": "1H Damage: 30 to 53\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 50\n",
 		"uniqueReqLevel": "73",
-		"uniqueModifiers": "+3 to Sorceress Skill Levels\n20% Faster Cast Rate\n+15-30% to Cold Skill Damage (varies)\nLightning Resist +25-40% (varies)\nFire Resist +25-40% (varies)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+3 to Sorceress Skill Levels\n20% Faster Cast Rate\n+15-30% to Cold Skill Damage (varies)\nLightning Resist +25-40% (varies)\nFire Resist +25-40% (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "amulets",
@@ -3187,7 +3187,7 @@
 		"baseItem": "Amulet",
 		"uniqueRequirements": "",
 		"uniqueReqLevel": "81",
-		"uniqueModifiers": "+400-450 to Attack Rating (varies)\nLevel 22 Iron Golem (11 Charges)\nLevel 12 Iron Maiden (20 Charges)\nAll Resistances +25-35 (varies)\n+300-350 Defense (varies)(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+400-450 to Attack Rating (varies)\nLevel 22 Iron Golem (11 Charges)\nLevel 12 Iron Maiden (20 Charges)\nAll Resistances +25-35 (varies)\n+300-350 Defense (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "amulets",
@@ -3214,7 +3214,7 @@
 		"baseItem": "Amulet",
 		"uniqueRequirements": "",
 		"uniqueReqLevel": "65",
-		"uniqueModifiers": "+2 to All Skills\n+1-2 to Defensive Auras (varies) (Paladin Only)\n+20-50% Damage vs. Demons (varies)\n+150-250 to Attack Rating Against Demons (varies)\n+20-50% Damage vs. Undead (varies)\n+150-250 to Attack Rating Against Undead (varies)\n+2 to Light Radius(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
+		"uniqueModifiers": "+2 to All Skills\n+1-2 to Defensive Auras (varies) (Paladin Only)\n+20-50% Damage vs. Demons (varies)\n+150-250 to Attack Rating Against Demons (varies)\n+20-50% Damage vs. Undead (varies)\n+150-250 to Attack Rating Against Undead (varies)\n+2 to Light Radius\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)"
 	}, {
 		"type": "unique",
 		"type2": "amulets",
