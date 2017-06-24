@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Diablo II</title>
-    <link rel="stylesheet" href="resources/css/d2.css" type="text/css">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-  </head>
-  <body>
+	<head>
+		<meta charset="UTF-8">
+		<title>Diablo II Item Database</title>
+		<link rel="stylesheet" href="resources/css/d2.css" type="text/css">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+	</head>
+	<body>
 
-	<section class="webdesigntuts-workshop">
+	<section class="mainSection">
 	<form action="" method="">
-			<input type="search" class="typeahead" data-provider="typeahead" placeholder="Search for runes, runewords or uniques. E.g Titan's...">
+			<input type="search" class="typeahead" data-provider="typeahead" placeholder="Search for runes, runewords, uniques or sets. E.g Titan's...">
 			</form>
 			<br>
 			<div id ="runeword" class = "hidden">
@@ -20,7 +20,6 @@
 				<span id="modifiers"></span>
 				<span id="runeWordReqLevel"></span>
 			</div>
-
 			<div id="rune" class="hidden">
 				<img id="runeIcon" />
 				<h1 id="runeName"></h1>
@@ -28,7 +27,6 @@
 				<div id="runeArmorBonus">Armor/Helms/Shields: <br></div>
 				<div id="runeReqLevel">req.lvl: </div>
 			</div>
-
 			<div id="unique" class="hidden">
 				<h1 id="uniqueName"></h1>
 				<div id="baseItem"></div>
@@ -37,16 +35,90 @@
 				<div id="uniqueReqLevel"></div>
 				<div id="uniqueModifiers"></div>
 			</div>
+			<div id="set" class="hidden">
+				<h1 id="setName"></h1>
+				<div id="showAll">[display full set]</div>
+				<h1 id="setItemName"></h1>
+				<div id="setBaseItem"></div>
+				<img id="setSrcIcon" />
+				<div id="setRequirements"></div>
+				<div id="setModifiers"></div>
+				<div id="setBonuses"></div>
+			</div>
+			<div id="fullSet" class="hidden">
+				<h1 id="fullSetName"></h1>
+				<div class="one">
+					<h1 class="setItemName"></h1>
+					<div class="setBaseItem"></div>
+					<img class="setItemSrcIcon" />
+					<div class="setItemRequirements"></div>
+					<div class="setItemModifiers"></div>
+					<div class="setItemBonuses"></div>
+				</div>
+				<div class="one">
+					<h1 class="setItemName"></h1>
+					<div class="setBaseItem"></div>
+					<img class="setItemSrcIcon" />
+					<div class="setItemRequirements"></div>
+					<div class="setItemModifiers"></div>
+					<div class="setItemBonuses"></div>
+				</div>
+				<div class="one">
+					<h1 class="setItemName"></h1>
+					<div class="setBaseItem"></div>
+					<img class="setItemSrcIcon" />
+					<div class="setItemRequirements"></div>
+					<div class="setItemModifiers"></div>
+					<div class="setItemBonuses"></div>
+				</div>
+				<div class="one">
+					<h1 class="setItemName"></h1>
+					<div class="setBaseItem"></div>
+					<img class="setItemSrcIcon" />
+					<div class="setItemRequirements"></div>
+					<div class="setItemModifiers"></div>
+					<div class="setItemBonuses"></div>
+				</div>
+				<div class="one">
+					<h1 class="setItemName"></h1>
+					<div class="setBaseItem"></div>
+					<img class="setItemSrcIcon" />
+					<div class="setItemRequirements"></div>
+					<div class="setItemModifiers"></div>
+					<div class="setItemBonuses"></div>
+				</div>
+				<div class="one">
+					<h1 class="setItemName"></h1>
+					<div class="setBaseItem"></div>
+					<img class="setItemSrcIcon" />
+					<div class="setItemRequirements"></div>
+					<div class="setItemModifiers"></div>
+					<div class="setItemBonuses"></div>
+				</div>
+				<div id="fullSetBonuses">
+					<span class="partial">Two Pieces:</span>
+					<div id="twoPieces" class="sugSet"></div>
+					<span class="partial">Three Pieces:</span>
+					<div id="threePieces" class="sugSet"></div>
+					<span class="partial">Four Pieces:</span>
+					<div id="fourPieces" class="sugSet"></div>
+					<span class="partial">Five Pieces:</span>
+					<div id="fivePieces" class="sugSet"></div>
+					<span class="partial">Full set bonuses:</span>
+					<div id="allPieces" class="sugSet"></div>
+				</div>
+			</div>
+			</div>
 
 	</section>
 
-		<span id="footer">
-		All content on this page is property of <a href="http://us.blizzard.com/en-us/company/about/legal-faq.html">Blizzard Entertainment®</a>. All rights reserved.
-		</span>
+	<span id="footer">
+	All content on this page is property of <a href="http://us.blizzard.com/en-us/company/about/legal-faq.html">Blizzard Entertainment®</a>. All rights reserved.
+	</span>
 
-  <script src="resources/js/jquery-3.2.1.min.js" type="text/javascript"></script>
-  <script src="resources/js/typeahead.bundle.js" type="text/javascript"></script>
-  <script src="resources/js/main.js" type="text/javascript"></script>
+	<script src="resources/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+	<script src="resources/js/typeahead.bundle.js" type="text/javascript"></script>
+	<script src="resources/js/main.js" type="text/javascript"></script>
 
 
   </body>

@@ -9,7 +9,21 @@ body {
 	margin: 0;
 }
 
-.webdesigntuts-workshop {
+h1 {
+	margin: 0;
+	padding: 0;
+}
+
+div:empty {
+	display: none;
+}
+
+#showAll {
+	color: #f90;
+	cursor: pointer;
+}
+
+.mainSection {
 	background: #151515;
 	height: 100%;
 	position: absolute;
@@ -17,7 +31,7 @@ body {
 	width: 100%;
 }
 
-.webdesigntuts-workshop form {
+.mainSection form {
 	background: #111;
 	background: linear-gradient(#1b1b1b, #111);
 	border: 1px solid #000;
@@ -31,7 +45,7 @@ body {
 	z-index: 1;
 }
 
-.webdesigntuts-workshop input {
+.mainSection input {
 	background: #222;	
 	background: linear-gradient(#333, #222);	
 	border: 1px solid #444;
@@ -50,11 +64,11 @@ body {
 	width: 420px;
 }
 
-.webdesigntuts-workshop input:-moz-placeholder {
+.mainSection input:-moz-placeholder {
    color: #888;
 }
 
-.webdesigntuts-workshop input:focus {
+.mainSection input:focus {
 	background: #222922;
 	background: linear-gradient(#333933, #222922);
 	border-color: #393;
@@ -155,7 +169,7 @@ body {
 
 
 
-#runewordName, #runeName, #uniqueName {
+#runewordName, #runeName, #uniqueName , #setItemName, .setItemName  {
 	color: rgb(144, 136, 88);
 	margin: 0px;
 }
@@ -169,6 +183,16 @@ body {
 #modifiers, #uniqueModifiers {
 	margin-top: 1em;
 	color: #4850B8;
+}
+
+#setModifiers, .setItemModifiers {
+	color: #4850B8;
+}
+
+#setItemName {
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
 }
 
 .suggestion {
@@ -198,7 +222,21 @@ body {
 	display: inline-block;
 }
 
-#runeReqLevel, #runeWordReqLevel, #uniqueReqLevel {
+.set { 
+	color: #fff;
+	white-space: pre-line;
+	padding: 20px;
+	border: 2px solid rgb(93, 94, 96);
+	border-radius: 15px;
+	position: relative;
+	display: inline-block;
+}
+
+.partial {
+	color: #8c7c4b;
+}
+
+#runeReqLevel, #runeWordReqLevel, #uniqueReqLevel, #setReqLevel {
 	color: rgb(118, 119, 119);
 }
 
@@ -212,6 +250,10 @@ body {
 
 .sugRune {
 	color: #827c6b;
+}
+
+.sugSet, #setBonuses, #setName, #fullSetName, .setItemBonuses {
+	color: #27dd0b;
 }
 
 #footer {
