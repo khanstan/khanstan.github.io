@@ -38,6 +38,7 @@ $(document).ready(function () {
 		queryTokenizer: Bloodhound.tokenizers.whitespace,
 		prefetch: {
 			url: "sets.json",
+			cache: false,
 			transform: function(response) {
                 setObject = response;
                 return response;
