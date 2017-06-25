@@ -267,6 +267,17 @@ div:empty {
 	text-align: center;
 }
 
+#contact {
+	position: fixed;
+	color: #6f706f;
+	border-radius: 5px;
+	width: 300px;
+	right: 0;
+	bottom: 0;
+	background-color: #262525;
+	text-align: center;
+}
+
 a {
 	color: inherit;
 }
