@@ -13,7 +13,8 @@ $(document).ready(function () {
 		datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name', 'runes'),
 		queryTokenizer: Bloodhound.tokenizers.whitespace,
 		prefetch: {
-			url: "runewords.json"
+			url: "runewords.json",
+			cache: false
 		}
 	});
 
@@ -21,7 +22,8 @@ $(document).ready(function () {
 		datumTokenizer: Bloodhound.tokenizers.obj.whitespace('runeName', 'type'),
 		queryTokenizer: Bloodhound.tokenizers.whitespace,
 		prefetch: {
-			url: "runes.json"
+			url: "runes.json",
+			cache: false
 		}
 	});    
 
@@ -29,7 +31,8 @@ $(document).ready(function () {
 		datumTokenizer: Bloodhound.tokenizers.obj.whitespace('uniqueName', 'baseItem'),
 		queryTokenizer: Bloodhound.tokenizers.whitespace,
 		prefetch: {
-			url: "uniques.json"
+			url: "uniques.json",
+			cache: false
 		}
 	});
 
