@@ -18,7 +18,7 @@ $(document).ready(function () {
 	});
 
 	var dataSourceRunes = new Bloodhound({
-		datumTokenizer: Bloodhound.tokenizers.obj.whitespace('runeName'),
+		datumTokenizer: Bloodhound.tokenizers.obj.whitespace('runeName', 'type'),
 		queryTokenizer: Bloodhound.tokenizers.whitespace,
 		prefetch: {
 			url: "runes.json"
@@ -59,7 +59,7 @@ $(document).ready(function () {
 				document.getElementById("runewordName").textContent=data.name;
 				document.getElementById("allowedItems").textContent=data.allowedItems;
 				document.getElementById("runes").textContent=data.runes.split(' + ').join('-')
-				document.getElementById("modifiers").textContent=data.modifiers.split('!').join('\n');
+				document.getElementById("modifiers").innerHTML=data.modifiers.split('!').join('\n');
 				document.getElementById("runeWordReqLevel").textContent='req.lvl: ' + data.runewordReqLevel;
 				break;
 			case 'rune':
@@ -77,7 +77,7 @@ $(document).ready(function () {
 				document.getElementById("baseItem").textContent='(' + data.baseItem + ')';
 				document.getElementById("uniqueRequirements").textContent=data.uniqueRequirements;
 				document.getElementById("uniqueReqLevel").textContent='req.lvl: ' + data.uniqueReqLevel;
-				document.getElementById("uniqueModifiers").textContent=data.uniqueModifiers;
+				document.getElementById("uniqueModifiers").innerHTML=data.uniqueModifiers;
 				break;
 			case 'set':
 			    keySet = data.setName; 
@@ -87,8 +87,8 @@ $(document).ready(function () {
 				document.getElementById("setSrcIcon").src = data.setSrcIcon;
 				document.getElementById("setBaseItem").textContent='(' + data.setBaseItem + ')';
 				document.getElementById("setRequirements").textContent=data.setRequirements;
-				document.getElementById("setModifiers").textContent=data.setModifiers;
-				document.getElementById("setBonuses").textContent=data.setBonuses;
+				document.getElementById("setModifiers").innerHTML=data.setModifiers;
+				document.getElementById("setBonuses").innerHTML=data.setBonuses;
 				break;
 		}
 
@@ -134,8 +134,8 @@ $(document).ready(function () {
     		setBaseItem[i].textContent = '('+ result[i]['setBaseItem'] + ')';
     		setSrcIcon[i].src = result[i]['setSrcIcon'];
     		setItemRequirements[i].textContent = result[i]['setRequirements'];
-    		setItemModifiers[i].textContent = result[i]['setModifiers'];
-    		setItemBonuses[i].textContent = result[i]['setBonuses'];
+    		setItemModifiers[i].innerHTML = result[i]['setModifiers'];
+    		setItemBonuses[i].innerHTML = result[i]['setBonuses'];
     	}
     }
 
@@ -157,7 +157,7 @@ $(document).ready(function () {
 		source: dataSourceRunes.ttAdapter(),
 		templates: {
 			suggestion: function (data) {
-				return '<p class="suggestion"> <span class = "sugRune">Rune</span>: ' + data.runeName + ' (req. lvl' + data.runeReqLevel + ')</p>';
+				return '<p class="suggestion"> <span class = "sugRune">Rune</span>: ' + data.runeName + ' Rune (req. lvl' + data.runeReqLevel + ')</p>';
 			}
 		}
 	}, {

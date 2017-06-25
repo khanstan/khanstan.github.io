@@ -98,7 +98,7 @@
 	"setBaseItem": "Quilted Armor",
 	"setSrcIcon": "resources/images/sets/Arcticfurs.gif",
 	"setRequirements": "Defense: 48 - 342\nArmor Type: Light\nMinimum Strength: 12\nDurability: 20\nLevel Requirement: 2",
-	"setModifiers": "\n+275-325% Enhanced Defense (varies)\nAll Resistances +10",
+	"setModifiers": "\n+275-325% Enhanced Defense <span class='varies'>(varies)</span>\nAll Resistances +10",
 	"setBonuses": "\n+3-297 Defense (+3 per Character Level) (2 Items)\nCold Resist +15% (3 Items)"
 }, {
 	"type": "set",
@@ -215,7 +215,7 @@
 	"setBaseItem": "Grand Scepter",
 	"setSrcIcon": "resources/images/sets/Grand_Scepter_(Diablo_II).gif",
 	"setRequirements": "1H Damage: 8 to (36-140)\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 37\nDurability: 60\nLevel Requirement: 9",
-	"setModifiers": "\n+1-99 to Maximum Damage (+1 per Character Level)\n+17-23 to Maximum Damage (varies)\n+50% Damage to Undead\n+75 to Attack Rating",
+	"setModifiers": "\n+1-99 to Maximum Damage (+1 per Character Level)\n+17-23 to Maximum Damage <span class='varies'>(varies)</span>\n+50% Damage to Undead\n+75 to Attack Rating",
 	"setBonuses": ""
 }, {
 	"type": "set",
@@ -225,7 +225,7 @@
 	"setSrcIcon": "resources/images/sets/Stormguild_(Diablo_II).gif",
 	"setRequirements": "Defense: 27 - 29\nBlock: P: 57%\n Am/As/B: 52%\n D/N/S: 47%\nSmite Damage: 2 - 4\nMinimum Strength: 34\nDurability: 24\nLevel Requirement: 9",
 	"setModifiers": "\n+15 Defense\n+15% Increased Chance of Blocking",
-	"setBonuses": "\n+21-22 to Mana (varies) (Civerb's Icon)\nPoison Resist +25-26% (varies) (Civerb's Cudgel)"
+	"setBonuses": "\n+21-22 to Mana <span class='varies'>(varies)</span> (Civerb's Icon)\nPoison Resist +25-26% <span class='varies'>(varies)</span> (Civerb's Cudgel)"
 }, {
 	"type": "set",
 	"setName": "Civerb's Vestments",
@@ -659,7 +659,7 @@
 	"setBaseItem": "Jagged Star",
 	"setSrcIcon": "resources/images/sets/Aldur's_Rhythm_(Diablo_II).gif",
 	"setRequirements": "1H Damage: 60 to 93\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 74\nDurability: 72\nLevel Requirement: 42",
-	"setModifiers": "\n+200% Damage To Demons\n+50% Damage To Undead\nAdds 40-62 Damage\nAdds 50-75 Lightning Damage\n30% Increased Attack Speed\n10% Life Stolen per Hit\n5% Mana Stolen per Hit\nSocketed (2-3) (varies)",
+	"setModifiers": "\n+200% Damage To Demons\n+50% Damage To Undead\nAdds 40-62 Damage\nAdds 50-75 Lightning Damage\n30% Increased Attack Speed\n10% Life Stolen per Hit\n5% Mana Stolen per Hit\nSocketed (2-3) <span class='varies'>(varies)</span>",
 	"setBonuses": "\n+15 to Strength (2 Items)\n+15 to Strength (3 Items)\n+15 to Strength (Full Set)"
 }, {
 	"type": "set",
@@ -668,7 +668,7 @@
 	"setBaseItem": "Shadow Plate",
 	"setSrcIcon": "resources/images/sets/Aldur's_Deception_(Diablo_II).gif",
 	"setRequirements": "Defense: 746 - 857\nArmor Type: Heavy\nMinimum Strength: 115\nDurability: 70\nLevel Requirement: 76",
-	"setModifiers": "\n+300 Defense\nRequirements -50%\nLightning Resist +40-50% (varies)\n+15 to Dexterity\n+20 to Strength\n+1 to Elemental Skills (Druid Only)\n+1 to Shape Shifting Skills (Druid Only)",
+	"setModifiers": "\n+300 Defense\nRequirements -50%\nLightning Resist +40-50% <span class='varies'>(varies)</span>\n+15 to Dexterity\n+20 to Strength\n+1 to Elemental Skills (Druid Only)\n+1 to Shape Shifting Skills (Druid Only)",
 	"setBonuses": "\n+15 to Vitality (2 Items)\n+15 to Vitality (3 Items)\n+15 to Vitality (Full Set)"
 }, {
 	"type": "set",
@@ -677,7 +677,7 @@
 	"setBaseItem": "Hunter's Guise",
 	"setSrcIcon": "resources/images/sets/Aldur's_Stony_Gaze_(Diablo_II).gif",
 	"setRequirements": "Defense: 157 - 171\nMinimum Strength: 56\nDurability: 20\nLevel Requirement: 36",
-	"setModifiers": "\n+90 Defense\n25% Faster Hit Recovery\nRegenerate Mana 17%\nCold Resist +40-50% (varies)\n+5 to Light Radius\nSocketed (2)",
+	"setModifiers": "\n+90 Defense\n25% Faster Hit Recovery\nRegenerate Mana 17%\nCold Resist +40-50% <span class='varies'>(varies)</span>\n+5 to Light Radius\nSocketed (2)",
 	"setBonuses": "\n+15 to Energy (2 Items)\n+15 to Energy (3 Items)\n+15 to Energy (Full Set)"
 }, {
 	"type": "set",
@@ -686,7 +686,7 @@
 	"setBaseItem": "Battle Boots",
 	"setSrcIcon": "resources/images/sets/Aldur's_Advance_(Diablo_II).gif",
 	"setRequirements": "Kick Damage: 37 - 64\nMinimum Strength: 95\nDurability: Indestructible\nLevel Requirement: 45",
-	"setModifiers": "\nIndestructible\n40% Faster Run/Walk\n+180 Maximum Stamina\n10% Damage Taken Goes To Mana\nHeal Stamina Plus +32%\n+50 To Life\nFire Resist +40-50% (varies)",
+	"setModifiers": "\nIndestructible\n40% Faster Run/Walk\n+180 Maximum Stamina\n10% Damage Taken Goes To Mana\nHeal Stamina Plus +32%\n+50 To Life\nFire Resist +40-50% <span class='varies'>(varies)</span>",
 	"setBonuses": "\n+15 to Dexterity (2 Items)\n+15 to Dexterity (3 Items)\n+15 to Dexterity (Full Set)"
 }, {
 	"fullSet": "Aldur's Watchtower",
@@ -743,7 +743,7 @@
 	"setBaseItem": "Heavy Boots",
 	"setSrcIcon": "resources/images/sets/Heavy_Boots_(Diablo_II).gif",
 	"setRequirements": "Defense: 30 - 41\nKick Damage: 4 - 10\nMinimum Strength: 18\nDurability: 14\nLevel Requirement: 13",
-	"setModifiers": "\n+25-35 Defense (varies)\n30% Faster Run/Walk\nAdds 25-35 Fire Damage\n+20 to Dexterity\n25% Better Chance of Getting Magic Items",
+	"setModifiers": "\n+25-35 Defense <span class='varies'>(varies)</span>\n30% Faster Run/Walk\nAdds 25-35 Fire Damage\n+20 to Dexterity\n25% Better Chance of Getting Magic Items",
 	"setBonuses": ""
 }, {
 	"fullSet": "Cow King's Leathers",
@@ -758,7 +758,7 @@
 	"setBaseItem": "Dusk Shroud",
 	"setSrcIcon": "resources/images/sets/Dark_Adherent_(Diablo_II).gif",
 	"setRequirements": "Defense: 666 - 882\nArmor Type: Light\nMinimum Strength: 77\nDurability: 20\nLevel Requirement: 49",
-	"setModifiers": "\n+305-415 Defense (varies)\nFire Resist +24%\n25% Chance to Cast Level 3 Nova When Struck\nAdds 24-34 Poison Damage Over 2 Seconds",
+	"setModifiers": "\n+305-415 Defense <span class='varies'>(varies)</span>\nFire Resist +24%\n25% Chance to Cast Level 3 Nova When Struck\nAdds 24-34 Poison Damage Over 2 Seconds",
 	"setBonuses": ""
 }, {
 	"type": "set",
@@ -794,7 +794,7 @@
 	"setBaseItem": "Amulet",
 	"setSrcIcon": "resources/images/sets/Amulet_3_(Diablo_II).gif",
 	"setRequirements": "Level Requirement: 30",
-	"setModifiers": "\n+1 to All Skills\nPoison Resist +35-50% (varies)\nCold Resist +18%\nAttacker Takes Damage of 8-10 (varies)",
+	"setModifiers": "\n+1 to All Skills\nPoison Resist +35-50% <span class='varies'>(varies)</span>\nCold Resist +18%\nAttacker Takes Damage of 8-10 <span class='varies'>(varies)</span>",
 	"setBonuses": ""
 }, {
 	"fullSet": "The Disciple",
@@ -809,7 +809,7 @@
 	"setBaseItem": "Caduceus",
 	"setSrcIcon": "resources/images/sets/War_Scepter_(Diablo_II).gif",
 	"setRequirements": "1H Damage: 131 to 145\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 78\nMinimum Dexterity: 56\nDurability: 70\nLevel Requirement: 66",
-	"setModifiers": "\n+200-240% Enhanced Damage (varies)\n+250% Damage to Undead\nRequirements -20%\n40% Increased Attack Speed\nSocketed (3-4) (varies)",
+	"setModifiers": "\n+200-240% Enhanced Damage <span class='varies'>(varies)</span>\n+250% Damage to Undead\nRequirements -20%\n40% Increased Attack Speed\nSocketed (3-4) <span class='varies'>(varies)</span>",
 	"setBonuses": "\n+2 to Combat Skills (Paladin Only) (2 Items)\nAdds 10-20 Damage (3 Items)\nAdds 10-20 Damage (Complete Set)"
 }, {
 	"type": "set",
@@ -836,7 +836,7 @@
 	"setBaseItem": "Corona",
 	"setSrcIcon": "resources/images/sets/Crown_of_Ages_(Diablo_II).gif",
 	"setRequirements": "Defense: 249 - 290\nMinimum Strength: 105\nDurability: 50\nLevel Requirement: 69",
-	"setModifiers": "\n+50-75% Enhanced Defense (varies)\nAll Resistances +5\n20-30% Better Chance of Getting Magic Items (varies)\nRequirements -40%\n+0-24 Cold Absorb (+0.25 per Character Level)\nSocketed (2)",
+	"setModifiers": "\n+50-75% Enhanced Defense <span class='varies'>(varies)</span>\nAll Resistances +5\n20-30% Better Chance of Getting Magic Items <span class='varies'>(varies)</span>\nRequirements -40%\n+0-24 Cold Absorb (+0.25 per Character Level)\nSocketed (2)",
 	"setBonuses": "\n+2 to Offensive Auras (Paladin Only) (2 Items)"
 }, {
 	"fullSet": "Griswold's Legacy",
@@ -962,7 +962,7 @@
 	"setBaseItem": "Battle Gauntlets",
 	"setSrcIcon": "resources/images/sets/M'avina's_Icy_Clutch_(Diablo_II).gif",
 	"setRequirements": "Defense: 84 - 97\nMinimum Strength: 88\nDurability: 14\nLevel Requirement: 32",
-	"setModifiers": "\n+45-50 Defense (varies)\nAdds 6-18 Cold Damage - 6 Second Duration\nHalf Freeze Duration\n56% Extra Gold From Monsters\n+10 to Strength\n+15 to Dexterity",
+	"setModifiers": "\n+45-50 Defense <span class='varies'>(varies)</span>\nAdds 6-18 Cold Damage - 6 Second Duration\nHalf Freeze Duration\n56% Extra Gold From Monsters\n+10 to Strength\n+15 to Dexterity",
 	"setBonuses": "\nAdds 131-252 Cold Damage - 4 Second Duration (4 Items)\n+20% to Cold Skill Damage (Full Set)"
 }, {
 	"type": "set",
@@ -986,7 +986,7 @@
 	"setBaseItem": "Ogre Maul",
 	"setSrcIcon": "resources/images/sets/Immortal_King's_Stone_Crusher_(Diablo_II).gif",
 	"setRequirements": "2H Damage: 231 to 318\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 225\nDurability: Indestructible\nLevel Requirement: 76",
-	"setModifiers": "\n+200% Enhanced Damage\n+200% Damage to Demons\n+250% Damage to Undead\n40% Increased Attack Speed\nIndestructible\n35-40% Chance of Crushing Blow (varies)\nSocketed (2)",
+	"setModifiers": "\n+200% Enhanced Damage\n+200% Damage to Demons\n+250% Damage to Undead\n40% Increased Attack Speed\nIndestructible\n35-40% Chance of Crushing Blow <span class='varies'>(varies)</span>\nSocketed (2)",
 	"setBonuses": "Adds 211-397 Fire Damage (2 Items)\nAdds 7-477 Lightning Damage (3 Items)\nAdds 127-364 Cold Damage - 6 Second Duration (4 Items)\n+204 Poison Damage Over 6 Seconds (5 Items)\nAdds 250-361 Magic Damage (Full Set)"
 }, {
 	"type": "set",
@@ -1004,7 +1004,7 @@
 	"setBaseItem": "Avenger Guard",
 	"setSrcIcon": "resources/images/sets/Immortal_Kings_Will.gif",
 	"setRequirements": "",
-	"setModifiers": "\n+4 to Light Radius\n+125 Defense\n37% Extra Gold From Monsters\n25-40% Better Chance of Getting Magic Items (varies)\n+2 to Warcries (Barbarian Only)\nSocketed (2)",
+	"setModifiers": "\n+4 to Light Radius\n+125 Defense\n37% Extra Gold From Monsters\n25-40% Better Chance of Getting Magic Items <span class='varies'>(varies)</span>\n+2 to Warcries (Barbarian Only)\nSocketed (2)",
 	"setBonuses": ""
 }, {
 	"type": "set",
@@ -1056,7 +1056,7 @@
 	"setBaseItem": "Loricated Mail",
 	"setSrcIcon": "resources/images/sets/Natalya's_Shadow_(Diablo_II).gif",
 	"setRequirements": "Defense: 540 - 721\nArmor Type: Heavy\nMinimum Strength: 149\nDurability: 36\nLevel Requirement: 73",
-	"setModifiers": "\n+150-225 Defense (varies)\n+1-99 to Life (+1 per Character Level)\nPoison Length Reduced by 75%\nPoison Resist +25%\n+2 to Shadow Disciplines (Assassin Only)\nSocketed (1-3) (varies)",
+	"setModifiers": "\n+150-225 Defense <span class='varies'>(varies)</span>\n+1-99 to Life (+1 per Character Level)\nPoison Length Reduced by 75%\nPoison Resist +25%\n+2 to Shadow Disciplines (Assassin Only)\nSocketed (1-3) <span class='varies'>(varies)</span>",
 	"setBonuses": ""
 }, {
 	"type": "set",
@@ -1065,7 +1065,7 @@
 	"setBaseItem": "Grim Helm",
 	"setSrcIcon": "resources/images/sets/Natalya's_Totem_(Diablo_II).gif",
 	"setRequirements": "Defense: 195 - 300\nMinimum Strength: 58\nDurability: 40\nLevel Requirement: 59",
-	"setModifiers": "\n+135-175 Defense (varies)\nAll Resistances +10-20 (varies)\n+20-30 to Dexterity (varies)\n+10-20 to Strength (vaires)\nMagic Damage Reduced by 3",
+	"setModifiers": "\n+135-175 Defense <span class='varies'>(varies)</span>\nAll Resistances +10-20 <span class='varies'>(varies)</span>\n+20-30 to Dexterity <span class='varies'>(varies)</span>\n+10-20 to Strength (vaires)\nMagic Damage Reduced by 3",
 	"setBonuses": ""
 }, {
 	"type": "set",
@@ -1074,7 +1074,7 @@
 	"setBaseItem": "Mesh Boots",
 	"setSrcIcon": "resources/images/sets/Natalya's_Soul_(Diablo_II).gif",
 	"setRequirements": "Defense: 112 - 169\nKick Damage: 23 - 52\nMinimum Strength: 65\nDurability: 66\nLevel Requirement: 25",
-	"setModifiers": "\n+75-125 Defense (varies)\n40% Faster Run/Walk\nHeal Stamina Plus 0-24% (+0.25% per Character Level)\nCold Resist +15-25% (varies)\nLightning Resist +15-25% (varies)",
+	"setModifiers": "\n+75-125 Defense <span class='varies'>(varies)</span>\n40% Faster Run/Walk\nHeal Stamina Plus 0-24% (+0.25% per Character Level)\nCold Resist +15-25% <span class='varies'>(varies)</span>\nLightning Resist +15-25% <span class='varies'>(varies)</span>",
 	"setBonuses": ""
 }, {
 	"fullSet": "Natalya's Odium",
@@ -1215,7 +1215,7 @@
 	"setBaseItem": "Balrog Skin",
 	"setSrcIcon": "resources/images/sets/Sazabi's_Ghost_Liberator_(Diablo_II).gif",
 	"setRequirements": "Defense: 810 - 917\nArmor Type: Medium\nMinimum Strength: 165\nDurability: 30\nLevel Requirement: 67",
-	"setModifiers": "\n+400 Defense\n30% Faster Hit Recovery\n+300 to Attack Rating Against Demons\n+25 to Strength\n+50-75 to Life (varies)",
+	"setModifiers": "\n+400 Defense\n30% Faster Hit Recovery\n+300 to Attack Rating Against Demons\n+25 to Strength\n+50-75 to Life <span class='varies'>(varies)</span>",
 	"setBonuses": ""
 }, {
 	"type": "set",
@@ -1224,7 +1224,7 @@
 	"setBaseItem": "Basinet",
 	"setSrcIcon": "resources/images/sets/Sazabi's_Mental_Sheath_(Diablo_II).gif",
 	"setRequirements": "Defense: 175 - 184\nMinimum Strength: 82\nDurability: 30\nLevel Requirement: 43",
-	"setModifiers": "\n+1 to All Skills\nLightning Resist +15-20% (varies)\nFire Resist +15-20% (varies)\n+100 Defense",
+	"setModifiers": "\n+1 to All Skills\nLightning Resist +15-20% <span class='varies'>(varies)</span>\nFire Resist +15-20% <span class='varies'>(varies)</span>\n+100 Defense",
 	"setBonuses": ""
 }, {
 	"fullSet": "Sazabi's Grand Tribute",
@@ -1239,7 +1239,7 @@
 	"setBaseItem": "Swirling Crystal",
 	"setSrcIcon": "resources/images/sets/Tal_Rasha's_Lidless_Eye_(Diablo_II).gif",
 	"setRequirements": "1H Damage: 18 to 42\nMelee Range: 1\nDurability: 50\nLevel Requirement: 65",
-	"setModifiers": "\n20% Faster Cast Rate\n+77 to Mana\n+57 to Life\n+10 to Energy\n+1-2 to Lightning Mastery (varies) (Sorceress Only)\n+1-2 to Fire Mastery (varies) (Sorceress Only)\n+1-2 to Cold Mastery (varies) (Sorceress Only)",
+	"setModifiers": "\n20% Faster Cast Rate\n+77 to Mana\n+57 to Life\n+10 to Energy\n+1-2 to Lightning Mastery <span class='varies'>(varies)</span> (Sorceress Only)\n+1-2 to Fire Mastery <span class='varies'>(varies)</span> (Sorceress Only)\n+1-2 to Cold Mastery <span class='varies'>(varies)</span> (Sorceress Only)",
 	"setBonuses": "\n+1 to Sorceress Skill Levels (2 Items)\n-15% to Enemy Fire Resistance (3 Items)\n-15% to Enemy Lightning Resistance (4 Items)\n+15% to Cold Skill Damage (Complete Set)"
 }, {
 	"type": "set",
@@ -1266,7 +1266,7 @@
 	"setBaseItem": "Mesh Belt",
 	"setSrcIcon": "resources/images/sets/Tal_Rasha's_Fine-Spun_Cloth_(Diablo_II).gif",
 	"setRequirements": "Defense: 95 - 100\nPotion Slots: 16\nMinimum Strength: 47\nDurability: 16\nLevel Requirement: 53",
-	"setModifiers": "\nRequirements -20%\n37% Damage Taken Goes to Mana\n+30 to Mana\n+20 to Dexterity\n10-15% Better Chance of Getting Magic Items (varies)",
+	"setModifiers": "\nRequirements -20%\n37% Damage Taken Goes to Mana\n+30 to Mana\n+20 to Dexterity\n10-15% Better Chance of Getting Magic Items <span class='varies'>(varies)</span>",
 	"setBonuses": "\n+60 Defense (2 Items)\n10% Faster Cast Rate (3 Items)"
 }, {
 	"type": "set",
@@ -1299,7 +1299,7 @@
 	"setBaseItem": "Cantor Trophy",
 	"setSrcIcon": "resources/images/sets/Gargoyle_Head_(Diablo_II).gif",
 	"setRequirements": "Defense: 175 - 189\nBlock: P: 6\n Am/As/B: 6\n D/N/S: 6\nMinimum Strength: 50\nDurability: 20\nLevel Requirement: 54",
-	"setModifiers": "\n+125 Defense\n30% Increased Chance of Blocking\nPoison Resist +40%\nFire Resist +38-45% (varies)\n+15 to Dexterity\n+25 to Strength\n+2 to Poison and Bone Skills (Necromancer Only)",
+	"setModifiers": "\n+125 Defense\n30% Increased Chance of Blocking\nPoison Resist +40%\nFire Resist +38-45% <span class='varies'>(varies)</span>\n+15 to Dexterity\n+25 to Strength\n+2 to Poison and Bone Skills (Necromancer Only)",
 	"setBonuses": "\n-25% to Enemy Poison Resistance (3 items)\nReplenish Life +15 (4 items)"
 }, {
 	"type": "set",
@@ -1326,7 +1326,7 @@
 	"setBaseItem": "Troll Belt",
 	"setSrcIcon": "resources/images/sets/Trang-Oul's_Girth_(Diablo_II).gif",
 	"setRequirements": "Defense: 134 - 166\nPotion Slots: 16\nMinimum Strength: 91\nDurability: 18\nLevel Requirement: 62",
-	"setModifiers": "\n+75-100 Defense (varies)\nRequirements -40%\nCannot be Frozen\nReplenish Life +5\n+25-50 to Mana (varies)\n+30 to Maximum Stamina\n+66 to Life",
+	"setModifiers": "\n+75-100 Defense <span class='varies'>(varies)</span>\nRequirements -40%\nCannot be Frozen\nReplenish Life +5\n+25-50 to Mana <span class='varies'>(varies)</span>\n+30 to Maximum Stamina\n+66 to Life",
 	"setBonuses": "\nCold Resist +40% (3 items)"
 }, {
 	"fullSet": "Trang-Oul's Avatar",

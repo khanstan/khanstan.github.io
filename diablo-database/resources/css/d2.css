@@ -278,6 +278,10 @@ div:empty {
 	text-align: center;
 }
 
+.varies {
+	color: #ffffff;
+}
+
 a {
 	color: inherit;
 }
