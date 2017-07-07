@@ -301,6 +301,10 @@ div:empty {
 	color: #ffffff;
 }
 
+.ladder {
+	color: #ff0000;
+}
+
 a {
 	color: inherit;
 }
