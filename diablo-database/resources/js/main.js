@@ -1,10 +1,30 @@
 $(document).ready(function () {
+	var query = window.location.hash.substring(1);
+	
+
+	if(query) {
+		console.log(query);
+		$(".typeahead").val(query);
+		setTimeout(() => $(".typeahead").focus(), 0);
+	};
 
     var keySet;
     var setObject;
 
+    function ifUnique(check) {
+    	if (check.length > 1) {
+    		return 'Unique: ' +check;
+    	}
+    }
+
+    function ifSet(check) {
+    	if (check.length > 1) {
+    		return 'Set: ' +check;
+    	}
+    }
+
 	function hideVisible() {
-		$('.runeword, .rune, .unique, .set, .one').removeClass().addClass('hidden');
+		$('.runeword, .rune, .unique, .set, .one, .normal').removeClass().addClass('hidden');
 		$('.setItemSrcIcon').attr('src', '');
 		$('.setItemName, .setBaseItem, .setItemSrcIcon, .setItemRequirements, .setItemModifiers, .setItemBonuses').empty();
 	};
@@ -49,49 +69,67 @@ $(document).ready(function () {
 	}
 	});
 
+	var dataSourceNormal = new Bloodhound({
+		datumTokenizer: Bloodhound.tokenizers.obj.whitespace('itemName'),
+		queryTokenizer: Bloodhound.tokenizers.whitespace,
+		prefetch: {
+			url: "normal.json",
+			cache: false
+		}
+	});
+
 	dataSourceRunewords.initialize();
 	dataSourceRunes.initialize();
 	dataSourceUniques.initialize();
 	dataSourceSets.initialize();
+	dataSourceNormal.initialize();
 
 	$('.typeahead').on('typeahead:select', function(ev, data) {
 		hideVisible();
 		switch(data.type) {
 			case 'runeword':
 				document.getElementById("runeword").className = "runeword";
-				document.getElementById("runewordName").textContent=data.name;
-				document.getElementById("allowedItems").textContent=data.allowedItems;
-				document.getElementById("runes").textContent=data.runes.split(' + ').join('-')
-				document.getElementById("modifiers").innerHTML=data.modifiers.split('!').join('\n');
-				document.getElementById("runeWordReqLevel").textContent='req.lvl: ' + data.runewordReqLevel;
+				document.getElementById("runewordName").textContent = data.name;
+				document.getElementById("allowedItems").textContent = data.allowedItems;
+				document.getElementById("runes").textContent = data.runes.split(' + ').join('-')
+				document.getElementById("modifiers").innerHTML = data.modifiers.split('!').join('\n');
+				document.getElementById("runeWordReqLevel").textContent = 'req.lvl: ' + data.runewordReqLevel;
 				break;
 			case 'rune':
 				document.getElementById("rune").className = "rune";
 				document.getElementById("runeIcon").src = data.runeSrcIcon;
-				document.getElementById("runeName").textContent=data.runeName;
-				document.getElementById("runeWeaponBonus").textContent='Weapons: \n' + data.runeWeaponBonus;
-				document.getElementById("runeArmorBonus").textContent='Armor/Helms/Shields: \n' + data.runeArmorBonus.split('/').join('\n');
-				document.getElementById("runeReqLevel").textContent='req.lvl: ' + data.runeReqLevel;
+				document.getElementById("runeName").textContent = data.runeName;
+				document.getElementById("runeWeaponBonus").textContent = 'Weapons: \n' + data.runeWeaponBonus;
+				document.getElementById("runeArmorBonus").textContent = 'Armor/Helms/Shields: \n' + data.runeArmorBonus.split('/').join('\n');
+				document.getElementById("runeReqLevel").textContent = 'req.lvl: ' + data.runeReqLevel;
 				break;
 			case 'unique':
 				document.getElementById("unique").className = "unique";
-				document.getElementById("uniqueName").textContent=data.uniqueName;
+				document.getElementById("uniqueName").textContent = data.uniqueName;
 				document.getElementById("uniqueSrcIcon").src = data.uniqueSrcIcon;
-				document.getElementById("baseItem").textContent='(' + data.baseItem + ')';
-				document.getElementById("uniqueRequirements").textContent=data.uniqueRequirements;
-				document.getElementById("uniqueReqLevel").textContent='req.lvl: ' + data.uniqueReqLevel;
-				document.getElementById("uniqueModifiers").innerHTML=data.uniqueModifiers;
+				document.getElementById("baseItem").textContent = '(' + data.baseItem + ')';
+				document.getElementById("uniqueRequirements").textContent = data.uniqueRequirements;
+				document.getElementById("uniqueReqLevel").textContent = 'req.lvl: ' + data.uniqueReqLevel;
+				document.getElementById("uniqueModifiers").innerHTML = data.uniqueModifiers;
 				break;
 			case 'set':
 			    keySet = data.setName; 
 				document.getElementById("set").className = "set";
-				document.getElementById("setName").textContent=data.setName;
-				document.getElementById("setItemName").textContent=data.setItemName;
+				document.getElementById("setName").textContent = data.setName;
+				document.getElementById("setItemName").textContent = data.setItemName;
 				document.getElementById("setSrcIcon").src = data.setSrcIcon;
-				document.getElementById("setBaseItem").textContent='(' + data.setBaseItem + ')';
-				document.getElementById("setRequirements").textContent=data.setRequirements;
-				document.getElementById("setModifiers").innerHTML=data.setModifiers;
-				document.getElementById("setBonuses").innerHTML=data.setBonuses;
+				document.getElementById("setBaseItem").textContent = '(' + data.setBaseItem + ')';
+				document.getElementById("setRequirements").textContent = data.setRequirements;
+				document.getElementById("setModifiers").innerHTML = data.setModifiers;
+				document.getElementById("setBonuses").innerHTML = data.setBonuses;
+				break;
+			case 'normal':
+				document.getElementById("normal").className = "normal";
+				document.getElementById("normalName").textContent = data.itemName;
+				document.getElementById("uniqueVersion").textContent = ifUnique(data.uniqueVersion);
+				document.getElementById("setVersion").textContent = ifSet(data.setVersion);
+				document.getElementById("normalSrcIcon").src = data.srcIcon;
+				document.getElementById("normalRequirements").textContent = data.requirements;
 				break;
 		}
 
@@ -179,6 +217,15 @@ $(document).ready(function () {
 		templates: {
 			suggestion: function (data) {
 				return '<p class="suggestion"> <span class = "sugSet">Set</span>: ' + data.setItemName + ' (' + data.setName + ')</p>';
+			}
+		}
+	}, {
+		name: 'Normal',
+		displayKey: 'itemName',
+		source: dataSourceNormal.ttAdapter(),
+		templates: {
+			suggestion: function (data) {
+				return '<p class="suggestion"> <span class = "sugNormal">Normal</span>: ' + data.itemName + '</p>';
 			}
 		}
 	}

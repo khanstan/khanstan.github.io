@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Cabin:400);
 
 html {
-  overflow-y: scroll;
+	overflow-y: scroll;
 }
 
 body {
@@ -212,6 +212,17 @@ div:empty {
 	position: relative;
 	display: inline-block;
 }
+
+.normal {
+	color: #fff;
+	white-space: pre-line;
+	padding: 20px;
+	border: 2px solid rgb(93, 94, 96);
+	border-radius: 15px;
+	position: relative;
+	display: inline-block;
+}
+
 .unique {
 	color: #fff;
 	white-space: pre-line;
@@ -252,8 +263,16 @@ div:empty {
 	color: #827c6b;
 }
 
+.small {
+	font-size: 13px;
+}
+
 .sugSet, #setBonuses, #setName, #fullSetName, .setItemBonuses {
 	color: #27dd0b;
+}
+
+.sugNormal {
+	color: #cccccc;
 }
 
 #footer {

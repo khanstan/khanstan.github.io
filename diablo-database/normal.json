@@ -1,0 +1,3452 @@
+[{
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Stag Bow",
+	"srcIcon": "resources/images/Maiden_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 7 to 12\nAttack Speed: [0]\nMinimum Strength: 30\nMinimum Dexterity: 45\nMax Sockets: 5\nQuality Level: 18\nLevel Requirement: 14"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Reflex Bow",
+	"srcIcon": "resources/images/Reflex_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 9 to 19\nAttack Speed: [10]\nMinimum Strength: 35\nMinimum Dexterity: 60\nMax Sockets: 5\nQuality Level: 27\nLevel Requirement: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Maiden Spear",
+	"srcIcon": "resources/images/Maiden_Spear_(Diablo_II).gif",
+	"requirements": "2H Damage: 18 to 24\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 54\nMinimum Dexterity: 40\nDurability: 28\nMax Sockets: 6\nQuality Level: 18\nLevel Requirement: 14"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Maiden Pike",
+	"srcIcon": "resources/images/Maiden_Pike_(Diablo_II).gif",
+	"requirements": "2H Damage: 23 to 55\nMelee Range: 5\nAttack Speed: [10]\nMinimum Strength: 63\nMinimum Dexterity: 52\nDurability: 25\nMax Sockets: 6\nQuality Level: 27\nLevel Requirement: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Maiden Javelin",
+	"srcIcon": "resources/images/Maiden_Javelin_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 14\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 33\nMinimum Dexterity: 47\nQuality Level: 23\nLevel Requirement: 17"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Ashwood Bow",
+	"srcIcon": "resources/images/Maiden_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 16 to 29\nAttack Speed: [0]\nMinimum Strength: 56\nMinimum Dexterity: 77\nMax Sockets: 5\nQuality Level: 39\nLevel Requirement: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lycander's Aim",
+	"setVersion": "",
+	"itemName": "Ceremonial Bow",
+	"srcIcon": "resources/images/Reflex_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 19 to 41\nAttack Speed: [10]\nMinimum Strength: 73\nMinimum Dexterity: 110\nMax Sockets: 5\nQuality Level: 47\nLevel Requirement: 35"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Ceremonial Spear",
+	"srcIcon": "resources/images/Maiden_Spear_(Diablo_II).gif",
+	"requirements": "2H Damage: 34 to 51\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 101\nMinimum Dexterity: 80\nDurability: 28\nMax Sockets: 6\nQuality Level: 43\nLevel Requirement: 32"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lycander's Flank",
+	"setVersion": "",
+	"itemName": "Ceremonial Pike",
+	"srcIcon": "resources/images/Maiden_Pike_(Diablo_II).gif",
+	"requirements": "2H Damage: 42 to 101\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 115\nMinimum Dexterity: 98\nDurability: 25\nMax Sockets: 6\nQuality Level: 51\nLevel Requirement: 38"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Titan's Revenge",
+	"setVersion": "",
+	"itemName": "Ceremonial Javelin",
+	"srcIcon": "resources/images/Maiden_Javelin_(Diablo_II).gif",
+	"requirements": "1H Damage: 18 to 35\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 109\nQuality Level: 35\nLevel Requirement: 26"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blood Raven's Charge",
+	"setVersion": "",
+	"itemName": "Matriarchal Bow",
+	"srcIcon": "resources/images/Maiden_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 20 to 47\nAttack Speed: [-10]\nMinimum Strength: 87\nMinimum Dexterity: 187\nMax Sockets: 5\nQuality Level: 53\nLevel Requirement: 39"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "M'avina's Caster",
+	"itemName": "Grand Matron Bow",
+	"srcIcon": "resources/images/Reflex_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 72\nAttack Speed: [10]\nMinimum Strength: 108\nMinimum Dexterity: 152\nMax Sockets: 5\nQuality Level: 78\nLevel Requirement: 58"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stoneraven",
+	"setVersion": "",
+	"itemName": "Matriarchal Spear",
+	"srcIcon": "resources/images/Maiden_Spear_(Diablo_II).gif",
+	"requirements": "2H Damage: 65 to 95\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 114\nMinimum Dexterity: 142\nDurability: 28\nMax Sockets: 6\nQuality Level: 61\nLevel Requirement: 45"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Matriarchal Pike",
+	"srcIcon": "resources/images/Maiden_Pike_(Diablo_II).gif",
+	"requirements": "2H Damage: 37 to 153\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 132\nMinimum Dexterity: 149\nDurability: 258\nMax Sockets: 6\nQuality Level: 81\nLevel Requirement: 60"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Thunderstroke",
+	"setVersion": "",
+	"itemName": "Matriarchal Javelin",
+	"srcIcon": "resources/images/Maiden_Javelin_(Diablo_II).gif",
+	"requirements": "1H Damage: 30 to 54\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 107\nMinimum Dexterity: 151\nQuality Level: 65\nLevel Requirement: 48"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Katar",
+	"srcIcon": "resources/images/Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 4 to 7\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 20\nMinimum Dexterity: 20\nDurability: 48\nMax Sockets: 2\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Wrist Blade",
+	"srcIcon": "resources/images/Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 9\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 33\nMinimum Dexterity: 33\nDurability: 52\nMax Sockets: 2\nQuality Level: 9"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hatchet Hands",
+	"srcIcon": "resources/images/Hatchet_Hands_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 15\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 37\nMinimum Dexterity: 37\nDurability: 56\nMax Sockets: 2\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Cestus",
+	"srcIcon": "resources/images/Hatchet_Hands_(Diablo_II).gif",
+	"requirements": "1H Damage: 7 to 15\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 42\nMinimum Dexterity: 42\nDurability: 72\nMax Sockets: 2\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Claws",
+	"srcIcon": "resources/images/Claws_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 15\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 46\nMinimum Dexterity: 46\nDurability: 64\nMax Sockets: 3\nQuality Level: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Blade Talons",
+	"srcIcon": "resources/images/Claws_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 14\nMelee Range: 2\nAttack Speed: [-20]\nMinimum Strength: 50\nMinimum Dexterity: 50\nDurability: 69\nMax Sockets: 3\nQuality Level: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Scissors Katar",
+	"srcIcon": "resources/images/Scissors_Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 9 to 17\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 55\nMinimum Dexterity: 55\nDurability: 68\nMax Sockets: 3\nQuality Level: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Quhab",
+	"srcIcon": "resources/images/Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 11 to 24\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 57\nMinimum Dexterity: 57\nDurability: 48\nMax Sockets: 3\nQuality Level: 28\nLevel Requirement: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Wrist Spike",
+	"srcIcon": "resources/images/Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 27\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 66\nMinimum Dexterity: 66\nDurability: 56\nMax Sockets: 2\nQuality Level: 32\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Fascia",
+	"srcIcon": "resources/images/Hatchet_Hands_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 37\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 69\nMinimum Dexterity: 69\nDurability: 64\nMax Sockets: 2\nQuality Level: 36\nLevel Requirement: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hand Scythe",
+	"srcIcon": "resources/images/Hatchet_Hands_(Diablo_II).gif",
+	"requirements": "1H Damage: 16 to 37\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 73\nMinimum Dexterity: 73\nDurability: 72\nMax Sockets: 2\nQuality Level: 41\nLevel Requirement: 30"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Greater Claws",
+	"srcIcon": "resources/images/Claws_(Diablo_II).gif",
+	"requirements": "1H Damage: 18 to 37\nMelee Range: 2\nAttack Speed: [-20]\nMinimum Strength: 76\nMinimum Dexterity: 76\nDurability: 52\nMax Sockets: 3\nQuality Level: 45\nLevel Requirement: 33"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bartuc's Cut-Throat",
+	"setVersion": "",
+	"itemName": "Greater Talons",
+	"srcIcon": "resources/images/Claws_(Diablo_II).gif",
+	"requirements": "1H Damage: 21 to 35\nMelee Range: 2\nAttack Speed: [-30]\nMinimum Strength: 79\nMinimum Dexterity: 79\nDurability: 69\nMax Sockets: 3\nQuality Level: 50\nLevel Requirement: 37"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Scissors Quhab",
+	"srcIcon": "resources/images/Scissors_Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 19 to 40\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 82\nMinimum Dexterity: 82\nDurability: 68\nMax Sockets: 3\nQuality Level: 54\nLevel Requirement: 40"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Suwayyah",
+	"srcIcon": "resources/images/Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 39 to 52\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 99\nMinimum Dexterity: 99\nDurability: 48\nMax Sockets: 3\nQuality Level: 59\nLevel Requirement: 44"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Jade Talon",
+	"setVersion": "",
+	"itemName": "Wrist Sword",
+	"srcIcon": "resources/images/Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 34 to 45\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 105\nMinimum Dexterity: 105\nDurability: 56\nMax Sockets: 3\nQuality Level: 62\nLevel Requirement: 46"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "War Fist",
+	"srcIcon": "resources/images/Hatchet_Hands_(Diablo_II).gif",
+	"requirements": "1H Damage: 44 to 53\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 108\nMinimum Dexterity: 108\nDurability: 64\nMax Sockets: 2\nQuality Level: 68\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Shadow Killer",
+	"setVersion": "",
+	"itemName": "Battle Cestus",
+	"srcIcon": "resources/images/Hatchet_Hands_(Diablo_II).gif",
+	"requirements": "1H Damage: 36 to 42\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 110\nMinimum Dexterity: 110\nDurability: 72\nMax Sockets: 2\nQuality Level: 73\nLevel Requirement: 54"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Firelizard's Talons",
+	"setVersion": "",
+	"itemName": "Feral Claws",
+	"srcIcon": "resources/images/Claws_(Diablo_II).gif",
+	"requirements": "1H Damage: 22 to 53\nMelee Range: 2\nAttack Speed: [-20]\nMinimum Strength: 113\nMinimum Dexterity: 113\nDurability: 52\nMax Sockets: 3\nQuality Level: 78\nLevel Requirement: 58"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Runic Talons",
+	"srcIcon": "resources/images/Claws_(Diablo_II).gif",
+	"requirements": "1H Damage: 24 to 44\nMelee Range: 2\nAttack Speed: [-30]\nMinimum Strength: 115\nMinimum Dexterity: 115\nDurability: 69\nMax Sockets: 3\nQuality Level: 81\nLevel Requirement: 60"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Natalya's Mark",
+	"setVersion": "",
+	"itemName": "Scissors Suwayyah",
+	"srcIcon": "resources/images/Scissors_Katar_(Diablo_II).gif",
+	"requirements": "1H Damage: 40 to 51\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 118\nMinimum Dexterity: 118\nDurability: 68\nMax Sockets: 3\nQuality Level: 85\nLevel Requirement: 64"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Eagle Orb",
+	"srcIcon": "resources/images/Eagle_Orb_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 5\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 20\nMax Sockets: 2\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Sacred Globe",
+	"srcIcon": "resources/images/Sacred_Globe_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 8\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 30\nMax Sockets: 2\nQuality Level: 8"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Smoked Sphere",
+	"srcIcon": "resources/images/Smoked_Sphere_(Diablo_II).gif",
+	"requirements": "1H Damage: 4 to 10\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 35\nMax Sockets: 2\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Clasped Orb",
+	"srcIcon": "resources/images/Clasped_Orb_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 12\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 2\nQuality Level: 17"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Jared's Stone",
+	"srcIcon": "resources/images/Jered's_Stone_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 18\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 3\nQuality Level: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Glowing Orb",
+	"srcIcon": "resources/images/Eagle_Orb_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 21\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 20\nMax Sockets: 2\nQuality Level: 32\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Crystalline Globe",
+	"srcIcon": "resources/images/Sacred_Globe_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 26\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 30\nMax Sockets: 2\nQuality Level: 37\nLevel Requirement: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Cloudy Sphere",
+	"srcIcon": "resources/images/Smoked_Sphere_(Diablo_II).gif",
+	"requirements": "1H Damage: 11 to 29\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 35\nMax Sockets: 2\nQuality Level: 41\nLevel Requirement: 30"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Sparkling Ball",
+	"srcIcon": "resources/images/Clasped_Orb_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 32\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 2\nQuality Level: 46\nLevel Requirement: 34"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Oculus",
+	"setVersion": "Tal Rasha's Lidless Eye",
+	"itemName": "Swirling Crystal",
+	"srcIcon": "resources/images/Jered's_Stone_(Diablo_II).gif",
+	"requirements": "1H Damage: 18 to 42\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 3\nQuality Level: 50\nLevel Requirement: 37"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Heavenly Stone",
+	"srcIcon": "resources/images/Eagle_Orb_(Diablo_II).gif",
+	"requirements": "1H Damage: 21 to 46\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 20\nMax Sockets: 2\nQuality Level: 59\nLevel Requirement: 44"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Eschuta's Temper",
+	"setVersion": "",
+	"itemName": "Eldritch Orb",
+	"srcIcon": "resources/images/Sacred_Globe_(Diablo_II).gif",
+	"requirements": "1H Damage: 18 to 50\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 30\nMax Sockets: 2\nQuality Level: 67\nLevel Requirement: 50"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Demon Heart",
+	"srcIcon": "resources/images/Smoked_Sphere_(Diablo_II).gif",
+	"requirements": "1H Damage: 23 to 55\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 35\nMax Sockets: 2\nQuality Level: 75\nLevel Requirement: 56"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Vortex Orb",
+	"srcIcon": "resources/images/Clasped_Orb_(Diablo_II).gif",
+	"requirements": "1H Damage: 12 to 6\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 2\nQuality Level: 84\nLevel Requirement: 63"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Death's Fathom",
+	"setVersion": "",
+	"itemName": "Dimensional Shard",
+	"srcIcon": "resources/images/Jered's_Stone_(Diablo_II).gif",
+	"requirements": "1H Damage: 30 to 53\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 3\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Gnasher",
+	"setVersion": "",
+	"itemName": "Hand Axe",
+	"srcIcon": "resources/images/Hand_axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 6\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 28\nMax Sockets: 2\nQuality Level: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Deathspade",
+	"setVersion": "",
+	"itemName": "Axe",
+	"srcIcon": "resources/images/Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 4 to 11\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 32\nMinimum Dexterity: -\nDurability: 24\nMax Sockets: 4\nQuality Level: 7"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bladebone",
+	"setVersion": "",
+	"itemName": "Double Axe",
+	"srcIcon": "resources/images/Double_Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 13\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 43\nMinimum Dexterity: -\nDurability: 24\nMax Sockets: 5\nQuality Level: 13"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Skull Splitter",
+	"setVersion": "",
+	"itemName": "Military Pick",
+	"srcIcon": "resources/images/Military_pick_(Diablo_II).gif",
+	"requirements": "1H Damage: 7 to 11\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 49\nMinimum Dexterity: 33\nDurability: 26\nMax Sockets: 6\nQuality Level: 19"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rakescar",
+	"setVersion": "",
+	"itemName": "War Axe",
+	"srcIcon": "resources/images/War_Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 18\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 67\nMinimum Dexterity: -\nDurability: 26\nMax Sockets: 6\nQuality Level: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Axe of Fechmar",
+	"setVersion": "",
+	"itemName": "Large Axe",
+	"srcIcon": "resources/images/Large_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 13\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 35\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 4\nQuality Level: 6"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Goreshovel",
+	"setVersion": "",
+	"itemName": "Broad Axe",
+	"srcIcon": "resources/images/Broad_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 10 to 18\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 48\nMinimum Dexterity: -\nDurability: 35\nMax Sockets: 5\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Chieftain",
+	"setVersion": "",
+	"itemName": "Battle Axe",
+	"srcIcon": "resources/images/Battle_axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 12 to 32\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 54\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 5\nQuality Level: 17"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Brainhew",
+	"setVersion": "",
+	"itemName": "Great Axe",
+	"srcIcon": "resources/images/Great_axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 9 to 30\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 63\nMinimum Dexterity: 39\nDurability: 50\nMax Sockets: 6\nQuality Level: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Humongous",
+	"setVersion": "",
+	"itemName": "Giant Axe",
+	"srcIcon": "resources/images/Giant_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 22 to 45\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 70\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 6\nQuality Level: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Coldkill",
+	"setVersion": "",
+	"itemName": "Hatchet",
+	"srcIcon": "resources/images/Hand_axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 21\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: 25\nDurability: 28\nMax Sockets: 2\nQuality Level: 31\nLevel Requirement: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Butcher's Pupil",
+	"setVersion": "",
+	"itemName": "Cleaver",
+	"srcIcon": "resources/images/Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 33\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 68\nMinimum Dexterity: -\nDurability: 24\nMax Sockets: 4\nQuality Level: 34\nLevel Requirement: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Islestrike",
+	"setVersion": "",
+	"itemName": "Twin Axe",
+	"srcIcon": "resources/images/Double_Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 38\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 85\nMinimum Dexterity: -\nDurability: 24\nMax Sockets: 5\nQuality Level: 39\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Pompeii's Wrath",
+	"setVersion": "",
+	"itemName": "Crowbill",
+	"srcIcon": "resources/images/Military_pick_(Diablo_II).gif",
+	"requirements": "1H Damage: 14 to 34\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 94\nMinimum Dexterity: 70\nDurability: 26\nMax Sockets: 6\nQuality Level: 43\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Guardian Naga",
+	"setVersion": "",
+	"itemName": "Naga",
+	"srcIcon": "resources/images/War_Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 16 to 45\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 121\nMinimum Dexterity: -\nDurability: 26\nMax Sockets: 6\nQuality Level: 48\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Warlord's Trust",
+	"setVersion": "",
+	"itemName": "Military Axe",
+	"srcIcon": "resources/images/Large_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 34\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 73\nMinimum Dexterity: -\nDurability: 30\nMax Sockets: 4\nQuality Level: 34\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spellsteel",
+	"setVersion": "",
+	"itemName": "Bearded Axe",
+	"srcIcon": "resources/images/Broad_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 21 to 49\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 92\nMinimum Dexterity: -\nDurability: 35\nMax Sockets: 5\nQuality Level: 38\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormrider",
+	"setVersion": "",
+	"itemName": "Tabar",
+	"srcIcon": "resources/images/Battle_axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 24 to 77\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 101\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 5\nQuality Level: 42\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Boneslayer Blade",
+	"setVersion": "",
+	"itemName": "Gothic Axe",
+	"srcIcon": "resources/images/Great_axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 18 to 70\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 115\nMinimum Dexterity: 79\nDurability: 40\nMax Sockets: 5\nQuality Level: 46\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Minotaur",
+	"setVersion": "",
+	"itemName": "Ancient Axe",
+	"srcIcon": "resources/images/Giant_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 43 to 85\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 125\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 6\nQuality Level: 51\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Razor's Edge",
+	"setVersion": "",
+	"itemName": "Tomahawk",
+	"srcIcon": "resources/images/Hand_axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 33 to 58\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 125\nMinimum Dexterity: 67\nDurability: 28\nMax Sockets: 2\nQuality Level: 54\nLevel Requirement: 40"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ethereal Edge",
+	"setVersion": "",
+	"itemName": "Small Crescent",
+	"srcIcon": "resources/images/Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 38 to 60\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 115\nMinimum Dexterity: 83\nDurability: 24\nMax Sockets: 4\nQuality Level: 61\nLevel Requirement: 45"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rune Master",
+	"setVersion": "",
+	"itemName": "Ettin Axe",
+	"srcIcon": "resources/images/Double_Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 33 to 66\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 145\nMinimum Dexterity: 45\nDurability: 24\nMax Sockets: 5\nQuality Level: 70\nLevel Requirement: 52"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Cranebeak",
+	"setVersion": "",
+	"itemName": "War Spike",
+	"srcIcon": "resources/images/Military_pick_(Diablo_II).gif",
+	"requirements": "1H Damage: 30 to 48\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 133\nMinimum Dexterity: 54\nDurability: 26\nMax Sockets: 6\nQuality Level: 79\nLevel Requirement: 59"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Death Cleaver",
+	"setVersion": "",
+	"itemName": "Berserker Axe",
+	"srcIcon": "resources/images/War_Axe_(Diablo_II).gif",
+	"requirements": "1H Damage: 24 to 71\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 138\nMinimum Dexterity: 59\nDurability: 26\nMax Sockets: 6\nQuality Level: 85\nLevel Requirement: 64"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rune Master",
+	"setVersion": "",
+	"itemName": "Feral Axe",
+	"srcIcon": "resources/images/Large_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 25 to 123\nMelee Range: 2\nAttack Speed: [-15]\nMinimum Strength: 196\nMinimum Dexterity: -\nDurability: 30\nMax Sockets: 4\nQuality Level: 57\nLevel Requirement: 42"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ethereal Edge",
+	"setVersion": "",
+	"itemName": "Silver-Edged Axe",
+	"srcIcon": "resources/images/Broad_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 62 to 110\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 166\nMinimum Dexterity: 65\nDurability: 35\nMax Sockets: 5\nQuality Level: 65\nLevel Requirement: 48"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hellslayer",
+	"setVersion": "",
+	"itemName": "Decapitator",
+	"srcIcon": "resources/images/Battle_axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 49 to 137\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 189\nMinimum Dexterity: 33\nDurability: 40\nMax Sockets: 5\nQuality Level: 73\nLevel Requirement: 54"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Messerschmidt's Reaver",
+	"setVersion": "",
+	"itemName": "Champion Axe",
+	"srcIcon": "resources/images/Great_axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 59 to 94\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 167\nMinimum Dexterity: 59\nDurability: 50\nMax Sockets: 6\nQuality Level: 82\nLevel Requirement: 61"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Executioner's Justice",
+	"setVersion": "",
+	"itemName": "Glorious Axe",
+	"srcIcon": "resources/images/Giant_Axe_(Diablo_II).gif",
+	"requirements": "2H Damage: 60 to 124\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 164\nMinimum Dexterity: 55\nDurability: 50\nMax Sockets: 6\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Pluckeye",
+	"setVersion": "",
+	"itemName": "Short Bow",
+	"srcIcon": "resources/images/Short_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 1 to 4\nAttack Speed: [5]\nMinimum Strength: -\nMinimum Dexterity: 15\nMax Sockets: 3\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Witherstring",
+	"setVersion": "",
+	"itemName": "Hunter's Bow",
+	"srcIcon": "resources/images/Hunter's_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 2 to 6\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: 28\nMax Sockets: 4\nQuality Level: 5"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Raven Claw",
+	"setVersion": "",
+	"itemName": "Long Bow",
+	"srcIcon": "resources/images/Long_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 3 to 10\nAttack Speed: [0]\nMinimum Strength: 22\nMinimum Dexterity: 19\nMax Sockets: 5\nQuality Level: 8"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rogue's Bow",
+	"setVersion": "",
+	"itemName": "Composite Bow",
+	"srcIcon": "resources/images/Composite_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 4 to 8\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 35\nMax Sockets: 4\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormstrike",
+	"setVersion": "",
+	"itemName": "Short Battle Bow",
+	"srcIcon": "resources/images/Short_Battle_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 5 to 11\nAttack Speed: [0]\nMinimum Strength: 30\nMinimum Dexterity: 40\nMax Sockets: 5\nQuality Level: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Wizendraw",
+	"setVersion": "",
+	"itemName": "Long Battle Bow",
+	"srcIcon": "resources/images/Long_Battle_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 3 to 18\nAttack Speed: [10]\nMinimum Strength: 40\nMinimum Dexterity: 50\nMax Sockets: 6\nQuality Level: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hellclap",
+	"setVersion": "",
+	"itemName": "Short War Bow",
+	"srcIcon": "resources/images/Short_War_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 14\nAttack Speed: [0]\nMinimum Strength: 35\nMinimum Dexterity: 55\nMax Sockets: 5\nQuality Level: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blastbark",
+	"setVersion": "",
+	"itemName": "Long War Bow",
+	"srcIcon": "resources/images/Long_War_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 3 to 23\nAttack Speed: [10]\nMinimum Strength: 50\nMinimum Dexterity: 65\nMax Sockets: 6\nQuality Level: 31"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Skystrike",
+	"setVersion": "",
+	"itemName": "Edge Bow",
+	"srcIcon": "resources/images/Short_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 19\nAttack Speed: [5]\nMinimum Strength: 25\nMinimum Dexterity: 43\nMax Sockets: 3\nQuality Level: 30\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Riphook",
+	"setVersion": "",
+	"itemName": "Razor Bow",
+	"srcIcon": "resources/images/Hunter's_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 8 to 22\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 62\nMax Sockets: 4\nQuality Level: 33\nLevel Requirement: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Kuko Shakaku",
+	"setVersion": "",
+	"itemName": "Cedar Bow",
+	"srcIcon": "resources/images/Long_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 10 to 29\nAttack Speed: [0]\nMinimum Strength: 53\nMinimum Dexterity: 48\nMax Sockets: 5\nQuality Level: 35\nLevel Requirement: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Endlesshail",
+	"setVersion": "",
+	"itemName": "Double Bow",
+	"srcIcon": "resources/images/Composite_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 11 to 26\nAttack Speed: [-10]\nMinimum Strength: 58\nMinimum Dexterity: 73\nMax Sockets: 4\nQuality Level: 39\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Witchwild String",
+	"setVersion": "",
+	"itemName": "Short Siege Bow",
+	"srcIcon": "resources/images/Short_Battle_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 13 to 30\nAttack Speed: [0]\nMinimum Strength: 65\nMinimum Dexterity: 80\nMax Sockets: 5\nQuality Level: 43\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Cliffkiller",
+	"setVersion": "",
+	"itemName": "Large Siege Bow",
+	"srcIcon": "resources/images/Long_Battle_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 10 to 42\nAttack Speed: [10]\nMinimum Strength: 80\nMinimum Dexterity: 95\nMax Sockets: 6\nQuality Level: 46\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Magewrath",
+	"setVersion": "",
+	"itemName": "Rune Bow",
+	"srcIcon": "resources/images/Short_War_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 35\nAttack Speed: [0]\nMinimum Strength: 73\nMinimum Dexterity: 103\nMax Sockets: 5\nQuality Level: 49\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Goldstrike Arch",
+	"setVersion": "",
+	"itemName": "Gothic Bow",
+	"srcIcon": "resources/images/Long_War_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 10 to 50\nAttack Speed: [10]\nMinimum Strength: 95\nMinimum Dexterity: 118\nMax Sockets: 6\nQuality Level: 52\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Spider Bow",
+	"srcIcon": "resources/images/Short_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 23 to 50\nAttack Speed: [5]\nMinimum Strength: 64\nMinimum Dexterity: 143\nMax Sockets: 3\nQuality Level: 55\nLevel Requirement: 41"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Blade Bow",
+	"srcIcon": "resources/images/Hunter's_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 21 to 41\nAttack Speed: [-10]\nMinimum Strength: 76\nMinimum Dexterity: 119\nMax Sockets: 4\nQuality Level: 60\nLevel Requirement: 45"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Shadow Bow",
+	"srcIcon": "resources/images/Long_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 15 to 59\nAttack Speed: [0]\nMinimum Strength: 52\nMinimum Dexterity: 188\nMax Sockets: 5\nQuality Level: 63\nLevel Requirement: 47"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Great Bow",
+	"srcIcon": "resources/images/Composite_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 12 to 52\nAttack Speed: [-10]\nMinimum Strength: 121\nMinimum Dexterity: 107\nMax Sockets: 4\nQuality Level: 68\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Diamond Bow",
+	"srcIcon": "resources/images/Short_Battle_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 33 to 40\nAttack Speed: [0]\nMinimum Strength: 89\nMinimum Dexterity: 132\nMax Sockets: 5\nQuality Level: 72\nLevel Requirement: 54"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Eaglehorn",
+	"setVersion": "",
+	"itemName": "Crusader Bow",
+	"srcIcon": "resources/images/Long_Battle_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 15 to 63\nAttack Speed: [10]\nMinimum Strength: 97\nMinimum Dexterity: 121\nMax Sockets: 6\nQuality Level: 77\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Widowmaker",
+	"setVersion": "",
+	"itemName": "Ward Bow",
+	"srcIcon": "resources/images/Short_War_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 20 to 53\nAttack Speed: [0]\nMinimum Strength: 72\nMinimum Dexterity: 146\nMax Sockets: 5\nQuality Level: 80\nLevel Requirement: 60"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Windforce",
+	"setVersion": "",
+	"itemName": "Hydra Bow",
+	"srcIcon": "resources/images/Long_War_Bow_(Diablo_II).gif",
+	"requirements": "2H Damage: 10 to 68\nAttack Speed: [10]\nMinimum Strength: 134\nMinimum Dexterity: 167\nMax Sockets: 6\nQuality Level: 85\nLevel Requirement: 63"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Leadcrow",
+	"setVersion": "",
+	"itemName": "Light Crossbow",
+	"srcIcon": "resources/images/Light_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 9\nAttack Speed: [-10]\nMinimum Strength: 21\nMinimum Dexterity: 27\nMax Sockets: 3\nQuality Level: 6"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ichorstring",
+	"setVersion": "",
+	"itemName": "Crossbow",
+	"srcIcon": "resources/images/Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 9 to 16\nAttack Speed: [0]\nMinimum Strength: 40\nMinimum Dexterity: 33\nMax Sockets: 4\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hellcast",
+	"setVersion": "",
+	"itemName": "Heavy Crossbow",
+	"srcIcon": "resources/images/Heavy_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 26\nAttack Speed: [10]\nMinimum Strength: 60\nMinimum Dexterity: 40\nMax Sockets: 6\nQuality Level: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Doomslinger",
+	"setVersion": "",
+	"itemName": "Repeating Crossbow",
+	"srcIcon": "resources/images/Repeating_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 12\nAttack Speed: [-40]\nMinimum Strength: 40\nMinimum Dexterity: 50\nMax Sockets: 5\nQuality Level: 33"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Langer Briser",
+	"setVersion": "",
+	"itemName": "Arbalest",
+	"srcIcon": "resources/images/Light_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 27\nAttack Speed: [-10]\nMinimum Strength: 52\nMinimum Dexterity: 61\nMax Sockets: 3\nQuality Level: 34\nLevel Requirement: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Pus Spitter",
+	"setVersion": "",
+	"itemName": "Siege Crossbow",
+	"srcIcon": "resources/images/Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 20 to 42\nAttack Speed: [0]\nMinimum Strength: 80\nMinimum Dexterity: 70\nMax Sockets: 4\nQuality Level: 40\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Ballista",
+	"srcIcon": "resources/images/Heavy_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 35 to 55\nAttack Speed: [10]\nMinimum Strength: 110\nMinimum Dexterity: 80\nMax Sockets: 6\nQuality Level: 47\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Demon Machine",
+	"setVersion": "",
+	"itemName": "Chu-Ko-Nu",
+	"srcIcon": "resources/images/Repeating_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 32\nAttack Speed: [-60]\nMinimum Strength: 80\nMinimum Dexterity: 95\nMax Sockets: 5\nQuality Level: 54\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Pellet Bow",
+	"srcIcon": "resources/images/Light_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 28 to 73\nAttack Speed: [-10]\nMinimum Strength: 83\nMinimum Dexterity: 155\nMax Sockets: 3\nQuality Level: 57\nLevel Requirement: 42"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Gorgon Crossbow",
+	"srcIcon": "resources/images/Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 25 to 87\nAttack Speed: [0]\nMinimum Strength: 117\nMinimum Dexterity: 105\nMax Sockets: 4\nQuality Level: 67\nLevel Requirement: 50"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hellrack",
+	"setVersion": "",
+	"itemName": "Colossus Crossbow",
+	"srcIcon": "resources/images/Heavy_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 32 to 91\nAttack Speed: [10]\nMinimum Strength: 163\nMinimum Dexterity: 77\nMax Sockets: 6\nQuality Level: 75\nLevel Requirement: 56"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gut Siphon",
+	"setVersion": "",
+	"itemName": "Demon Crossbow",
+	"srcIcon": "resources/images/Repeating_Crossbow_(Diablo_II).gif",
+	"requirements": "2H Damage: 26 to 40\nAttack Speed: [-60]\nMinimum Strength: 141\nMinimum Dexterity: 98\nMax Sockets: 5\nQuality Level: 84\nLevel Requirement: 63"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gull",
+	"setVersion": "",
+	"itemName": "Dagger",
+	"srcIcon": "resources/images/Dagger_(Diablo_II).gif",
+	"requirements": "1H Damage: 1 to 4\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 16\nMax Sockets: 1\nQuality Level: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Diggler",
+	"setVersion": "",
+	"itemName": "Dirk",
+	"srcIcon": "resources/images/Dirk_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 9\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: 25\nDurability: 20\nMax Sockets: 1\nQuality Level: 9"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Jade Tan Do",
+	"setVersion": "",
+	"itemName": "Kris",
+	"srcIcon": "resources/images/Kris_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 11\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: 45\nDurability: 24\nMax Sockets: 3\nQuality Level: 17"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spectral Shard",
+	"setVersion": "",
+	"itemName": "Blade",
+	"srcIcon": "resources/images/Blade_(Diablo_II).gif",
+	"requirements": "1H Damage: 4 to 15\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 35\nMinimum Dexterity: 51\nDurability: 24\nMax Sockets: 2\nQuality Level: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spineripper",
+	"setVersion": "",
+	"itemName": "Poignard",
+	"srcIcon": "resources/images/Dagger_(Diablo_II).gif",
+	"requirements": "1H Damage: 6 to 18\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 16\nMax Sockets: 1\nQuality Level: 31\nLevel Requirement: 19"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Heart Carver",
+	"setVersion": "",
+	"itemName": "Rondel",
+	"srcIcon": "resources/images/Dirk_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 26\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: 58\nDurability: 20\nMax Sockets: 1\nQuality Level: 36\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blackbog's Sharp",
+	"setVersion": "",
+	"itemName": "Cinquedeas",
+	"srcIcon": "resources/images/Kris_(Diablo_II).gif",
+	"requirements": "1H Damage: 6 to 18\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 25\nMinimum Dexterity: 88\nDurability: 24\nMax Sockets: 3\nQuality Level: 42\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormspike",
+	"setVersion": "",
+	"itemName": "Stiletto",
+	"srcIcon": "resources/images/Blade_(Diablo_II).gif",
+	"requirements": "1H Damage: 19 to 36\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 73\nMinimum Dexterity: 97\nDurability: 24\nMax Sockets: 2\nQuality Level: 46\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Wizardspike",
+	"setVersion": "",
+	"itemName": "Bone Knife",
+	"srcIcon": "resources/images/Dagger_(Diablo_II).gif",
+	"requirements": "1H Damage: 23 to 49\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 38\nMinimum Dexterity: 75\nDurability: 26\nMax Sockets: 1\nQuality Level: 58\nLevel Requirement: 43"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Mithril Point",
+	"srcIcon": "resources/images/Dirk_(Diablo_II).gif",
+	"requirements": "1H Damage: 37 to 53\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 55\nMinimum Dexterity: 98\nDurability: 55\nMax Sockets: 1\nQuality Level: 70\nLevel Requirement: 52"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Fleshripper",
+	"setVersion": "",
+	"itemName": "Fanged Knife",
+	"srcIcon": "resources/images/Kris_(Diablo_II).gif",
+	"requirements": "1H Damage: 15 to 57\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 42\nMinimum Dexterity: 86\nDurability: 36\nMax Sockets: 3\nQuality Level: 83\nLevel Requirement: 62"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ghostflame",
+	"setVersion": "",
+	"itemName": "Legend Spike",
+	"srcIcon": "resources/images/Blade_(Diablo_II).gif",
+	"requirements": "1H Damage: 31 to 47\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 65\nMinimum Dexterity: 67\nDurability: 47\nMax Sockets: 2\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Javelin",
+	"srcIcon": "resources/images/Javelin_(Diablo_II).gif",
+	"requirements": "1H Damage: 1 to 5\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Pilum",
+	"srcIcon": "resources/images/Pilum_(Diablo_II).gif",
+	"requirements": "1H Damage: 4 to 9\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: 45\nQuality Level: 10"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Short Spear",
+	"srcIcon": "resources/images/Short_Spear_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 13\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 40\nMinimum Dexterity: 40\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Glaive",
+	"srcIcon": "resources/images/Glaive_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 17\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 52\nMinimum Dexterity: 35\nQuality Level: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Throwing Spear",
+	"srcIcon": "resources/images/Throwing_Spear_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 15\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: 65\nQuality Level: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "War Javelin",
+	"srcIcon": "resources/images/Javelin_(Diablo_II).gif",
+	"requirements": "1H Damage: 6 to 19\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 25\nQuality Level: 30\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Great Pilum",
+	"srcIcon": "resources/images/Pilum_(Diablo_II).gif",
+	"requirements": "1H Damage: 11 to 26\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: 88\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Simbilan",
+	"srcIcon": "resources/images/Short_Spear_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 32\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 80\nMinimum Dexterity: 80\nQuality Level: 40\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Spiculum",
+	"srcIcon": "resources/images/Glaive_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 38\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 98\nMinimum Dexterity: 73\nQuality Level: 46\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Harpoon",
+	"srcIcon": "resources/images/Throwing_Spear_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 35\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 118\nQuality Level: 51\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hyperion Javelin",
+	"srcIcon": "resources/images/Javelin_(Diablo_II).gif",
+	"requirements": "1H Damage: 21 to 57\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 98\nMinimum Dexterity: 123\nQuality Level: 54\nLevel Requirement: 40"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Stygian Pilum",
+	"srcIcon": "resources/images/Pilum_(Diablo_II).gif",
+	"requirements": "1H Damage: 14 to 64\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 118\nMinimum Dexterity: 112\nQuality Level: 62\nLevel Requirement: 46"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Demon's Arch",
+	"setVersion": "",
+	"itemName": "Balrog Spear",
+	"srcIcon": "resources/images/Short_Spear_(Diablo_II).gif",
+	"requirements": "1H Damage: 33 to 63\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 127\nMinimum Dexterity: 95\nQuality Level: 71\nLevel Requirement: 53"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Wraith Flight",
+	"setVersion": "",
+	"itemName": "Ghost Glaive",
+	"srcIcon": "resources/images/Glaive_(Diablo_II).gif",
+	"requirements": "1H Damage: 19 to 60\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 89\nMinimum Dexterity: 137\nQuality Level: 79\nLevel Requirement: 59"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gargoyle's Bite",
+	"setVersion": "",
+	"itemName": "Winged Harpoon",
+	"srcIcon": "resources/images/Throwing_Spear_(Diablo_II).gif",
+	"requirements": "1H Damage: 27 to 35\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 76\nMinimum Dexterity: 145\nQuality Level: 85\nLevel Requirement: 65"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Felloak",
+	"setVersion": "",
+	"itemName": "Club",
+	"srcIcon": "resources/images/Club_(Diablo_II).gif",
+	"requirements": "1H Damage: 1 to 6\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 24\nMax Sockets: 2\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stoutnail",
+	"setVersion": "",
+	"itemName": "Spiked Club",
+	"srcIcon": "resources/images/Spiked_Club_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 8\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 36\nMax Sockets: 2\nQuality Level: 4"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Crushflange",
+	"setVersion": "",
+	"itemName": "Mace",
+	"srcIcon": "resources/images/Mace_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 10\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 27\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 2\nQuality Level: 8"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bloodrise",
+	"setVersion": "",
+	"itemName": "Morning Star",
+	"srcIcon": "resources/images/Morning_Star_(Diablo_II).gif",
+	"requirements": "1H Damage: 7 to 16\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 36\nMinimum Dexterity: -\nDurability: 72\nMax Sockets: 3\nQuality Level: 13"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The General's Tan Do Li Ga",
+	"setVersion": "",
+	"itemName": "Flail",
+	"srcIcon": "resources/images/Flail_(Diablo_II).gif",
+	"requirements": "1H Damage: 1 to 24\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 41\nMinimum Dexterity: 35\nDurability: 30\nMax Sockets: 5\nQuality Level: 19"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ironstone",
+	"setVersion": "",
+	"itemName": "War Hammer",
+	"srcIcon": "resources/images/War_Hammer_(Diablo_II).gif",
+	"requirements": "1H Damage: 19 to 29\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 53\nMinimum Dexterity: -\nDurability: 55\nMax Sockets: 4\nQuality Level: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bonesnap",
+	"setVersion": "",
+	"itemName": "Maul",
+	"srcIcon": "resources/images/Maul_(Diablo_II).gif",
+	"requirements": "2H Damage: 30 to 43\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 69\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 6\nQuality Level: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Steeldriver",
+	"setVersion": "",
+	"itemName": "Great Maul",
+	"srcIcon": "resources/images/Great_Maul_(Diablo_II).gif",
+	"requirements": "2H Damage: 38 to 58\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 99\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 6\nQuality Level: 32"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Dark Clan Crusher",
+	"setVersion": "",
+	"itemName": "Cudgel",
+	"srcIcon": "resources/images/Club_(Diablo_II).gif",
+	"requirements": "1H Damage: 6 to 21\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 24\nMax Sockets: 2\nQuality Level: 30\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Fleshrender",
+	"setVersion": "",
+	"itemName": "Barbed Club",
+	"srcIcon": "resources/images/Spiked_Club_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 25\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 30\nMinimum Dexterity: -\nDurability: 36\nMax Sockets: 3\nQuality Level: 32\nLevel Requirement: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Sureshrill Frost",
+	"setVersion": "",
+	"itemName": "Flanged Mace",
+	"srcIcon": "resources/images/Mace_(Diablo_II).gif",
+	"requirements": "1H Damage: 15 to 23\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 61\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 2\nQuality Level: 35\nLevel Requirement: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Moonfall",
+	"setVersion": "",
+	"itemName": "Jagged Star",
+	"srcIcon": "resources/images/Morning_Star_(Diablo_II).gif",
+	"requirements": "1H Damage: 20 to 31\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 74\nMinimum Dexterity: -\nDurability: 72\nMax Sockets: 3\nQuality Level: 39\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Baezil's Vortex",
+	"setVersion": "",
+	"itemName": "Knout",
+	"srcIcon": "resources/images/Flail_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 35\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 82\nMinimum Dexterity: 73\nDurability: 30\nMax Sockets: 5\nQuality Level: 43\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Earthshaker",
+	"setVersion": "",
+	"itemName": "Battle Hammer",
+	"srcIcon": "resources/images/War_Hammer_(Diablo_II).gif",
+	"requirements": "1H Damage: 35 to 58\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 100\nMinimum Dexterity: -\nDurability: 55\nMax Sockets: 4\nQuality Level: 48\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bloodtree Stump",
+	"setVersion": "",
+	"itemName": "War Club",
+	"srcIcon": "resources/images/Maul_(Diablo_II).gif",
+	"requirements": "2H Damage: 53 to 78\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 124\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 6\nQuality Level: 45\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Gavel of Pain",
+	"setVersion": "",
+	"itemName": "Martel de Fer",
+	"srcIcon": "resources/images/Great_Maul_(Diablo_II).gif",
+	"requirements": "2H Damage: 61 to 99\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 169\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 6\nQuality Level: 53\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Nord's Tenderizer",
+	"setVersion": "",
+	"itemName": "Truncheon",
+	"srcIcon": "resources/images/Club_(Diablo_II).gif",
+	"requirements": "1H Damage: 35 to 43\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 88\nMinimum Dexterity: 43\nDurability: 29\nMax Sockets: 2\nQuality Level: 52\nLevel Requirement: 39"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Demon Limb",
+	"setVersion": "",
+	"itemName": "Tyrant Club",
+	"srcIcon": "resources/images/Spiked_Club_(Diablo_II).gif",
+	"requirements": "1H Damage: 32 to 58\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 133\nMinimum Dexterity: -\nDurability: 45\nMax Sockets: 3\nQuality Level: 57\nLevel Requirement: 42"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Reinforced Mace",
+	"srcIcon": "resources/images/Mace_(Diablo_II).gif",
+	"requirements": "1H Damage: 41 to 49\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 145\nMinimum Dexterity: 46\nDurability: 60\nMax Sockets: 2\nQuality Level: 63\nLevel Requirement: 47"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Baranar's Star",
+	"setVersion": "",
+	"itemName": "Devil Star",
+	"srcIcon": "resources/images/Morning_Star_(Diablo_II).gif",
+	"requirements": "1H Damage: 43 to 53\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 153\nMinimum Dexterity: 44\nDurability: 72\nMax Sockets: 3\nQuality Level: 70\nLevel Requirement: 52"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormlash",
+	"setVersion": "",
+	"itemName": "Scourge",
+	"srcIcon": "resources/images/Flail_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 80\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 125\nMinimum Dexterity: 77\nDurability: 65\nMax Sockets: 5\nQuality Level: 76\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stone Crusher",
+	"setVersion": "",
+	"itemName": "Legendary Mallet, Schaefer's Hammer",
+	"srcIcon": "resources/images/War_Hammer_(Diablo_II).gif",
+	"requirements": "1H Damage: 50 to 61\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 189\nMinimum Dexterity: -\nDurability: 65\nMax Sockets: 4\nQuality Level: 82\nLevel Requirement: 61"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Windhammer",
+	"setVersion": "",
+	"itemName": "Ogre Maul",
+	"srcIcon": "resources/images/Maul_(Diablo_II).gif",
+	"requirements": "2H Damage: 77 to 106\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 225\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 6\nQuality Level: 69\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Cranium Basher",
+	"setVersion": "",
+	"itemName": "Thunder Maul",
+	"srcIcon": "resources/images/Great_Maul_(Diablo_II).gif",
+	"requirements": "2H Damage: 33 to 180\nMelee Range: 3\nAttack Speed: [20]\nMinimum Strength: 253\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 6\nQuality Level: 85\nLevel Requirement: 65"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Dimoak's Hew",
+	"setVersion": "",
+	"itemName": "Bardiche",
+	"srcIcon": "resources/images/Bardiche_(Diablo_II).gif",
+	"requirements": "2H Damage: 1 to 27\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 40\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 3\nQuality Level: 5"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Steelgoad",
+	"setVersion": "",
+	"itemName": "Voulge",
+	"srcIcon": "resources/images/Voulge_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 21\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 50\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 4\nQuality Level: 11"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Soul Harvest",
+	"setVersion": "",
+	"itemName": "Scythe",
+	"srcIcon": "resources/images/Scythe_(Diablo_II).gif",
+	"requirements": "2H Damage: 8 to 20\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 41\nMinimum Dexterity: 41\nDurability: 65\nMax Sockets: 5\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Battlebranch",
+	"setVersion": "",
+	"itemName": "Poleaxe",
+	"srcIcon": "resources/images/Poleaxe_(Diablo_II).gif",
+	"requirements": "2H Damage: 18 to 39\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 62\nMinimum Dexterity: -\nDurability: 65\nMax Sockets: 5\nQuality Level: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Woestave",
+	"setVersion": "",
+	"itemName": "Halberd",
+	"srcIcon": "resources/images/Halberd_(Diablo_II).gif",
+	"requirements": "2H Damage: 12 to 45\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 75\nMinimum Dexterity: 47\nDurability: 55\nMax Sockets: 6\nQuality Level: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Grim Reaper",
+	"setVersion": "",
+	"itemName": "War Scythe",
+	"srcIcon": "resources/images/War_Scythe_(Diablo_II).gif",
+	"requirements": "2H Damage: 15 to 36\nMelee Range: 5\nAttack Speed: [-10]\nMinimum Strength: 80\nMinimum Dexterity: 80\nDurability: 55\nMax Sockets: 6\nQuality Level: 34"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Meat Scraper",
+	"setVersion": "",
+	"itemName": "Lochaber Axe",
+	"srcIcon": "resources/images/Bardiche_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 58\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 80\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 3\nQuality Level: 33\nLevel Requirement: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blackleach Blade",
+	"setVersion": "",
+	"itemName": "Bill",
+	"srcIcon": "resources/images/Voulge_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 53\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 95\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 4\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Athena's Wrath",
+	"setVersion": "",
+	"itemName": "Battle Scythe",
+	"srcIcon": "resources/images/Scythe_(Diablo_II).gif",
+	"requirements": "2H Damage: 18 to 45\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 82\nMinimum Dexterity: 82\nDurability: 65\nMax Sockets: 5\nQuality Level: 40\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Pierre Tombale Couant",
+	"setVersion": "",
+	"itemName": "Partizan",
+	"srcIcon": "resources/images/Poleaxe_(Diablo_II).gif",
+	"requirements": "2H Damage: 34 to 75\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 113\nMinimum Dexterity: 67\nDurability: 65\nMax Sockets: 5\nQuality Level: 35\nLevel Requirement: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Husoldal Evo",
+	"setVersion": "",
+	"itemName": "Bec-De-Corbin",
+	"srcIcon": "resources/images/Halberd_(Diablo_II).gif",
+	"requirements": "2H Damage: 13 to 85\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 133\nMinimum Dexterity: 91\nDurability: 55\nMax Sockets: 6\nQuality Level: 51\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Grim's Burning Dead",
+	"setVersion": "",
+	"itemName": "Grim Scythe",
+	"srcIcon": "resources/images/War_Scythe_(Diablo_II).gif",
+	"requirements": "2H Damage: 30 to 70\nMelee Range: 5\nAttack Speed: [-10]\nMinimum Strength: 140\nMinimum Dexterity: 140\nDurability: 55\nMax Sockets: 6\nQuality Level: 55\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bonehew",
+	"setVersion": "",
+	"itemName": "Ogre Axe",
+	"srcIcon": "resources/images/Bardiche_(Diablo_II).gif",
+	"requirements": "2H Damage: 28 to 145\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 195\nMinimum Dexterity: 75\nDurability: 50\nMax Sockets: 3\nQuality Level: 60\nLevel Requirement: 45"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Colossus Voulge",
+	"srcIcon": "resources/images/Voulge_(Diablo_II).gif",
+	"requirements": "2H Damage: 17 to 165\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 210\nMinimum Dexterity: 55\nDurability: 50\nMax Sockets: 4\nQuality Level: 64\nLevel Requirement: 48"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Reaper's Toll",
+	"setVersion": "",
+	"itemName": "Thresher",
+	"srcIcon": "resources/images/Scythe_(Diablo_II).gif",
+	"requirements": "2H Damage: 12 to 141\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 152\nMinimum Dexterity: 118\nDurability: 65\nMax Sockets: 5\nQuality Level: 71\nLevel Requirement: 53"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Tomb Reaver",
+	"setVersion": "",
+	"itemName": "Cryptic Axe",
+	"srcIcon": "resources/images/Poleaxe_(Diablo_II).gif",
+	"requirements": "2H Damage: 33 to 150\nMelee Range: 4\nAttack Speed: [10]\nMinimum Strength: 165\nMinimum Dexterity: 103\nDurability: 65\nMax Sockets: 5\nQuality Level: 79\nLevel Requirement: 59"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Great Poleaxe",
+	"srcIcon": "resources/images/Halberd_(Diablo_II).gif",
+	"requirements": "2H Damage: 46 to 127\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 179\nMinimum Dexterity: 99\nDurability: 55\nMax Sockets: 6\nQuality Level: 84\nLevel Requirement: 63"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormspire",
+	"setVersion": "",
+	"itemName": "Giant Thresher",
+	"srcIcon": "resources/images/War_Scythe_(Diablo_II).gif",
+	"requirements": "2H Damage: 40 to 114\nMelee Range: 5\nAttack Speed: [-10]\nMinimum Strength: 188\nMinimum Dexterity: 140\nDurability: 55\nMax Sockets: 6\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Knell Striker",
+	"setVersion": "",
+	"itemName": "Scepter",
+	"srcIcon": "resources/images/Scepter_(Diablo_II).gif",
+	"requirements": "1H Damage: 6 to 11\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 2\nQuality Level: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rusthandle",
+	"setVersion": "",
+	"itemName": "Grand Scepter",
+	"srcIcon": "resources/images/Grand_Scepter_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 18\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 37\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 3\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormeye",
+	"setVersion": "",
+	"itemName": "War Scepter",
+	"srcIcon": "resources/images/War_Scepter_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 17\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 55\nMinimum Dexterity: -\nDurability: 70\nMax Sockets: 5\nQuality Level: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Zakarum's Hand",
+	"setVersion": "",
+	"itemName": "Rune Scepter",
+	"srcIcon": "resources/images/Scepter_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 24\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 58\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 2\nQuality Level: 31\nLevel Requirement: 19"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Fetid Sprinkler",
+	"setVersion": "",
+	"itemName": "Holy Water Sprinkler",
+	"srcIcon": "resources/images/Grand_Scepter_(Diablo_II).gif",
+	"requirements": "1H Damage: 14 to 36\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 76\nMinimum Dexterity: -\nDurability: 60\nMax Sockets: 3\nQuality Level: 40\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hand of Blessed Light",
+	"setVersion": "",
+	"itemName": "Divine Scepter",
+	"srcIcon": "resources/images/War_Scepter_(Diablo_II).gif",
+	"requirements": "1H Damage: 16 to 38\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 103\nMinimum Dexterity: -\nDurability: 70\nMax Sockets: 5\nQuality Level: 45\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Heaven's Light",
+	"setVersion": "",
+	"itemName": "Mighty Scepter",
+	"srcIcon": "resources/images/Scepter_(Diablo_II).gif",
+	"requirements": "Melee Range: 1\nAttack Speed: [0]\nMinimum Strength: 125\nMinimum Dexterity: 65\nDurability: 50\nMax Sockets: 2\nQuality Level: 62\nLevel Requirement: 46"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Redeemer",
+	"setVersion": "",
+	"itemName": "Seraph Rod",
+	"srcIcon": "resources/images/Grand_Scepter_(Diablo_II).gif",
+	"requirements": "Melee Range: 2\nAttack Speed: [10]\nMinimum Strength: 108\nMinimum Dexterity: 69\nDurability: 60\nMax Sockets: 3\nQuality Level: 76\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Astreon's Iron Ward",
+	"setVersion": "",
+	"itemName": "Caduceus",
+	"srcIcon": "resources/images/War_Scepter_(Diablo_II).gif",
+	"requirements": "Melee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 97\nMinimum Dexterity: 70\nDurability: 70\nMax Sockets: 5\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Dragon Chang",
+	"setVersion": "",
+	"itemName": "Spear",
+	"srcIcon": "resources/images/Spear_(Diablo_II).gif",
+	"requirements": "2H Damage: 3 to 15\nMelee Range: 4\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 30\nMax Sockets: 3\nQuality Level: 5"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Razortine",
+	"setVersion": "",
+	"itemName": "Trident",
+	"srcIcon": "resources/images/Trident_(Diablo_II).gif",
+	"requirements": "2H Damage: 9 to 15\nMelee Range: 4\nAttack Speed: [0]\nMinimum Strength: 38\nMinimum Dexterity: 24\nDurability: 35\nMax Sockets: 4\nQuality Level: 9"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bloodthief",
+	"setVersion": "",
+	"itemName": "Brandistock",
+	"srcIcon": "resources/images/Brandistock_(Diablo_II).gif",
+	"requirements": "2H Damage: 7 to 17\nMelee Range: 5\nAttack Speed: [-20]\nMinimum Strength: 40\nMinimum Dexterity: 50\nDurability: 28\nMax Sockets: 5\nQuality Level: 16"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lance of Yaggai",
+	"setVersion": "",
+	"itemName": "Spetum",
+	"srcIcon": "resources/images/Spetum_(Diablo_II).gif",
+	"requirements": "2H Damage: 15 to 23\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 54\nMinimum Dexterity: 35\nDurability: 28\nMax Sockets: 6\nQuality Level: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Tannr Gorerod",
+	"setVersion": "",
+	"itemName": "Pike",
+	"srcIcon": "resources/images/Pike_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 63\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 60\nMinimum Dexterity: 45\nDurability: 25\nMax Sockets: 6\nQuality Level: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Impaler",
+	"setVersion": "",
+	"itemName": "War Spear",
+	"srcIcon": "resources/images/Spear_(Diablo_II).gif",
+	"requirements": "2H Damage: 10 to 37\nMelee Range: 4\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 25\nDurability: 30\nMax Sockets: 3\nQuality Level: 33\nLevel Requirement: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Kelpie Snare",
+	"setVersion": "",
+	"itemName": "Fuscina",
+	"srcIcon": "resources/images/Trident_(Diablo_II).gif",
+	"requirements": "2H Damage: 19 to 37\nMelee Range: 4\nAttack Speed: [0]\nMinimum Strength: 77\nMinimum Dexterity: 25\nDurability: 35\nMax Sockets: 4\nQuality Level: 36\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Soulfeast Tine",
+	"setVersion": "",
+	"itemName": "War Fork",
+	"srcIcon": "resources/images/Brandistock_(Diablo_II).gif",
+	"requirements": "2H Damage: 16 to 40\nMelee Range: 5\nAttack Speed: [-20]\nMinimum Strength: 80\nMinimum Dexterity: 95\nDurability: 28\nMax Sockets: 5\nQuality Level: 41\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hone Sundan",
+	"setVersion": "",
+	"itemName": "Yari",
+	"srcIcon": "resources/images/Spetum_(Diablo_II).gif",
+	"requirements": "2H Damage: 29 to 59\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 101\nMinimum Dexterity: -\nDurability: 28\nMax Sockets: 6\nQuality Level: 44\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spire of Honor",
+	"setVersion": "",
+	"itemName": "Lance",
+	"srcIcon": "resources/images/Pike_(Diablo_II).gif",
+	"requirements": "2H Damage: 27 to 114\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 110\nMinimum Dexterity: 88\nDurability: 25\nMax Sockets: 6\nQuality Level: 47\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Arioc's Needle",
+	"setVersion": "",
+	"itemName": "Hyperion Spear",
+	"srcIcon": "resources/images/Spear_(Diablo_II).gif",
+	"requirements": "2H Damage: 35 to 119\nMelee Range: 4\nAttack Speed: [-10]\nMinimum Strength: 155\nMinimum Dexterity: 120\nDurability: 30\nMax Sockets: 3\nQuality Level: 58\nLevel Requirement: 43"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Stygian Pike",
+	"srcIcon": "resources/images/Trident_(Diablo_II).gif",
+	"requirements": "2H Damage: 29 to 144\nMelee Range: 4\nAttack Speed: [0]\nMinimum Strength: 168\nMinimum Dexterity: 97\nDurability: 35\nMax Sockets: 4\nQuality Level: 66\nLevel Requirement: 49"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Viperfork",
+	"setVersion": "",
+	"itemName": "Mancatcher",
+	"srcIcon": "resources/images/Brandistock_(Diablo_II).gif",
+	"requirements": "2H Damage: 42 to 92\nMelee Range: 5\nAttack Speed: [-20]\nMinimum Strength: 132\nMinimum Dexterity: 134\nDurability: 28\nMax Sockets: 5\nQuality Level: 74\nLevel Requirement: 55"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Ghost Spear",
+	"srcIcon": "resources/images/Spetum_(Diablo_II).gif",
+	"requirements": "2H Damage: 18 to 155\nMelee Range: 5\nAttack Speed: [0]\nMinimum Strength: 122\nMinimum Dexterity: 163\nDurability: 28\nMax Sockets: 6\nQuality Level: 83\nLevel Requirement: 62"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Steel Pillar",
+	"setVersion": "",
+	"itemName": "War Pike",
+	"srcIcon": "resources/images/Pike_(Diablo_II).gif",
+	"requirements": "2H Damage: 33 to 178\nMelee Range: 5\nAttack Speed: [20]\nMinimum Strength: 165\nMinimum Dexterity: 106\nDurability: 25\nMax Sockets: 6\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bane Ash",
+	"setVersion": "",
+	"itemName": "Short Staff",
+	"srcIcon": "resources/images/Short_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 1 to 5\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 20\nMax Sockets: 2\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Serpent Lord",
+	"setVersion": "",
+	"itemName": "Long Staff",
+	"srcIcon": "resources/images/Long_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 2 to 8\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 30\nMax Sockets: 3\nQuality Level: 8"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spire of Lazarus",
+	"setVersion": "",
+	"itemName": "Gnarled Staff",
+	"srcIcon": "resources/images/Gnarled_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 4 to 12\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 35\nMax Sockets: 4\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Salamander",
+	"setVersion": "",
+	"itemName": "Battle Staff",
+	"srcIcon": "resources/images/Battle_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 13\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 4\nQuality Level: 17"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Iron Jang Bong",
+	"setVersion": "",
+	"itemName": "War Staff",
+	"srcIcon": "resources/images/War_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 12 to 28\nMelee Range: 2\nAttack Speed: [20]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 6\nQuality Level: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Razorswitch",
+	"setVersion": "",
+	"itemName": "Jo Staff",
+	"srcIcon": "resources/images/Short_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 6 to 21\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 20\nMax Sockets: 2\nQuality Level: 30\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ribcracker",
+	"setVersion": "",
+	"itemName": "Quaterstaff",
+	"srcIcon": "resources/images/Long_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 8 to 26\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 30\nMax Sockets: 3\nQuality Level: 35\nLevel Requirement: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Chromatic Ire",
+	"setVersion": "",
+	"itemName": "Cedar Staff",
+	"srcIcon": "resources/images/Gnarled_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 11 to 32\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 35\nMax Sockets: 4\nQuality Level: 38\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Warpspear",
+	"setVersion": "",
+	"itemName": "Gothic Staff",
+	"srcIcon": "resources/images/Battle_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 14 to 34\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 4\nQuality Level: 42\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Skull Collector",
+	"setVersion": "",
+	"itemName": "Rune Staff",
+	"srcIcon": "resources/images/War_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 24 to 58\nMelee Range: 2\nAttack Speed: [20]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 6\nQuality Level: 47\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Walking Stick",
+	"srcIcon": "resources/images/Short_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 69 to 85\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 20\nMax Sockets: 2\nQuality Level: 58\nLevel Requirement: 43"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Stalagmite",
+	"srcIcon": "resources/images/Long_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 75 to 107\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 63\nMinimum Dexterity: 35\nDurability: 30\nMax Sockets: 3\nQuality Level: 66\nLevel Requirement: 49"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ondal's Wisdom",
+	"setVersion": "",
+	"itemName": "Elder Staff",
+	"srcIcon": "resources/images/Gnarled_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 80 to 93\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 44\nMinimum Dexterity: 37\nDurability: 35\nMax Sockets: 4\nQuality Level: 74\nLevel Requirement: 55"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Shillelagh",
+	"srcIcon": "resources/images/Battle_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 65 to 108\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 52\nMinimum Dexterity: 27\nDurability: 40\nMax Sockets: 4\nQuality Level: 83\nLevel Requirement: 62"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Mang Song's Lesson",
+	"setVersion": "",
+	"itemName": "Archon Staff",
+	"srcIcon": "resources/images/War_Staff_(Diablo_II).gif",
+	"requirements": "2H Damage: 83 to 99\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 34\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 6\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rixot's Keen",
+	"setVersion": "",
+	"itemName": "Short Sword",
+	"srcIcon": "resources/images/Short_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 7\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 24\nMax Sockets: 2\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blood Crescent",
+	"setVersion": "",
+	"itemName": "Scimitar",
+	"srcIcon": "resources/images/Scimitar_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 6\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: 21\nDurability: 22\nMax Sockets: 2\nQuality Level: 5"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Skewer of Krintiz",
+	"setVersion": "Angelic Sickle",
+	"itemName": "Sabre",
+	"srcIcon": "resources/images/Sabre_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 8\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 25\nDurability: 32\nMax Sockets: 2\nQuality Level: 8"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gleamscythe",
+	"setVersion": "",
+	"itemName": "Falchion",
+	"srcIcon": "resources/images/Falchion_(Diablo_II).gif",
+	"requirements": "1H Damage: 9 to 17\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 33\nMinimum Dexterity: -\nDurability: 32\nMax Sockets: 2\nQuality Level: 11"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Crystal Sword",
+	"srcIcon": "resources/images/Crystal_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 15\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 43\nMinimum Dexterity: -\nDurability: 20\nMax Sockets: 6\nQuality Level: 11"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Griswold's Edge",
+	"setVersion": "Isenhart's Lightbrand",
+	"itemName": "Broad Sword",
+	"srcIcon": "resources/images/Broad_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 7 to 14\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 48\nMinimum Dexterity: -\nDurability: 32\nMax Sockets: 4\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hellplague",
+	"setVersion": "Cleglaw's Brace",
+	"itemName": "Long Sword",
+	"srcIcon": "resources/images/Long_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 19\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 55\nMinimum Dexterity: 39\nDurability: 44\nMax Sockets: 4\nQuality Level: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Culwen's Point",
+	"setVersion": "Death's Touch",
+	"itemName": "War Sword",
+	"srcIcon": "resources/images/War_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 20\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 71\nMinimum Dexterity: 45\nDurability: 44\nMax Sockets: 3\nQuality Level: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Shadowfang",
+	"setVersion": "",
+	"itemName": "Two-handed Sword",
+	"srcIcon": "resources/images/Two-handed_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 9\n2H Damage: 8 to 17\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 35\nMinimum Dexterity: 27\nDurability: 44\nMax Sockets: 3\nQuality Level: 10"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Soulflay",
+	"setVersion": "",
+	"itemName": "Claymore",
+	"srcIcon": "resources/images/Claymore_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 12\n2H Damage: 13 to 30\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 47\nMinimum Dexterity: -\nDurability: 50\nMax Sockets: 4\nQuality Level: 17"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Kinemil's Awl",
+	"setVersion": "",
+	"itemName": "Giant Sword",
+	"srcIcon": "resources/images/Giant_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 16\n2H Damage: 9 to 28\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 56\nMinimum Dexterity: 34\nDurability: 50\nMax Sockets: 4\nQuality Level: 21"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blacktongue",
+	"setVersion": "",
+	"itemName": "Bastard Sword",
+	"srcIcon": "resources/images/Bastard_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 7 to 19\n2H Damage: 20 to 28\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 62\nMinimum Dexterity: -\nDurability: 40\nMax Sockets: 4\nQuality Level: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ripsaw",
+	"setVersion": "",
+	"itemName": "Flamberge",
+	"srcIcon": "resources/images/Flamberge_(Diablo_II).gif",
+	"requirements": "1H Damage: 9 to 15\n2H Damage: 13 to 26\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 70\nMinimum Dexterity: 49\nDurability: 50\nMax Sockets: 5\nQuality Level: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Patriarch",
+	"setVersion": "",
+	"itemName": "Great Sword",
+	"srcIcon": "resources/images/Great_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 12 to 20\n2H Damage: 25 to 42\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 100\nMinimum Dexterity: 60\nDurability: 50\nMax Sockets: 6\nQuality Level: 33"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bloodletter",
+	"setVersion": "",
+	"itemName": "Gladius",
+	"srcIcon": "resources/images/Short_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 22\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 24\nMax Sockets: 2\nQuality Level: 30\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Coldsteel Eye",
+	"setVersion": "",
+	"itemName": "Cutlass",
+	"srcIcon": "resources/images/Scimitar_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 21\nMelee Range: 1\nAttack Speed: [-30]\nMinimum Strength: 25\nMinimum Dexterity: 52\nDurability: 22\nMax Sockets: 2\nQuality Level: 43\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hexfire",
+	"setVersion": "",
+	"itemName": "Shamshir",
+	"srcIcon": "resources/images/Sabre_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 24\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 58\nMinimum Dexterity: 58\nDurability: 32\nMax Sockets: 2\nQuality Level: 35\nLevel Requirement: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blade of Ali Baba",
+	"setVersion": "",
+	"itemName": "Tulwar",
+	"srcIcon": "resources/images/Falchion_(Diablo_II).gif",
+	"requirements": "1H Damage: 16 to 35\nMelee Range: 1\nAttack Speed: [20]\nMinimum Strength: 70\nMinimum Dexterity: 42\nDurability: 32\nMax Sockets: 2\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ginther's Rift",
+	"setVersion": "",
+	"itemName": "Dimensional Blade",
+	"srcIcon": "resources/images/Crystal_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 35\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 85\nMinimum Dexterity: 60\nDurability: 20\nMax Sockets: 6\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Headstriker",
+	"setVersion": "",
+	"itemName": "Battle Sword",
+	"srcIcon": "resources/images/Broad_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 16 to 34\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 92\nMinimum Dexterity: 43\nDurability: 32\nMax Sockets: 4\nQuality Level: 40\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Plague Bearer",
+	"setVersion": "",
+	"itemName": "Rune Sword",
+	"srcIcon": "resources/images/Long_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 42\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 103\nMinimum Dexterity: 79\nDurability: 44\nMax Sockets: 4\nQuality Level: 44\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Atlantean",
+	"setVersion": "",
+	"itemName": "Ancient Sword",
+	"srcIcon": "resources/images/War_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 18 to 43\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 127\nMinimum Dexterity: 88\nDurability: 44\nMax Sockets: 3\nQuality Level: 49\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Crainte Vomir",
+	"setVersion": "",
+	"itemName": "Espandon",
+	"srcIcon": "resources/images/Two-handed_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 26\n2H Damage: 18 to 40\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 73\nMinimum Dexterity: 61\nDurability: 44\nMax Sockets: 3\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bing Sz Wang",
+	"setVersion": "",
+	"itemName": "Dacian Falx",
+	"srcIcon": "resources/images/Claymore_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 30\n2H Damage: 26 to 61\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 91\nMinimum Dexterity: 20\nDurability: 50\nMax Sockets: 4\nQuality Level: 42\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Vile Husk",
+	"setVersion": "",
+	"itemName": "Tusk Sword",
+	"srcIcon": "resources/images/Giant_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 37\n2H Damage: 19 to 58\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 104\nMinimum Dexterity: 71\nDurability: 50\nMax Sockets: 4\nQuality Level: 45\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Cloudcrack",
+	"setVersion": "",
+	"itemName": "Gothic Sword",
+	"srcIcon": "resources/images/Bastard_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 14 to 40\n2H Damage: 39 to 60\nMelee Range: 2\nAttack Speed: [10]\nMinimum Strength: 113\nMinimum Dexterity: 20\nDurability: 40\nMax Sockets: 4\nQuality Level: 48\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Todesfaelle Flamme",
+	"setVersion": "",
+	"itemName": "Zweihander",
+	"srcIcon": "resources/images/Flamberge_(Diablo_II).gif",
+	"requirements": "1H Damage: 19 to 35\n2H Damage: 29 to 54\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 125\nMinimum Dexterity: 94\nDurability: 50\nMax Sockets: 5\nQuality Level: 49\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Swordguard",
+	"setVersion": "",
+	"itemName": "Executioner Sword",
+	"srcIcon": "resources/images/Great_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 24 to 40\n2H Damage: 47 to 80\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 170\nMinimum Dexterity: 110\nDurability: 50\nMax Sockets: 6\nQuality Level: 54\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Falcata",
+	"srcIcon": "resources/images/Short_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 31 to 59\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 150\nMinimum Dexterity: 88\nDurability: 24\nMax Sockets: 2\nQuality Level: 56\nLevel Requirement: 42"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Djinn Slayer",
+	"setVersion": "",
+	"itemName": "Ataghan",
+	"srcIcon": "resources/images/Scimitar_(Diablo_II).gif",
+	"requirements": "1H Damage: 26 to 46\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 135\nMinimum Dexterity: 95\nDurability: 22\nMax Sockets: 2\nQuality Level: 61\nLevel Requirement: 45"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bloodmoon",
+	"setVersion": "",
+	"itemName": "Elegant Blade",
+	"srcIcon": "resources/images/Sabre_(Diablo_II).gif",
+	"requirements": "1H Damage: 33 to 45\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 109\nMinimum Dexterity: 122\nDurability: 32\nMax Sockets: 2\nQuality Level: 63\nLevel Requirement: 47"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hydra Edge",
+	"srcIcon": "resources/images/Falchion_(Diablo_II).gif",
+	"requirements": "1H Damage: 28 to 68\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 142\nMinimum Dexterity: 105\nDurability: 32\nMax Sockets: 2\nQuality Level: 69\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lightsabre",
+	"setVersion": "",
+	"itemName": "Phase Blade",
+	"srcIcon": "resources/images/Crystal_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 31 to 35\nMelee Range: 2\nAttack Speed: [-30]\nMinimum Strength: 25\nMinimum Dexterity: 136\nDurability: Indestructible\nMax Sockets: 6\nQuality Level: 73\nLevel Requirement: 54"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Conquest Sword",
+	"srcIcon": "resources/images/Broad_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 37 to 53\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 142\nMinimum Dexterity: 112\nDurability: 32\nMax Sockets: 4\nQuality Level: 78\nLevel Requirement: 58"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Frostwind",
+	"setVersion": "Sazabi's Cobalt Redeemer",
+	"itemName": "Cryptic Sword",
+	"srcIcon": "resources/images/Long_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 77\nMelee Range: 2\nAttack Speed: [-10]\nMinimum Strength: 99\nMinimum Dexterity: 109\nDurability: 44\nMax Sockets: 4\nQuality Level: 82\nLevel Requirement: 61"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Bul-Kathos' Tribal Guardian",
+	"itemName": "Mythical Sword",
+	"srcIcon": "resources/images/War_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 40 to 50\nMelee Range: 2\nAttack Speed: [0]\nMinimum Strength: 147\nMinimum Dexterity: 124\nDurability: 44\nMax Sockets: 3\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Legend Sword",
+	"srcIcon": "resources/images/Two-handed_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 20 to 56\n2H Damage: 50 to 94\nMelee Range: 3\nAttack Speed: [-15]\nMinimum Strength: 175\nMinimum Dexterity: 100\nDurability: 44\nMax Sockets: 3\nQuality Level: 59\nLevel Requirement: 44"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Highland Blade",
+	"srcIcon": "resources/images/Claymore_(Diablo_II).gif",
+	"requirements": "1H Damage: 22 to 62\n2H Damage: 67 to 96\nMelee Range: 3\nAttack Speed: [-5]\nMinimum Strength: 171\nMinimum Dexterity: 104\nDurability: 100\nMax Sockets: 4\nQuality Level: 66\nLevel Requirement: 49"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Flamebellow",
+	"setVersion": "",
+	"itemName": "Balrog Blade",
+	"srcIcon": "resources/images/Giant_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 15 to 75\n2H Damage: 55 to 118\nMelee Range: 3\nAttack Speed: [0]\nMinimum Strength: 185\nMinimum Dexterity: 87\nDurability: 50\nMax Sockets: 4\nQuality Level: 71\nLevel Requirement: 53"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Doombringer",
+	"setVersion": "",
+	"itemName": "Champion Sword",
+	"srcIcon": "resources/images/Bastard_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 24 to 54\n2H Damage: 71 to 83\nMelee Range: 3\nAttack Speed: [-10]\nMinimum Strength: 163\nMinimum Dexterity: 103\nDurability: 40\nMax Sockets: 4\nQuality Level: 77\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Colossus Sword",
+	"srcIcon": "resources/images/Flamberge_(Diablo_II).gif",
+	"requirements": "1H Damage: 26 to 70\n2H Damage: 61 to 121\nMelee Range: 3\nAttack Speed: [10]\nMinimum Strength: 182\nMinimum Dexterity: 95\nDurability: 50\nMax Sockets: 5\nQuality Level: 80\nLevel Requirement: 60"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Grandfather",
+	"setVersion": "",
+	"itemName": "Colossus Blade",
+	"srcIcon": "resources/images/Great_Sword_(Diablo_II).gif",
+	"requirements": "1H Damage: 25 to 65\n2H Damage: 58 to 115\nMelee Range: 3\nAttack Speed: [5]\nMinimum Strength: 189\nMinimum Dexterity: 110\nDurability: 50\nMax Sockets: 6\nQuality Level: 85\nLevel Requirement: 63"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Throwing Knife",
+	"srcIcon": "resources/images/Throwing_Knife_(Diablo_II).gif",
+	"requirements": "Throw Damage: 4 to 9\n1H Damage: 2 to 3\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: 21\nQuality Level: 2"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Balanced Knife",
+	"srcIcon": "resources/images/Balanced_Knife_(Diablo_II).gif",
+	"requirements": "Throw Damage: 6 to 11\n1H Damage: 1 to 8\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: 51\nQuality Level: 13"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Throwing Axe",
+	"srcIcon": "resources/images/Throwing_Axe_(Diablo_II).gif",
+	"requirements": "Throw Damage: 8 to 12\n1H Damage: 4 to 7\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: 40\nQuality Level: 7"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Balanced Axe",
+	"srcIcon": "resources/images/Balanced_Axe_(Diablo_II).gif",
+	"requirements": "Throw Damage: 12 to 15\n1H Damage: 5 to 10\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: -\nMinimum Dexterity: 57\nQuality Level: 16"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Deathbit",
+	"setVersion": "",
+	"itemName": "Battle Dart",
+	"srcIcon": "resources/images/Throwing_Knife_(Diablo_II).gif",
+	"requirements": "Throw Damage: 11 to 24\n1H Damage: 8 to 16\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: 52\nQuality Level: 31\nLevel Requirement: 19"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "War Dart",
+	"srcIcon": "resources/images/Balanced_Knife_(Diablo_II).gif",
+	"requirements": "Throw Damage: 14 to 27\n1H Damage: 6 to 24\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 25\nMinimum Dexterity: 97\nQuality Level: 39\nLevel Requirement: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Scalper",
+	"setVersion": "",
+	"itemName": "Francisca",
+	"srcIcon": "resources/images/Throwing_Axe_(Diablo_II).gif",
+	"requirements": "Throw Damage: 18 to 33\n1H Damage: 11 to 22\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 25\nMinimum Dexterity: 80\nQuality Level: 34\nLevel Requirement: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hurlbat",
+	"srcIcon": "resources/images/Balanced_Axe_(Diablo_II).gif",
+	"requirements": "Throw Damage: 24 to 34\n1H Damage: 13 to 27\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 25\nMinimum Dexterity: 106\nQuality Level: 41\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Flying Knife",
+	"srcIcon": "resources/images/Throwing_Knife_(Diablo_II).gif",
+	"requirements": "Throw Damage: 23 to 54\n1H Damage: 23 to 54\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 48\nMinimum Dexterity: 141\nQuality Level: 64\nLevel Requirement: 48"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Warshrike",
+	"setVersion": "",
+	"itemName": "Winged Knife",
+	"srcIcon": "resources/images/Balanced_Knife_(Diablo_II).gif",
+	"requirements": "Throw Damage: 23 to 39\n1H Damage: 27 to 35\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 45\nMinimum Dexterity: 142\nQuality Level: 77\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gimmershred",
+	"setVersion": "",
+	"itemName": "Flying Axe",
+	"srcIcon": "resources/images/Throwing_Axe_(Diablo_II).gif",
+	"requirements": "Throw Damage: 15 to 66\n1H Damage: 17 to 65\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 88\nMinimum Dexterity: 108\nQuality Level: 56\nLevel Requirement: 42"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lacerator",
+	"setVersion": "",
+	"itemName": "Winged Axe",
+	"srcIcon": "resources/images/Balanced_Axe_(Diablo_II).gif",
+	"requirements": "Throw Damage: 7 to 60\n1H Damage: 11 to 56\nMelee Range: 1\nAttack Speed: [-10]\nMinimum Strength: 96\nMinimum Dexterity: 122\nQuality Level: 80\nLevel Requirement: 60"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Torch of Iro",
+	"setVersion": "",
+	"itemName": "Wand",
+	"srcIcon": "resources/images/Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 4\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 15\nMax Sockets: 1\nQuality Level: 2"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Maelstrom",
+	"setVersion": "",
+	"itemName": "Yew Wand",
+	"srcIcon": "resources/images/Yew_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 2 to 8\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 15\nMax Sockets: 1\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gravespine",
+	"setVersion": "Sander's Superstition",
+	"itemName": "Bone Wand",
+	"srcIcon": "resources/images/Bone_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 3 to 7\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 15\nMax Sockets: 2\nQuality Level: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ume's Lament",
+	"setVersion": "Infernal Torch",
+	"itemName": "Grim Wand",
+	"srcIcon": "resources/images/Grim_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 5 to 11\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: -\nMinimum Dexterity: -\nDurability: 15\nMax Sockets: 2\nQuality Level: 26"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Suicide Branch",
+	"setVersion": "",
+	"itemName": "Burnt Wand",
+	"srcIcon": "resources/images/Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 18\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 15\nMax Sockets: 1\nQuality Level: 31\nLevel Requirement: 19"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Carin Shard",
+	"setVersion": "",
+	"itemName": "Petrified Wand",
+	"srcIcon": "resources/images/Yew_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 8 to 24\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 15\nMax Sockets: 2\nQuality Level: 38\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Arm of King Leoric",
+	"setVersion": "",
+	"itemName": "Tomb Wand",
+	"srcIcon": "resources/images/Bone_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 22\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 15\nMax Sockets: 2\nQuality Level: 43\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blackhand Key",
+	"setVersion": "",
+	"itemName": "Grave Wand",
+	"srcIcon": "resources/images/Grim_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 13 to 29\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 15\nMax Sockets: 2\nQuality Level: 49\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Polished Wand",
+	"srcIcon": "resources/images/Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 18 to 33\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 22\nMax Sockets: 2\nQuality Level: 55\nLevel Requirement: 41"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Ghost Wand",
+	"srcIcon": "resources/images/Yew_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 20 to 42\nMelee Range: 1\nAttack Speed: [10]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 14\nMax Sockets: 2\nQuality Level: 65\nLevel Requirement: 48"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Boneshade",
+	"setVersion": "",
+	"itemName": "Lich Wand",
+	"srcIcon": "resources/images/Bone_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 10 to 31\nMelee Range: 1\nAttack Speed: [-20]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 17\nMax Sockets: 2\nQuality Level: 75\nLevel Requirement: 56"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Death's Web",
+	"setVersion": "",
+	"itemName": "Unearthed Wand",
+	"srcIcon": "resources/images/Grim_Wand_(Diablo_II).gif",
+	"requirements": "1H Damage: 22 to 28\nMelee Range: 1\nAttack Speed: [0]\nMinimum Strength: 25\nMinimum Dexterity: -\nDurability: 18\nMax Sockets: 2\nQuality Level: 86\nLevel Requirement: 64"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Jawbone Cap",
+	"srcIcon": "resources/images/Jawbone_Cap_(Diablo_II).gif",
+	"requirements": "Defense: 10 - 15\nMinimum Strength: 25\nDurability: 25\nMax Sockets: 3\nQuality Level: 4\nLevel Requirement: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Fanged Helm",
+	"srcIcon": "resources/images/Fanged_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 15 - 20\nMinimum Strength: 35\nDurability: 35\nMax Sockets: 3\nQuality Level: 8\nLevel Requirement: 6"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Horned Helm",
+	"srcIcon": "resources/images/Horned_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 25 - 30\nMinimum Strength: 45\nDurability: 45\nMax Sockets: 3\nQuality Level: 16\nLevel Requirement: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Assault Helmet",
+	"srcIcon": "resources/images/Assault_Helmet_(Diablo_II).gif",
+	"requirements": "Defense: 30 - 35\nMinimum Strength: 55\nDurability: 50\nMax Sockets: 3\nQuality Level: 20\nLevel Requirement: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Immortal King's Will",
+	"setVersion": "",
+	"itemName": "Avenger Guard",
+	"srcIcon": "resources/images/Avenger_Guard_(Diablo_II).gif",
+	"requirements": "Defense: 35 - 50\nMinimum Strength: 65\nDurability: 55\nMax Sockets: 3\nQuality Level: 24\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Jawbone Visor",
+	"srcIcon": "resources/images/Jawbone_Cap_(Diablo_II).gif",
+	"requirements": "Defense: 55 - 68\nMinimum Strength: 58\nDurability: 25\nMax Sockets: 3\nQuality Level: 33\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Lion Helm",
+	"srcIcon": "resources/images/Fanged_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 63 - 75\nMinimum Strength: 73\nDurability: 35\nMax Sockets: 3\nQuality Level: 38\nLevel Requirement: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Rage Helm",
+	"srcIcon": "resources/images/Horned_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 78 - 90\nMinimum Strength: 88\nDurability: 45\nMax Sockets: 3\nQuality Level: 44\nLevel Requirement: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Savage Helmet",
+	"srcIcon": "resources/images/Assault_Helmet_(Diablo_II).gif",
+	"requirements": "Defense: 85 - 98\nMinimum Strength: 103\nDurability: 50\nMax Sockets: 3\nQuality Level: 49\nLevel Requirement: 32"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Arreat's Face",
+	"setVersion": "",
+	"itemName": "Slayer Guard",
+	"srcIcon": "resources/images/Avenger_Guard_(Diablo_II).gif",
+	"requirements": "Defense: 93 - 120\nMinimum Strength: 118\nDurability: 55\nMax Sockets: 3\nQuality Level: 54\nLevel Requirement: 40"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Carnage Helm",
+	"srcIcon": "resources/images/Jawbone_Cap_(Diablo_II).gif",
+	"requirements": "Defense: 102 - 147\nMinimum Strength: 106\nDurability: 25\nMax Sockets: 3\nQuality Level: 60\nLevel Requirement: 45"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Wolfhowl",
+	"setVersion": "",
+	"itemName": "Fury Visor",
+	"srcIcon": "resources/images/Fanged_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 105 - 150\nMinimum Strength: 129\nDurability: 35\nMax Sockets: 3\nQuality Level: 66\nLevel Requirement: 49"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Demonhorn's Edge",
+	"setVersion": "",
+	"itemName": "Destroyer Helm",
+	"srcIcon": "resources/images/Horned_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 111 - 156\nMinimum Strength: 151\nDurability: 45\nMax Sockets: 3\nQuality Level: 73\nLevel Requirement: 54"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Halaberd's Reign",
+	"setVersion": "",
+	"itemName": "Conqueror Crown",
+	"srcIcon": "resources/images/Assault_Helmet_(Diablo_II).gif",
+	"requirements": "Defense: 114 - 159\nMinimum Strength: 174\nDurability: 50\nMax Sockets: 3\nQuality Level: 80\nLevel Requirement: 60"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Guardian Crown",
+	"srcIcon": "resources/images/Avenger_Guard_(Diablo_II).gif",
+	"requirements": "Defense: 117 - 168\nMinimum Strength: 196\nDurability: 55\nMax Sockets: 3\nQuality Level: 85\nLevel Requirement: 65"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Wolf Head",
+	"srcIcon": "resources/images/Wolf_Head_(Diablo_II).gif",
+	"requirements": "Defense: 8 - 11\nMinimum Strength: 16\nDurability: 20\nMax Sockets: 3\nQuality Level: 4\nLevel Requirement: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hawk Helm",
+	"srcIcon": "resources/images/Hawk_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 4 - 15\nMinimum Strength: 20\nDurability: 20\nMax Sockets: 3\nQuality Level: 8\nLevel Requirement: 6"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Antlers",
+	"srcIcon": "resources/images/Antlers_(Diablo_II).gif",
+	"requirements": "Defense: 18 - 24\nMinimum Strength: 24\nDurability: 20\nMax Sockets: 3\nQuality Level: 16\nLevel Requirement: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Falcon Mask",
+	"srcIcon": "resources/images/Falcon_Mask_(Diablo_II).gif",
+	"requirements": "Defense: 12 - 28\nMinimum Strength: 28\nDurability: 20\nMax Sockets: 3\nQuality Level: 20\nLevel Requirement: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Spirit Mask",
+	"srcIcon": "resources/images/Spirit_Mask_(Diablo_II).gif",
+	"requirements": "Defense: 22 - 35\nMinimum Strength: 30\nDurability: 20\nMax Sockets: 3\nQuality Level: 24\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Alpha Helm",
+	"srcIcon": "resources/images/Wolf_Head_(Diablo_II).gif",
+	"requirements": "Defense: 52 - 62\nMinimum Strength: 44\nDurability: 20\nMax Sockets: 3\nQuality Level: 35\nLevel Requirement: 26"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Griffon Headdress",
+	"srcIcon": "resources/images/Hawk_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 46 - 68\nMinimum Strength: 50\nDurability: 20\nMax Sockets: 3\nQuality Level: 40\nLevel Requirement: 30"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Aldur's Stony Gaze",
+	"itemName": "Hunter's Guise",
+	"srcIcon": "resources/images/Antlers_(Diablo_II).gif",
+	"requirements": "Defense: 67 - 81\nMinimum Strength: 56\nDurability: 20\nMax Sockets: 3\nQuality Level: 46\nLevel Requirement: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Sacred Feathers",
+	"srcIcon": "resources/images/Falcon_Mask_(Diablo_II).gif",
+	"requirements": "Defense: 58 - 87\nMinimum Strength: 62\nDurability: 20\nMax Sockets: 3\nQuality Level: 50\nLevel Requirement: 32"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Jalal's Mane",
+	"setVersion": "",
+	"itemName": "Totemic Mask",
+	"srcIcon": "resources/images/Spirit_Mask_(Diablo_II).gif",
+	"requirements": "Defense: 73 - 98\nMinimum Strength: 65\nDurability: 20\nMax Sockets: 3\nQuality Level: 55\nLevel Requirement: 41"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Cerebus' Bite",
+	"setVersion": "",
+	"itemName": "Blood Mask",
+	"srcIcon": "resources/images/Wolf_Head_(Diablo_II).gif",
+	"requirements": "Defense: 101 - 145\nMinimum Strength: 86\nDurability: 20\nMax Sockets: 3\nQuality Level: 62\nLevel Requirement: 46"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ravenlore",
+	"setVersion": "",
+	"itemName": "Sun Spirit",
+	"srcIcon": "resources/images/Hawk_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 98 - 147\nMinimum Strength: 95\nDurability: 20\nMax Sockets: 3\nQuality Level: 69\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spirit Keeper",
+	"setVersion": "",
+	"itemName": "Earth Spirit",
+	"srcIcon": "resources/images/Antlers_(Diablo_II).gif",
+	"requirements": "Defense: 107 - 152\nMinimum Strength: 104\nDurability: 20\nMax Sockets: 3\nQuality Level: 76\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Sky Spirit",
+	"srcIcon": "resources/images/Falcon_Mask_(Diablo_II).gif",
+	"requirements": "Defense: 103 - 155\nMinimum Strength: 113\nDurability: 20\nMax Sockets: 3\nQuality Level: 83\nLevel Requirement: 62"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Dream Spirit",
+	"srcIcon": "resources/images/Spirit_Mask_(Diablo_II).gif",
+	"requirements": "Defense: 109 - 159\nMinimum Strength: 118\nDurability: 20\nMax Sockets: 3\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Targe",
+	"srcIcon": "resources/images/Targe_(Diablo_II).gif",
+	"requirements": "Defense: 8 - 12\nArmor Type: Light\nBlock: P: 40%\n Am/As/B: 40%\n D/N/S: 40%\nSmite Damage: 2 - 6\nMinimum Strength: 16\nDurability: 20\nMax Sockets: 4\nQuality Level: 4\nLevel Requirement: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Rondache",
+	"srcIcon": "resources/images/Rondache_(Diablo_II).gif",
+	"requirements": "Defense: 10 - 18\nArmor Type: Light\nBlock: P: 45%\n Am/As/B: 45%\n D/N/S: 45%\nSmite Damage: 2 - 8\nMinimum Strength: 26\nDurability: 30\nMax Sockets: 4\nQuality Level: 8\nLevel Requirement: 6"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Heraldic Shield",
+	"srcIcon": "resources/images/Heraldic_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 16 - 26\nArmor Type: Light\nBlock: P: 50%\n Am/As/B: 50%\n D/N/S: 50%\nSmite Damage: 3 - 9\nMinimum Strength: 30\nDurability: 40\nMax Sockets: 4\nQuality Level: 16\nLevel Requirement: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Aerin Shield",
+	"srcIcon": "resources/images/Aerin_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 26 - 36\nArmor Type: Light\nBlock: P: 52%\n Am/As/B: 52%\n D/N/S: 52%\nSmite Damage: 4 - 10\nMinimum Strength: 50\nDurability: 50\nMax Sockets: 4\nQuality Level: 20\nLevel Requirement: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Crown Shield",
+	"srcIcon": "resources/images/Crown_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 30 - 40\nArmor Type: Light\nBlock: P: 55%\n Am/As/B: 55%\n D/N/S: 55%\nSmite Damage: 4 - 12\nMinimum Strength: 65\nDurability: 60\nMax Sockets: 4\nQuality Level: 24\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Akaran Targe",
+	"srcIcon": "resources/images/Targe_(Diablo_II).gif",
+	"requirements": "Defense: 101 - 125\nArmor Type: Light\nBlock: P: 40%\n Am/As/B: 40%\n D/N/S: 40%\nSmite Damage: 12 - 16\nMinimum Strength: 44\nDurability: 20\nMax Sockets: 4\nQuality Level: 35\nLevel Requirement: 26"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Akaran Rondache",
+	"srcIcon": "resources/images/Rondache_(Diablo_II).gif",
+	"requirements": "Defense: 113 - 137\nArmor Type: Light\nBlock: P: 45%\n Am/As/B: 45%\n D/N/S: 45%\nSmite Damage: 15 - 20\nMinimum Strength: 59\nDurability: 30\nMax Sockets: 4\nQuality Level: 40\nLevel Requirement: 30"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Protector Shield",
+	"srcIcon": "resources/images/Heraldic_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 129 - 153\nArmor Type: Light\nBlock: P: 50%\n Am/As/B: 50%\n D/N/S: 50%\nSmite Damage: 18 - 24\nMinimum Strength: 69\nDurability: 40\nMax Sockets: 4\nQuality Level: 46\nLevel Requirement: 34"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Herald of Zakarum",
+	"setVersion": "",
+	"itemName": "Gilded Shield",
+	"srcIcon": "resources/images/Aerin_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 144 - 168\nArmor Type: Light\nBlock: P: 52%\n Am/As/B: 52%\n D/N/S: 52%\nSmite Damage: 20 - 28\nMinimum Strength: 89\nDurability: 50\nMax Sockets: 4\nQuality Level: 51\nLevel Requirement: 38"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Royal Shield",
+	"srcIcon": "resources/images/Crown_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 156 - 181\nArmor Type: Light\nBlock: P: 55%\n Am/As/B: 55%\n D/N/S: 55%\nSmite Damage: 24 - 32\nMinimum Strength: 114\nDurability: 60\nMax Sockets: 4\nQuality Level: 55\nLevel Requirement: 41"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Alma Negra",
+	"setVersion": "",
+	"itemName": "Sacred Targe",
+	"srcIcon": "resources/images/Targe_(Diablo_II).gif",
+	"requirements": "Defense: 126 - 158\nArmor Type: Light\nBlock: P: 60%\n Am/As/B: 60%\n D/N/S: 60%\nSmite Damage: 22 - 70\nMinimum Strength: 86\nDurability: 45\nMax Sockets: 4\nQuality Level: 63\nLevel Requirement: 47"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Sacred Rondache",
+	"srcIcon": "resources/images/Rondache_(Diablo_II).gif",
+	"requirements": "Defense: 138 - 164\nArmor Type: Light\nBlock: P: 58%\n Am/As/B: 58%\n D/N/S: 58%\nSmite Damage: 35 - 58\nMinimum Strength: 109\nDurability: 68\nMax Sockets: 4\nQuality Level: 70\nLevel Requirement: 52"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Kurast Shield",
+	"srcIcon": "resources/images/Heraldic_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 154 - 172\nArmor Type: Light\nBlock: P: 55%\n Am/As/B: 55%\n D/N/S: 55%\nSmite Damage: 10 - 82\nMinimum Strength: 124\nDurability: 55\nMax Sockets: 4\nQuality Level: 74\nLevel Requirement: 55"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Dragonscale",
+	"setVersion": "",
+	"itemName": "Zakarum Shield",
+	"srcIcon": "resources/images/Aerin_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 169 - 193\nArmor Type: Light\nBlock: P: 52%\n Am/As/B: 52%\n D/N/S: 52%\nSmite Damage: 46 - 46\nMinimum Strength: 142\nDurability: 65\nMax Sockets: 4\nQuality Level: 82\nLevel Requirement: 61"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Griswold's Honor",
+	"itemName": "Vortex Shield",
+	"srcIcon": "resources/images/Crown_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 182 - 225\nArmor Type: Light\nBlock: P: 49%\n Am/As/B: 49%\n D/N/S: 49%\nSmite Damage: 5 - 87\nMinimum Strength: 148\nDurability: 90\nMax Sockets: 4\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Preserved Head",
+	"srcIcon": "resources/images/Preserved_Head_(Diablo_II).gif",
+	"requirements": "Defense: 2 - 5\nArmor Type: Light\nBlock: P: 23%\n Am/As/B: 23%\n D/N/S: 23%\nMinimum Strength: 12\nDurability: 20\nMax Sockets: 2\nQuality Level: 4\nLevel Requirement: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Zombie Head",
+	"srcIcon": "resources/images/Zombie_Head_(Diablo_II).gif",
+	"requirements": "Defense: 4 - 8\nArmor Type: Light\nBlock: P: 25%\n Am/As/B: 25%\n D/N/S: 25%\nMinimum Strength: 14\nDurability: 20\nMax Sockets: 2\nQuality Level: 8\nLevel Requirement: 6"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Unraveller Head",
+	"srcIcon": "resources/images/Unraveller_Head_(Diablo_II).gif",
+	"requirements": "Defense: 6 - 10\nArmor Type: Light\nBlock: P: 28%\n Am/As/B: 28%\n D/N/S: 28%\nMinimum Strength: 18\nDurability: 20\nMax Sockets: 2\nQuality Level: 16\nLevel Requirement: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Gargoyle Head",
+	"srcIcon": "resources/images/Gargoyle_Head_(Diablo_II).gif",
+	"requirements": "Defense: 10 - 16\nArmor Type: Light\nBlock: P: 30%\n Am/As/B: 30%\n D/N/S: 30%\nMinimum Strength: 20\nDurability: 20\nMax Sockets: 2\nQuality Level: 20\nLevel Requirement: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Demon Head",
+	"srcIcon": "resources/images/Demon_Head_(Diablo_II).gif",
+	"requirements": "Defense: 15 - 20\nArmor Type: Light\nBlock: P: 32%\n Am/As/B: 32%\n D/N/S: 32%\nMinimum Strength: 25\nDurability: 20\nMax Sockets: 2\nQuality Level: 24\nLevel Requirement: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Mummified Trophy",
+	"srcIcon": "resources/images/Preserved_Head_(Diablo_II).gif",
+	"requirements": "Defense: 38 - 48\nArmor Type: Light\nBlock: P: 23%\n Am/As/B: 23%\n D/N/S: 23%\nMinimum Strength: 38\nDurability: 20\nMax Sockets: 2\nQuality Level: 33\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Fetish Trophy",
+	"srcIcon": "resources/images/Zombie_Head_(Diablo_II).gif",
+	"requirements": "Defense: 41 - 52\nArmor Type: Light\nBlock: P: 25%\n Am/As/B: 25%\n D/N/S: 25%\nMinimum Strength: 41\nDurability: 20\nMax Sockets: 2\nQuality Level: 39\nLevel Requirement: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Sexton Trophy",
+	"srcIcon": "resources/images/Unraveller_Head_(Diablo_II).gif",
+	"requirements": "Defense: 44 - 55\nArmor Type: Light\nBlock: P: 28%\n Am/As/B: 28%\n D/N/S: 28%\nMinimum Strength: 47\nDurability: 20\nMax Sockets: 2\nQuality Level: 45\nLevel Requirement: 33"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Trang-Oul's Wing",
+	"itemName": "Cantor Trophy",
+	"srcIcon": "resources/images/Gargoyle_Head_(Diablo_II).gif",
+	"requirements": "Defense: 50 - 64\nArmor Type: Light\nBlock: P: 30%\n Am/As/B: 30%\n D/N/S: 30%\nMinimum Strength: 50\nDurability: 20\nMax Sockets: 2\nQuality Level: 49\nLevel Requirement: 36"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Homunculus",
+	"setVersion": "",
+	"itemName": "Hierophant Trophy",
+	"srcIcon": "resources/images/Demon_Head_(Diablo_II).gif",
+	"requirements": "Defense: 58 - 70\nArmor Type: Light\nBlock: P: 32%\n Am/As/B: 32%\n D/N/S: 32%\nMinimum Strength: 58\nDurability: 20\nMax Sockets: 2\nQuality Level: 54\nLevel Requirement: 40"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Minion Skull",
+	"srcIcon": "resources/images/Preserved_Head_(Diablo_II).gif",
+	"requirements": "Defense: 95 - 139\nArmor Type: Light\nBlock: P: 23%\n Am/As/B: 23%\n D/N/S: 23%\nMinimum Strength: 77\nDurability: 20\nMax Sockets: 2\nQuality Level: 59\nLevel Requirement: 44"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hellspawn Skull",
+	"srcIcon": "resources/images/Zombie_Head_(Diablo_II).gif",
+	"requirements": "Defense: 96 - 141\nArmor Type: Light\nBlock: P: 25%\n Am/As/B: 25%\n D/N/S: 25%\nMinimum Strength: 82\nDurability: 20\nMax Sockets: 2\nQuality Level: 67\nLevel Requirement: 50"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Overseer Skull",
+	"srcIcon": "resources/images/Unraveller_Head_(Diablo_II).gif",
+	"requirements": "Defense: 98 - 142\nArmor Type: Light\nBlock: P: 28%\n Am/As/B: 28%\n D/N/S: 28%\nMinimum Strength: 91\nDurability: 20\nMax Sockets: 2\nQuality Level: 66\nLevel Requirement: 49"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Boneflame",
+	"setVersion": "",
+	"itemName": "Succubus Skull",
+	"srcIcon": "resources/images/Gargoyle_Head_(Diablo_II).gif",
+	"requirements": "Defense: 100 - 146\nArmor Type: Light\nBlock: P: 30%\n Am/As/B: 30%\n D/N/S: 30%\nMinimum Strength: 95\nDurability: 20\nMax Sockets: 2\nQuality Level: 81\nLevel Requirement: 60"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Darkforce Spawn",
+	"setVersion": "",
+	"itemName": "Bloodlord Skull",
+	"srcIcon": "resources/images/Demon_Head_(Diablo_II).gif",
+	"requirements": "Defense: 103 - 148\nArmor Type: Light\nBlock: P: 32%\n Am/As/B: 32%\n D/N/S: 32%\nMinimum Strength: 106\nDurability: 20\nMax Sockets: 2\nQuality Level: 85\nLevel Requirement: 65"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lenymo",
+	"setVersion": "Death's Guard",
+	"itemName": "Sash",
+	"srcIcon": "resources/images/Sash_(Diablo_II).gif",
+	"requirements": "Defense: 2\nPotion Slots: 8\nMinimum Strength: -\nDurability: 12\nQuality Level: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Snakecord",
+	"setVersion": "Arctic Binding",
+	"itemName": "Light Belt",
+	"srcIcon": "resources/images/Light_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 3\nPotion Slots: 8\nMinimum Strength: -\nDurability: 14\nQuality Level: 7"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Nightsmoke",
+	"setVersion": "Hwanin's Blessing",
+	"itemName": "Belt",
+	"srcIcon": "resources/images/Belt_(Diablo_II).gif",
+	"requirements": "Defense: 4\nPotion Slots: 12\nMinimum Strength: 25\nDurability: 16\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Goldwrap",
+	"setVersion": "Iratha's Cord",
+	"itemName": "Heavy Belt",
+	"srcIcon": "resources/images/Heavy_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 6\nPotion Slots: 12\nMinimum Strength: 45\nDurability: 18\nQuality Level: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bladebuckle",
+	"setVersion": "Sigon's Wrap",
+	"itemName": "Plated Belt",
+	"srcIcon": "resources/images/Plated_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 8 - 11\nPotion Slots: 16\nMinimum Strength: 60\nDurability: 24\nQuality Level: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "String of Ears",
+	"setVersion": "",
+	"itemName": "Demonhide Sash",
+	"srcIcon": "resources/images/Sash_(Diablo_II).gif",
+	"requirements": "Defense: 29 - 34\nPotion Slots: 16\nMinimum Strength: 20\nDurability: 12\nQuality Level: 36\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Razortail",
+	"setVersion": "M'avina's Tenet",
+	"itemName": "Sharkskin Belt",
+	"srcIcon": "resources/images/Light_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 31 - 36\nPotion Slots: 16\nMinimum Strength: 20\nDurability: 14\nQuality Level: 39\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gloom's Trap",
+	"setVersion": "Tal Rasha's Fine-Spun Cloth",
+	"itemName": "Mesh Belt",
+	"srcIcon": "resources/images/Belt_(Diablo_II).gif",
+	"requirements": "Defense: 35 - 40\nPotion Slots: 16\nMinimum Strength: 58\nDurability: 16\nQuality Level: 43\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Snowclash",
+	"setVersion": "Wilhelm's Pride",
+	"itemName": "Battle Belt",
+	"srcIcon": "resources/images/Heavy_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 37 - 42\nPotion Slots: 16\nMinimum Strength: 88\nDurability: 18\nQuality Level: 49\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Thundergod's Vigor",
+	"setVersion": "Immortal King's Detail",
+	"itemName": "War Belt",
+	"srcIcon": "resources/images/Plated_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 41 - 52\nPotion Slots: 16\nMinimum Strength: 110\nDurability: 24\nQuality Level: 54\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Arachnid Mesh",
+	"setVersion": "",
+	"itemName": "Spiderweb Sash",
+	"srcIcon": "resources/images/Sash_(Diablo_II).gif",
+	"requirements": "Defense: 55 - 62\nPotion Slots: 16\nMinimum Strength: 50\nDurability: 12\nQuality Level: 61\nLevel Requirement: 46"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Nosferatu's Coil",
+	"setVersion": "",
+	"itemName": "Vampirefang Belt",
+	"srcIcon": "resources/images/Light_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 56 - 63\nPotion Slots: 16\nMinimum Strength: 50\nDurability: 14\nQuality Level: 68\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Verdungo's Hearty Cord",
+	"setVersion": "Credendum",
+	"itemName": "Mithril Coil",
+	"srcIcon": "resources/images/Belt_(Diablo_II).gif",
+	"requirements": "Defense: 58 - 65\nPotion Slots: 16\nMinimum Strength: 106\nDurability: 16\nQuality Level: 75\nLevel Requirement: 56"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Trang-Oul's Girth",
+	"itemName": "Troll Belt",
+	"srcIcon": "resources/images/Heavy_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 59 - 66\nPotion Slots: 16\nMinimum Strength: 151\nDurability: 18\nQuality Level: 82\nLevel Requirement: 62"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Colossus Girdle",
+	"srcIcon": "resources/images/Plated_Belt_(Diablo_II).gif",
+	"requirements": "Defense: 61 - 71\nPotion Slots: 16\nMinimum Strength: 185\nDurability: 24\nQuality Level: 85\nLevel Requirement: 67"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Greyform",
+	"setVersion": "Arctic Furs",
+	"itemName": "Quilted Armor",
+	"srcIcon": "resources/images/Quilted_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 8 - 11\nArmor Type: Light\nMinimum Strength: 12\nDurability: 20\nMax Sockets: 2\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blinkbat's Form",
+	"setVersion": "Vidala's Ambush",
+	"itemName": "Leather Armor",
+	"srcIcon": "resources/images/Leather_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 14 - 17\nArmor Type: Light\nMinimum Strength: 15\nDurability: 24\nMax Sockets: 2\nQuality Level: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Centurion",
+	"setVersion": "",
+	"itemName": "Hard Leather Armor",
+	"srcIcon": "resources/images/Hard_Leather_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 21 - 24\nArmor Type: Light\nMinimum Strength: 20\nDurability: 28\nMax Sockets: 2\nQuality Level: 5"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Twitchthroe",
+	"setVersion": "Cow King's Hide",
+	"itemName": "Studded Leather",
+	"srcIcon": "resources/images/Studded_Leather_(Diablo_II).gif",
+	"requirements": "Defense: 32 - 35\nArmor Type: Light\nMinimum Strength: 27\nDurability: 32\nMax Sockets: 2\nQuality Level: 8"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Angelic Mantle",
+	"setVersion": "Darkglow",
+	"itemName": "Ring Mail",
+	"srcIcon": "resources/images/Ring_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 45 - 48\nArmor Type: Medium\nMinimum Strength: 36\nDurability: 26\nMax Sockets: 3\nQuality Level: 11"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hawkmail",
+	"setVersion": "",
+	"itemName": "Scale Mail",
+	"srcIcon": "resources/images/Scale_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 57 - 60\nArmor Type: Heavy\nMinimum Strength: 44\nDurability: 36\nMax Sockets: 2\nQuality Level: 13"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Sparkling Mail",
+	"setVersion": "Cathan's Mesh",
+	"itemName": "Chain Mail",
+	"srcIcon": "resources/images/Chain_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 72 - 75\nArmor Type: Medium\nMinimum Strength: 48\nDurability: 45\nMax Sockets: 2\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Venom Ward",
+	"setVersion": "Isenhart's Case",
+	"itemName": "Breast Plate",
+	"srcIcon": "resources/images/Breast_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 65 - 68\nArmor Type: Light\nMinimum Strength: 30\nDurability: 50\nMax Sockets: 3\nQuality Level: 18"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Iceblink",
+	"setVersion": "Berserker's Hauberk",
+	"itemName": "Splint Mail",
+	"srcIcon": "resources/images/Splint_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 90 - 95\nArmor Type: Medium\nMinimum Strength: 51\nDurability: 30\nMax Sockets: 2\nQuality Level: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Boneflesh",
+	"setVersion": "",
+	"itemName": "Plate Mail",
+	"srcIcon": "resources/images/Plate_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 108 - 116\nArmor Type: Heavy\nMinimum Strength: 65\nDurability: 60\nMax Sockets: 2\nQuality Level: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rockfleece",
+	"setVersion": "",
+	"itemName": "Field Plate",
+	"srcIcon": "resources/images/Field_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 101 - 105\nArmor Type: Medium\nMinimum Strength: 55\nDurability: 48\nMax Sockets: 2\nQuality Level: 28"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rattlecage",
+	"setVersion": "Sigon's Shelter",
+	"itemName": "Gothic Plate",
+	"srcIcon": "resources/images/Gothic_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 128 - 135\nArmor Type: Medium\nMinimum Strength: 70\nDurability: 55\nMax Sockets: 4\nQuality Level: 32"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Heavenly Garb",
+	"setVersion": "Arcanna's Flesh",
+	"itemName": "Light Plate",
+	"srcIcon": "resources/images/Light_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 90 - 107\nArmor Type: Light\nMinimum Strength: 41\nDurability: 60\nMax Sockets: 3\nQuality Level: 35"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Goldskin",
+	"setVersion": "Tancred's Spine",
+	"itemName": "Full Plate Mail",
+	"srcIcon": "resources/images/Full_Plate_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 150 - 161\nArmor Type: Heavy\nMinimum Strength: 80\nDurability: 70\nMax Sockets: 4\nQuality Level: 37"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Silks of the Victor",
+	"setVersion": "Milabrega's Robe",
+	"itemName": "Ancient Armor",
+	"srcIcon": "resources/images/Ancient_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 218 - 233\nArmor Type: Medium\nMinimum Strength: 100\nDurability: 60\nMax Sockets: 4\nQuality Level: 40"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Spirit Shroud",
+	"setVersion": "",
+	"itemName": "Ghost Armor",
+	"srcIcon": "resources/images/Quilted_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 102 - 117\nArmor Type: Light\nMinimum Strength: 38\nDurability: 20\nMax Sockets: 2\nQuality Level: 34\nLevel Requirement: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Skin of the Viper Magi",
+	"setVersion": "",
+	"itemName": "Serpentskin Armor",
+	"srcIcon": "resources/images/Leather_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 111 - 126\nArmor Type: Light\nMinimum Strength: 43\nDurability: 24\nMax Sockets: 2\nQuality Level: 36\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Skin of the Flayed One",
+	"setVersion": "",
+	"itemName": "Demonhide Armor",
+	"srcIcon": "resources/images/Hard_Leather_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 122 - 136\nArmor Type: Light\nMinimum Strength: 50\nDurability: 28\nMax Sockets: 2\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Iron Pelt",
+	"setVersion": "",
+	"itemName": "Trellised Armor",
+	"srcIcon": "resources/images/Studded_Leather_(Diablo_II).gif",
+	"requirements": "Defense: 138 - 153\nArmor Type: Light\nMinimum Strength: 61\nDurability: 32\nMax Sockets: 2\nQuality Level: 40\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spirit Forge",
+	"setVersion": "",
+	"itemName": "Linked Mail",
+	"srcIcon": "resources/images/Ring_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 158 - 172\nArmor Type: Medium\nMinimum Strength: 74\nDurability: 26\nMax Sockets: 3\nQuality Level: 42\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Crow Caw",
+	"setVersion": "Hwanin's Refuge",
+	"itemName": "Tigulated Mail",
+	"srcIcon": "resources/images/Scale_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 176 - 190\nArmor Type: Heavy\nDurability: 36\nMax Sockets: 2\nQuality Level: 13\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Shaftstop",
+	"setVersion": "",
+	"itemName": "Mesh Armor",
+	"srcIcon": "resources/images/Chain_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 198 - 213\nArmor Type: Medium\nMinimum Strength: 92\nDurability: 45\nMax Sockets: 2\nQuality Level: 15\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Duriel's Shell",
+	"setVersion": "Haemosu's Adamant",
+	"itemName": "Cuirass",
+	"srcIcon": "resources/images/Breast_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 188 - 202\nArmor Type: Light\nDurability: 50\nMax Sockets: 3\nQuality Level: 18\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Skullder's Ire",
+	"setVersion": "",
+	"itemName": "Russet Armor",
+	"srcIcon": "resources/images/Splint_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 225 - 243\nArmor Type: Medium\nMinimum Strength: 97\nDurability: 30\nMax Sockets: 2\nQuality Level: 20\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Guardian Angel",
+	"setVersion": "",
+	"itemName": "Templar Coat",
+	"srcIcon": "resources/images/Plate_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 252 - 274\nArmor Type: Heavy\nDurability: 60\nMax Sockets: 2\nQuality Level: 24\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Toothrow",
+	"setVersion": "",
+	"itemName": "Sharktooth Armor",
+	"srcIcon": "resources/images/Field_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 242 - 258\nArmor Type: Medium\nMinimum Strength: 103\nDurability: 48\nMax Sockets: 3\nQuality Level: 28\nLevel Requirement: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Atma's Wail",
+	"setVersion": "",
+	"itemName": "Embossed Plate",
+	"srcIcon": "resources/images/Gothic_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 282 - 303\nArmor Type: Medium\nMinimum Strength: 125\nDurability: 55\nMax Sockets: 4\nQuality Level: 32\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Que-Hegan's Wisdom",
+	"setVersion": "",
+	"itemName": "Mage Plate",
+	"srcIcon": "resources/images/Light_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 225 - 261\nArmor Type: Light\nMinimum Strength: 55\nDurability: 60\nMax Sockets: 3\nQuality Level: 35\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Black Hades",
+	"setVersion": "Trang-Oul's Scales",
+	"itemName": "Chaos Armor",
+	"srcIcon": "resources/images/Full_Plate_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 315 - 342\nArmor Type: Heavy\nMinimum Strength: 140\nDurability: 70\nMax Sockets: 4\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Corpsemourn",
+	"setVersion": "Griswold's Heart",
+	"itemName": "Ornate Plate",
+	"srcIcon": "resources/images/Ancient_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 417 - 450\nArmor Type: Medium\nMinimum Strength: 170\nDurability: 60\nMax Sockets: 4\nQuality Level: 40\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ormus' Robes",
+	"setVersion": "Dark Adherent",
+	"itemName": "Dusk Shroud",
+	"srcIcon": "resources/images/Quilted_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 361 - 467\nArmor Type: Light\nMinimum Strength: 77\nDurability: 20\nMax Sockets: 4\nQuality Level: 65\nLevel Requirement: 49"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Wyrmhide",
+	"srcIcon": "resources/images/Leather_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 364 - 470\nArmor Type: Light\nMinimum Strength: 84\nDurability: 24\nMax Sockets: 4\nQuality Level: 67\nLevel Requirement: 50"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Scarab Husk",
+	"srcIcon": "resources/images/Hard_Leather_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 369 - 474\nArmor Type: Light\nMinimum Strength: 95\nDurability: 28\nMax Sockets: 4\nQuality Level: 68\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Gladiator's Bane",
+	"setVersion": "",
+	"itemName": "Wire Fleece",
+	"srcIcon": "resources/images/Studded_Leather_(Diablo_II).gif",
+	"requirements": "Defense: 375 - 481\nArmor Type: Light\nMinimum Strength: 111\nDurability: 32\nMax Sockets: 4\nQuality Level: 70\nLevel Requirement: 53"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Diamond Mail",
+	"srcIcon": "resources/images/Ring_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 383 - 489\nArmor Type: Medium\nMinimum Strength: 131\nDurability: 26\nMax Sockets: 4\nQuality Level: 72\nLevel Requirement: 54"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Natalya's Shadow",
+	"itemName": "Loricated Mail",
+	"srcIcon": "resources/images/Scale_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 390 - 496\nArmor Type: Heavy\nMinimum Strength: 149\nDurability: 36\nMax Sockets: 4\nQuality Level: 73\nLevel Requirement: 55"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Boneweave",
+	"srcIcon": "resources/images/Chain_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 399 - 505\nArmor Type: Medium\nMinimum Strength: 158\nDurability: 45\nMax Sockets: 4\nQuality Level: 62\nLevel Requirement: 47"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Great Hauberk",
+	"srcIcon": "resources/images/Breast_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 395 - 501\nArmor Type: Light\nMinimum Strength: 118\nDurability: 50\nMax Sockets: 4\nQuality Level: 75\nLevel Requirement: 56"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Arkaine's Valor",
+	"setVersion": "Sazabi's Ghost Liberator",
+	"itemName": "Balrog Skin",
+	"srcIcon": "resources/images/Splint_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 410 - 517\nArmor Type: Medium\nMinimum Strength: 165\nDurability: 30\nMax Sockets: 4\nQuality Level: 76\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Naj's Light Plate",
+	"itemName": "Hellforge Plate",
+	"srcIcon": "resources/images/Plate_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 421 - 530\nArmor Type: Heavy\nMinimum Strength: 196\nDurability: 60\nMax Sockets: 4\nQuality Level: 78\nLevel Requirement: 59"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Leviathan",
+	"setVersion": "M'avina's Embrace",
+	"itemName": "Kraken Shell",
+	"srcIcon": "resources/images/Field_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 417 - 523\nArmor Type: Medium\nMinimum Strength: 174\nDurability: 48\nMax Sockets: 4\nQuality Level: 81\nLevel Requirement: 61"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Tal Rasha's Guardianship",
+	"setVersion": "",
+	"itemName": "Lacquered Plate",
+	"srcIcon": "resources/images/Gothic_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 433 - 541\nArmor Type: Medium\nMinimum Strength: 208\nDurability: 55\nMax Sockets: 4\nQuality Level: 82\nLevel Requirement: 62"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Archon Plate",
+	"srcIcon": "resources/images/Light_Plate_(Diablo_II).gif",
+	"requirements": "Defense: 410 - 524\nArmor Type: Light\nMinimum Strength: 103\nDurability: 60\nMax Sockets: 4\nQuality Level: 84\nLevel Requirement: 63"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Steel Carapace",
+	"setVersion": "Aldur's Deception",
+	"itemName": "Shadow Plate",
+	"srcIcon": "resources/images/Full_Plate_Mail_(Diablo_II).gif",
+	"requirements": "Defense: 446 - 557\nArmor Type: Heavy\nMinimum Strength: 230\nDurability: 70\nMax Sockets: 4\nQuality Level: 83\nLevel Requirement: 64"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Tyrael's Might, Templar's Might",
+	"setVersion": "Immortal King's Soul Cage",
+	"itemName": "Sacred Armor",
+	"srcIcon": "resources/images/Ancient_Armor_(Diablo_II).gif",
+	"requirements": "Defense: 487 - 600\nArmor Type: Medium\nMinimum Strength: 232\nDurability: 60\nMax Sockets: 4\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hotspur",
+	"setVersion": "Tancred's Hobnails",
+	"itemName": "Boots",
+	"srcIcon": "resources/images/Boots_(Diablo_II).gif",
+	"requirements": "Defense: 2 - 3\nKick Damage: 3 - 8\nMinimum Strength: -\nDurability: 12\nQuality Level: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gorefoot",
+	"setVersion": "Sander's Riprap",
+	"itemName": "Heavy Boots",
+	"srcIcon": "resources/images/Heavy_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 5 - 6\nKick Damage: 4 - 10\nMinimum Strength: 18\nDurability: 14\nQuality Level: 7"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Treads of Cthon",
+	"setVersion": "Hsarus' Iron Heel",
+	"itemName": "Chain Boots",
+	"srcIcon": "resources/images/Chain_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 8 - 9\nKick Damage: 6 - 12\nMinimum Strength: 30\nDurability: 16\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Goblin Toe",
+	"setVersion": "Vidala's Fetlock",
+	"itemName": "Light Plated Boots",
+	"srcIcon": "resources/images/Light_Plated_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 9 - 11\nKick Damage: 8 - 16\nMinimum Strength: 50\nDurability: 18\nQuality Level: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Tearhaunch",
+	"setVersion": "Sigon's Sabot",
+	"itemName": "Greaves",
+	"srcIcon": "resources/images/Greaves_(Diablo_II).gif",
+	"requirements": "Defense: 12 - 15\nKick Damage: 10 - 20\nMinimum Strength: 70\nDurability: 24\nQuality Level: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Infernostride",
+	"setVersion": "Rite of Passage",
+	"itemName": "Demonhide Boots",
+	"srcIcon": "resources/images/Boots_(Diablo_II).gif",
+	"requirements": "Defense: 28 - 35\nKick Damage: 26 - 46\nMinimum Strength: 20\nDurability: 12\nQuality Level: 36\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Waterwalk",
+	"setVersion": "",
+	"itemName": "Sharkskin Boots",
+	"srcIcon": "resources/images/Heavy_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 33 - 39\nKick Damage: 28 - 50\nMinimum Strength: 47\nDurability: 14\nQuality Level: 39\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Silkweave",
+	"setVersion": "Natalya's Soul",
+	"itemName": "Mesh Boots",
+	"srcIcon": "resources/images/Chain_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 37 - 44\nKick Damage: 23 - 52\nMinimum Strength: 65\nDurability: 16\nQuality Level: 43\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "War Traveler",
+	"setVersion": "Aldur's Advance",
+	"itemName": "Battle Boots",
+	"srcIcon": "resources/images/Light_Plated_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 39 - 47\nKick Damage: 37 - 64\nMinimum Strength: 95\nDurability: 18\nQuality Level: 49\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gore Rider",
+	"setVersion": "Immortal King's Pillar",
+	"itemName": "War Boots",
+	"srcIcon": "resources/images/Greaves_(Diablo_II).gif",
+	"requirements": "Defense: 43 - 53\nKick Damage: 39 - 80\nMinimum Strength: 125\nDurability: 24\nQuality Level: 54\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Wyrmhide Boots",
+	"srcIcon": "resources/images/Boots_(Diablo_II).gif",
+	"requirements": "Defense: 54 - 62\nKick Damage: 65 - 100\nMinimum Strength: 50\nDurability: 12\nQuality Level: 60\nLevel Requirement: 45"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Sandstorm Trek",
+	"setVersion": "",
+	"itemName": "Scarabshell Boots",
+	"srcIcon": "resources/images/Heavy_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 56 - 65\nKick Damage: 60 - 110\nMinimum Strength: 91\nDurability: 14\nQuality Level: 66\nLevel Requirement: 49"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Marrowwalk",
+	"setVersion": "",
+	"itemName": "Boneweave Boots",
+	"srcIcon": "resources/images/Chain_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 59 - 67\nKick Damage: 9 - 118\nMinimum Strength: 118\nDurability: 16\nQuality Level: 72\nLevel Requirement: 54"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Mirrored Boots",
+	"srcIcon": "resources/images/Light_Plated_Boots_(Diablo_II).gif",
+	"requirements": "Defense: 59 - 68\nKick Damage: 50 - 145\nMinimum Strength: 163\nDurability: 18\nQuality Level: 81\nLevel Requirement: 60"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Shadow Dancer",
+	"setVersion": "",
+	"itemName": "Myrmidon Greaves",
+	"srcIcon": "resources/images/Greaves_(Diablo_II).gif",
+	"requirements": "Defense: 62 - 71\nKick Damage: 83 - 149\nMinimum Strength: 208\nDurability: 24\nQuality Level: 85\nLevel Requirement: 65"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Naj's Circlet",
+	"itemName": "Circlet",
+	"srcIcon": "resources/images/Circlet_(Diablo_II).gif",
+	"requirements": "Defense: 20 - 30\nDurability: 35\nMax Sockets: 2\nQuality Level: 24\nLevel Requirement: 16"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Coronet",
+	"srcIcon": "resources/images/Coronet_(Diablo_II).gif",
+	"requirements": "Defense: 30 - 40\nDurability: 30\nMax Sockets: 2\nQuality Level: 50\nLevel Requirement: 39"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Kira's Guardian",
+	"setVersion": "",
+	"itemName": "Tiara",
+	"srcIcon": "resources/images/Tiara_(Diablo_II).gif",
+	"requirements": "Defense: 40 - 50\nDurability: 25\nMax Sockets: 3\nQuality Level: 70\nLevel Requirement: 52"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Griffon's Eye",
+	"setVersion": "M'avina's True Sight",
+	"itemName": "Diadem",
+	"srcIcon": "resources/images/Diadem_(Diablo_II).gif",
+	"requirements": "Defense: 50 - 60\nDurability: 20\nMax Sockets: 3\nQuality Level: 85\nLevel Requirement: 64"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Hand of Broc",
+	"setVersion": "Death's Hand",
+	"itemName": "Leather Gloves",
+	"srcIcon": "resources/images/Leather_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 2 - 3\nMinimum Strength: -\nDurability: 12\nQuality Level: 3"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bloodfist",
+	"setVersion": "Sander's Taboo",
+	"itemName": "Heavy Gloves",
+	"srcIcon": "resources/images/Heavy_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 5 - 6\nMinimum Strength: -\nDurability: 14\nQuality Level: 7"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Chance Guards",
+	"setVersion": "Cleglaw's Pincers",
+	"itemName": "Chain Gloves",
+	"srcIcon": "resources/images/Chain_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 8 - 9\nMinimum Strength: 25\nDurability: 16\nQuality Level: 12"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Magefist",
+	"setVersion": "Iratha's Cuff",
+	"itemName": "Light Gauntlets",
+	"srcIcon": "resources/images/Light_Gauntlets_(Diablo_II).gif",
+	"requirements": "Defense: 9 - 11\nMinimum Strength: 45\nDurability: 18\nQuality Level: 20"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Frostburn",
+	"setVersion": "Sigon's Gage",
+	"itemName": "Gauntlets",
+	"srcIcon": "resources/images/Gauntlets_(Diablo_II).gif",
+	"requirements": "Defense: 12 - 15\nMinimum Strength: 60\nDurability: 24\nQuality Level: 27"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Venom Grip",
+	"setVersion": "",
+	"itemName": "Demonhide Gloves",
+	"srcIcon": "resources/images/Leather_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 28 - 35\nMinimum Strength: 20\nDurability: 12\nQuality Level: 33\nLevel Requirement: 24"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gravepalm",
+	"setVersion": "Magnus' Skin",
+	"itemName": "Sharkskin Gloves",
+	"srcIcon": "resources/images/Heavy_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 33 - 39\nMinimum Strength: 20\nDurability: 14\nQuality Level: 39\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Ghoulhide",
+	"setVersion": "Trang-Oul's Claws",
+	"itemName": "Heavy Bracers",
+	"srcIcon": "resources/images/Chain_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 37 - 44\nMinimum Strength: 58\nDurability: 16\nQuality Level: 43\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lava Gout",
+	"setVersion": "M'avina's Icy Clutch",
+	"itemName": "Battle Gauntlets",
+	"srcIcon": "resources/images/Light_Gauntlets_(Diablo_II).gif",
+	"requirements": "Defense: 39 - 47\nMinimum Strength: 88\nDurability: 18\nQuality Level: 49\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Hellmouth",
+	"setVersion": "Immortal King's Forge",
+	"itemName": "War Gauntlets",
+	"srcIcon": "resources/images/Gauntlets_(Diablo_II).gif",
+	"requirements": "Defense: 43 - 53\nMinimum Strength: 110\nDurability: 24\nQuality Level: 54\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "Laying of Hands",
+	"itemName": "Bramble Mitts",
+	"srcIcon": "resources/images/Leather_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 54 - 62\nMinimum Strength: 50\nDurability: 12\nQuality Level: 57\nLevel Requirement: 42"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Dracul's Grasp",
+	"setVersion": "",
+	"itemName": "Vampirebone Gloves",
+	"srcIcon": "resources/images/Heavy_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 56 - 65\nMinimum Strength: 50\nDurability: 14\nQuality Level: 63\nLevel Requirement: 47"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Soul Drainer",
+	"setVersion": "",
+	"itemName": "Vambraces",
+	"srcIcon": "resources/images/Chain_Gloves_(Diablo_II).gif",
+	"requirements": "Defense: 59 - 67\nMinimum Strength: 106\nDurability: 16\nQuality Level: 69\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Crusader Gauntlets",
+	"srcIcon": "resources/images/Light_Gauntlets_(Diablo_II).gif",
+	"requirements": "Defense: 59 - 68\nMinimum Strength: 151\nDurability: 18\nQuality Level: 76\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Steelrend",
+	"setVersion": "",
+	"itemName": "Ogre Gauntlets",
+	"srcIcon": "resources/images/Gauntlets_(Diablo_II).gif",
+	"requirements": "Defense: 62 - 71\nMinimum Strength: 185\nDurability: 24\nQuality Level: 85\nLevel Requirement: 64"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Biggin's Bonnet",
+	"setVersion": "Sander's Paragon",
+	"itemName": "Cap",
+	"srcIcon": "resources/images/Cap_(Diablo_II).gif",
+	"requirements": "Defense: 3 - 5\nMinimum Strength: -\nDurability: 12\nMax Sockets: 2\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Tarnhelm",
+	"setVersion": "Arcanna's Head",
+	"itemName": "Skull Cap",
+	"srcIcon": "resources/images/Skull_Cap_(Diablo_II).gif",
+	"requirements": "Defense: 8 - 11\nMinimum Strength: 15\nDurability: 18\nMax Sockets: 2\nQuality Level: 5"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Coif of Glory",
+	"setVersion": "Berserker's Headgear",
+	"itemName": "Helm",
+	"srcIcon": "resources/images/Helm_(Diablo_II).gif",
+	"requirements": "Defense: 15 - 18\nMinimum Strength: 26\nDurability: 24\nMax Sockets: 2\nQuality Level: 11"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Duskdeep",
+	"setVersion": "Isenhart's Horns",
+	"itemName": "Full Helm",
+	"srcIcon": "resources/images/Full_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 23 - 26\nMinimum Strength: 41\nDurability: 30\nMax Sockets: 2\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Face of Horror",
+	"setVersion": "Cathan's Visage",
+	"itemName": "Mask",
+	"srcIcon": "resources/images/Mask_(Diablo_II).gif",
+	"requirements": "Defense: 9 - 27\nMinimum Strength: 23\nDurability: 20\nMax Sockets: 3\nQuality Level: 19"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Wormskull",
+	"setVersion": "Tancred's Skull",
+	"itemName": "Bone Helm",
+	"srcIcon": "resources/images/Bone_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 33 - 36\nMinimum Strength: 25\nDurability: 40\nMax Sockets: 2\nQuality Level: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Howltusk",
+	"setVersion": "Sigon's Visor",
+	"itemName": "Great Helm",
+	"srcIcon": "resources/images/Great_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 30 - 35\nMinimum Strength: 63\nDurability: 40\nMax Sockets: 3\nQuality Level: 23"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Undead Crown",
+	"setVersion": "Milabrega's Diadem",
+	"itemName": "Crown",
+	"srcIcon": "resources/images/Crown_(Diablo_II).gif",
+	"requirements": "Defense: 25 - 45\nMinimum Strength: 55\nDurability: 50\nMax Sockets: 3\nQuality Level: 29"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Peasant Crown",
+	"setVersion": "Cow King's Horns",
+	"itemName": "War Hat",
+	"srcIcon": "resources/images/Cap_(Diablo_II).gif",
+	"requirements": "Defense: 45 - 53\nMinimum Strength: 20\nDurability: 12\nMax Sockets: 2\nQuality Level: 34\nLevel Requirement: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Rockstopper",
+	"setVersion": "",
+	"itemName": "Sallet",
+	"srcIcon": "resources/images/Skull_Cap_(Diablo_II).gif",
+	"requirements": "Defense: 52 - 62\nMinimum Strength: 43\nDurability: 18\nMax Sockets: 2\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stealskull",
+	"setVersion": "",
+	"itemName": "Casque",
+	"srcIcon": "resources/images/Helm_(Diablo_II).gif",
+	"requirements": "Defense: 63 - 72\nMinimum Strength: 59\nDurability: 24\nMax Sockets: 2\nQuality Level: 42\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Darksight Helm",
+	"setVersion": "Sazabi's Mental Sheath",
+	"itemName": "Basinet",
+	"srcIcon": "resources/images/Full_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 75 - 84\nMinimum Strength: 82\nDurability: 30\nMax Sockets: 2\nQuality Level: 45\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blackthorn's Face",
+	"setVersion": "Tal Rasha's Horadric Crest",
+	"itemName": "Death Mask",
+	"srcIcon": "resources/images/Mask_(Diablo_II).gif",
+	"requirements": "Defense: 54 - 86\nMinimum Strength: 55\nDurability: 20\nMax Sockets: 3\nQuality Level: 48\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Vampire Gaze",
+	"setVersion": "Natalya's Totem",
+	"itemName": "Grim Helm",
+	"srcIcon": "resources/images/Bone_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 60 - 125\nMinimum Strength: 58\nDurability: 40\nMax Sockets: 2\nQuality Level: 50\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Valkyrie Wing",
+	"setVersion": "Guillaume's Face",
+	"itemName": "Winged Helm",
+	"srcIcon": "resources/images/Great_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 85 - 98\nMinimum Strength: 115\nDurability: 40\nMax Sockets: 3\nQuality Level: 51\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Crown of Thieves",
+	"setVersion": "Hwanin's Splendor",
+	"itemName": "Grand Crown",
+	"srcIcon": "resources/images/Crown_(Diablo_II).gif",
+	"requirements": "Defense: 78 - 113\nMinimum Strength: 103\nDurability: 50\nMax Sockets: 3\nQuality Level: 55\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Harlequin Crest",
+	"setVersion": "",
+	"itemName": "Shako",
+	"srcIcon": "resources/images/Cap_(Diablo_II).gif",
+	"requirements": "Defense: 98 - 141\nMinimum Strength: 50\nDurability: 12\nMax Sockets: 2\nQuality Level: 58\nLevel Requirement: 43"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hydraskull",
+	"srcIcon": "resources/images/Skull_Cap_(Diablo_II).gif",
+	"requirements": "Defense: 101 - 145\nMinimum Strength: 84\nDurability: 18\nMax Sockets: 2\nQuality Level: 63\nLevel Requirement: 47"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Steel Shade",
+	"setVersion": "",
+	"itemName": "Armet",
+	"srcIcon": "resources/images/Helm_(Diablo_II).gif",
+	"requirements": "Defense: 105 - 149\nMinimum Strength: 109\nDurability: 24\nMax Sockets: 2\nQuality Level: 68\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Giant Conch",
+	"srcIcon": "resources/images/Full_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 110 - 154\nMinimum Strength: 142\nDurability: 30\nMax Sockets: 2\nQuality Level: 54\nLevel Requirement: 40"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Andariel's Visage",
+	"setVersion": "",
+	"itemName": "Demonhead",
+	"srcIcon": "resources/images/Mask_(Diablo_II).gif",
+	"requirements": "Defense: 101 - 154\nMinimum Strength: 102\nDurability: 20\nMax Sockets: 3\nQuality Level: 74\nLevel Requirement: 55"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Giant Skull",
+	"setVersion": "Trang-Oul's Guise",
+	"itemName": "Bone Visage",
+	"srcIcon": "resources/images/Bone_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 100 - 157\nMinimum Strength: 106\nDurability: 40\nMax Sockets: 3\nQuality Level: 84\nLevel Requirement: 63"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Veil of Steel",
+	"setVersion": "Ondal's Almighty",
+	"itemName": "Spired Helm",
+	"srcIcon": "resources/images/Great_Helm_(Diablo_II).gif",
+	"requirements": "Defense: 114 - 159\nMinimum Strength: 192\nDurability: 40\nMax Sockets: 3\nQuality Level: 79\nLevel Requirement: 59"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Crown of Ages",
+	"setVersion": "Griswold's Valor",
+	"itemName": "Corona",
+	"srcIcon": "resources/images/Crown_(Diablo_II).gif",
+	"requirements": "Defense: 111 - 165\nMinimum Strength: 174\nDurability: 50\nMax Sockets: 3\nQuality Level: 85\nLevel Requirement: 66"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Pelta Lunata",
+	"setVersion": "Hsarus' Iron Fist",
+	"itemName": "Buckler",
+	"srcIcon": "resources/images/Buckler_(Diablo_II).gif",
+	"requirements": "Defense: 4 - 6\nArmor Type: Light\nBlock: P: 30%\n Am/As/B: 25%\n D/N/S: 20%\nSmite Damage: 1 - 3\nMinimum Strength: 12\nDurability: 12\nMax Sockets: 1\nQuality Level: 1"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Umbral Disk",
+	"setVersion": "Cleglaw's Brace",
+	"itemName": "Small Shield",
+	"srcIcon": "resources/images/Small_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 8 - 10\nArmor Type: Light\nBlock: P: 35%\n Am/As/B: 30%\n D/N/S: 25%\nSmite Damage: 2 - 3\nMinimum Strength: 22\nDurability: 16\nMax Sockets: 2\nQuality Level: 5"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormguild",
+	"setVersion": "Civerb's Ward",
+	"itemName": "Large Shield",
+	"srcIcon": "resources/images/Large_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 12 - 14\nArmor Type: Medium\nBlock: P: 35%\n Am/As/B: 30%\n D/N/S: 25%\nSmite Damage: 2 - 4\nMinimum Strength: 34\nDurability: 24\nMax Sockets: 3\nQuality Level: 11"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Steelclash",
+	"setVersion": "Milabrega's Orb",
+	"itemName": "Kite Shield",
+	"srcIcon": "resources/images/Kite_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 16 - 18\nArmor Type: Light\nBlock: P: 38%\n Am/As/B: 33%\n D/N/S: 28%\nSmite Damage: 2 - 5\nMinimum Strength: 47\nDurability: 30\nMax Sockets: 3\nQuality Level: 15"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Swordback Hold",
+	"setVersion": "",
+	"itemName": "Spiked Shield",
+	"srcIcon": "resources/images/Spiked_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 15 - 25\nArmor Type: Light\nBlock: P: 40%\n Am/As/B: 35%\n D/N/S: 30%\nSmite Damage: 5 - 9\nMinimum Strength: 30\nDurability: 40\nMax Sockets: 2\nQuality Level: 11"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Wall of the Eyeless",
+	"setVersion": "",
+	"itemName": "Bone Shield",
+	"srcIcon": "resources/images/Bone_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 10 - 30\nArmor Type: Light\nBlock: P: 50%\n Am/As/B: 45%\n D/N/S: 40%\nSmite Damage: 3 - 6\nMinimum Strength: 25\nDurability: 40\nMax Sockets: 2\nQuality Level: 19"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Bverrit Keep",
+	"setVersion": "Sigon's Guard",
+	"itemName": "Tower Shield",
+	"srcIcon": "resources/images/Tower_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 22 - 25\nArmor Type: Heavy\nBlock: P: 54%\n Am/As/B: 49%\n D/N/S: 44%\nSmite Damage: 1 - 5\nMinimum Strength: 75\nDurability: 60\nMax Sockets: 3\nQuality Level: 22"
+}, {
+	"type": "normal",
+	"uniqueVersion": "The Ward",
+	"setVersion": "Isenhart's Parry",
+	"itemName": "Gothic Shield",
+	"srcIcon": "resources/images/Gothic_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 30 - 35\nArmor Type: Medium\nBlock: P: 46%\n Am/As/B: 41%\n D/N/S: 36%\nSmite Damage: 2 - 6\nMinimum Strength: 60\nDurability: 40\nMax Sockets: 3\nQuality Level: 30"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Visceratuant",
+	"setVersion": "",
+	"itemName": "Defender",
+	"srcIcon": "resources/images/Buckler_(Diablo_II).gif",
+	"requirements": "Defense: 41 - 49\nArmor Type: Light\nBlock: P: 40%\n Am/As/B: 35%\n D/N/S: 30%\nSmite Damage: 8 - 12\nMinimum Strength: 38\nDurability: 68\nMax Sockets: 1\nQuality Level: 34"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Moser's Blessed Circle",
+	"setVersion": "Whitstan's Guard",
+	"itemName": "Round Shield",
+	"srcIcon": "resources/images/Small_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 47 - 55\nArmor Type: Light\nBlock: P: 42%\n Am/As/B: 37%\n D/N/S: 32%\nSmite Damage: 7 - 14\nMinimum Strength: 53\nDurability: 64\nMax Sockets: 2\nQuality Level: 37\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormchaser",
+	"setVersion": "",
+	"itemName": "Scutum",
+	"srcIcon": "resources/images/Large_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 53 - 61\nArmor Type: Medium\nBlock: P: 44%\n Am/As/B: 39%\n D/N/S: 34%\nSmite Damage: 11 - 15\nMinimum Strength: 71\nDurability: 64\nMax Sockets: 3\nQuality Level: 42\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Tiamat's Rebuke",
+	"setVersion": "",
+	"itemName": "Dragon Shield",
+	"srcIcon": "resources/images/Kite_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 59 - 67\nArmor Type: Light\nBlock: P: 48%\n Am/As/B: 43%\n D/N/S: 38%\nSmite Damage: 15 - 24\nMinimum Strength: 91\nDurability: 76\nMax Sockets: 3\nQuality Level: 45\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lance Guard",
+	"setVersion": "",
+	"itemName": "Barbed Shield",
+	"srcIcon": "resources/images/Spiked_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 68 - 78\nArmor Type: Light\nBlock: P: 47%\n Am/As/B: 42%\n D/N/S: 37%\nSmite Damage: 18 - 35\nMinimum Strength: 65\nDurability: 55\nMax Sockets: 2\nQuality Level: 42\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Lidless Wall",
+	"setVersion": "",
+	"itemName": "Grim Shield",
+	"srcIcon": "resources/images/Bone_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 50 - 151\nArmor Type: Light\nBlock: P: 54%\n Am/As/B: 49%\n D/N/S: 44%\nSmite Damage: 14 - 20\nMinimum Strength: 58\nDurability: 70\nMax Sockets: 2\nQuality Level: 48\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Gerke's Sanctuary",
+	"setVersion": "",
+	"itemName": "Pavise",
+	"srcIcon": "resources/images/Tower_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 68 - 78\nArmor Type: Heavy\nBlock: P: 50%\n Am/As/B: 45%\n D/N/S: 40%\nSmite Damage: 10 - 17\nMinimum Strength: 133\nDurability: 72\nMax Sockets: 3\nQuality Level: 50\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Radament's Sphere",
+	"setVersion": "",
+	"itemName": "Ancient Shield",
+	"srcIcon": "resources/images/Gothic_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 80 - 93\nArmor Type: Medium\nBlock: P: 46%\n Am/As/B: 41%\n D/N/S: 36%\nSmite Damage: 12 - 16\nMinimum Strength: 110\nDurability: 80\nMax Sockets: 3\nQuality Level: 56\nLevel Requirement: 25"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Heater",
+	"srcIcon": "resources/images/Buckler_(Diablo_II).gif",
+	"requirements": "Defense: 95 - 110\nArmor Type: Light\nBlock: P: 52%\n Am/As/B: 47%\n D/N/S: 42%\nSmite Damage: 16 - 30\nMinimum Strength: 77\nDurability: 88\nMax Sockets: 2\nQuality Level: 58\nLevel Requirement: 43"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Blackoak Shield",
+	"setVersion": "",
+	"itemName": "Luna",
+	"srcIcon": "resources/images/Small_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 108 - 123\nArmor Type: Light\nBlock: P: 50%\n Am/As/B: 45%\n D/N/S: 40%\nSmite Damage: 17 - 29\nMinimum Strength: 100\nDurability: 84\nMax Sockets: 2\nQuality Level: 61\nLevel Requirement: 45"
+}, {
+	"type": "normal",
+	"uniqueVersion": "",
+	"setVersion": "",
+	"itemName": "Hyperion",
+	"srcIcon": "resources/images/Large_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 119 - 135\nArmor Type: Medium\nBlock: P: 54%\n Am/As/B: 49%\n D/N/S: 44%\nSmite Damage: 14 - 32\nMinimum Strength: 127\nDurability: 82\nMax Sockets: 3\nQuality Level: 64\nLevel Requirement: 48"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Stormshield",
+	"setVersion": "",
+	"itemName": "Monarch",
+	"srcIcon": "resources/images/Kite_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 133 - 148\nArmor Type: Light\nBlock: P: 52%\n Am/As/B: 47%\n D/N/S: 42%\nSmite Damage: 12 - 34\nMinimum Strength: 156\nDurability: 86\nMax Sockets: 4\nQuality Level: 72\nLevel Requirement: 54"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spike Thorn",
+	"setVersion": "",
+	"itemName": "Blade Barrier",
+	"srcIcon": "resources/images/Spiked_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 147 - 163\nArmor Type: Light\nBlock: P: 50%\n Am/As/B: 45%\n D/N/S: 40%\nSmite Damage: 26 - 40\nMinimum Strength: 118\nDurability: 83\nMax Sockets: 3\nQuality Level: 68\nLevel Requirement: 51"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Head Hunter's Glory",
+	"setVersion": "",
+	"itemName": "Troll Nest",
+	"srcIcon": "resources/images/Bone_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 158 - 173\nArmor Type: Light\nBlock: P: 50%\n Am/As/B: 45%\n D/N/S: 40%\nSmite Damage: 24 - 38\nMinimum Strength: 106\nDurability: 74\nMax Sockets: 3\nQuality Level: 76\nLevel Requirement: 57"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Medusa's Gaze",
+	"setVersion": "",
+	"itemName": "Aegis",
+	"srcIcon": "resources/images/Tower_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 145 - 161\nArmor Type: Heavy\nBlock: P: 54%\n Am/As/B: 49%\n D/N/S: 44%\nSmite Damage: 18 - 28\nMinimum Strength: 219\nDurability: 92\nMax Sockets: 4\nQuality Level: 79\nLevel Requirement: 59"
+}, {
+	"type": "normal",
+	"uniqueVersion": "Spirit Ward",
+	"setVersion": "Taebaek's Glory",
+	"itemName": "Ward",
+	"srcIcon": "resources/images/Gothic_Shield_(Diablo_II).gif",
+	"requirements": "Defense: 153 - 170\nArmor Type: Medium\nBlock: P: 54%\n Am/As/B: 49%\n D/N/S: 44%\nSmite Damage: 11 - 35\nMinimum Strength: 185\nDurability: 100\nMax Sockets: 4\nQuality Level: 84\nLevel Requirement: 63"
+}]
