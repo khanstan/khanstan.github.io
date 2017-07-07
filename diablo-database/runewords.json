@@ -341,161 +341,161 @@
   "allowedItems": "4 Socket Missile Weapons",
   "runes": "Jah + Lo + Mal + Gul",
   "modifiers": "!35% Chance To Cast Level 14 Amplify Damage When Struck!100% Chance To Cast Level 18 Bone Spear On Striking!+260-340% Enhanced Damage <span class='varies'>(varies)</span>!Ignore Target's Defense!20% Bonus to Attack Rating!+280-330% Damage To Demons <span class='varies'>(varies)</span>!20% Deadly Strike!Prevent Monster Heal!Knockback!Fires Explosive Arrows or Bolts (15)!",
-  "runewordReqLevel": "65 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "65 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Death",
   "allowedItems": "5 Socket Swords/Axes",
   "runes": "Hel + El + Vex + Ort + Gul",
   "modifiers": "!100% Chance To Cast Level 44 Chain Lightning When You Die!25% Chance To Cast Level 18 Glacial Spike On Attack!Indestructible!+300-385% Enhanced Damage <span class='varies'>(varies)</span>!20% Bonus To Attack Rating!+50 To Attack Rating!Adds 1-50 Lightning Damage!7% Mana Stolen Per Hit!50% Chance of Crushing Blow!+(0.5 per Character Level) 0.5-49.5% Deadly Strike (Based on Character Level)!+1 To Light Radius!Level 22 Blood Golem  (15 Charges)!Requirements -20%!",
-  "runewordReqLevel": "55 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "55 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Destruction",
   "allowedItems": "5 Socket Polearms/Swords",
   "runes": "Vex + Lo + Ber + Jah + Ko",
   "modifiers": "!23% Chance To Cast Level 12 Volcano On Striking!5% Chance To Cast Level 23 Molten Boulder On Striking!100% Chance To Cast level 45 Meteor When You Die!15% Chance To Cast Level 22 Nova On Attack!+350% Enhanced Damage!Ignore Target's Defense!Adds 100-180 Magic Damage!7% Mana Stolen Per Hit!20% Chance Of Crushing Blow!20% Deadly Strike!Prevent Monster Heal!+10 To Dexterity!",
-  "runewordReqLevel": "65 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "65 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Dragon",
   "allowedItems": "3 Socket Body Armor/Shields",
   "runes": "Sur + Lo + Sol",
   "modifiers": "!20% Chance to Cast Level 18 Venom When Struck!12% Chance To Cast Level 15 Hydra On Striking!Level 14 Holy Fire Aura When Equipped!+360 Defense!+230 Defense Vs. Missile!+3-5 To All Attributes <span class='varies'>(varies)</span>!+0.375-37.125 To Strength (Based on Character Level)!Increase Maximum Mana 5% (Armor Only)!+50 To Mana (Shields Only)!+5% To Maximum Lightning Resist!Damage Reduced by 7!",
-  "runewordReqLevel": "61 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "61 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Dream",
   "allowedItems": "3 Socket Helms/Shields",
   "runes": "Io + Jah + Pul",
   "modifiers": "!10% Chance To Cast Level 15 Confuse When Struck!Level 15 Holy Shock Aura When Equipped!+20-30% Faster Hit Recovery <span class='varies'>(varies)</span>!+30% Enhanced Defense!+150-220 Defense <span class='varies'>(varies)</span>!+10 To Vitality!Increase Maximum Life 5% (Helms Only)!+50 To Life (Shields Only)!+0.625-61.875 To Mana (Based On Character Level)!All Resistances +5-20 <span class='varies'>(varies)</span>!12-25% Better Chance of Getting Magic Items <span class='varies'>(varies)</span>!",
-  "runewordReqLevel": "65 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "65 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Edge",
   "allowedItems": "3 Socket Missile Weapons",
   "runes": "Tir + Tal + Amn",
   "modifiers": "!Level 15 Thorns Aura When Equipped!+35% Increased Attack Speed!+320-380% Damage To Demons <span class='varies'>(varies)</span>!+280% Damage To Undead!+75 Poison Damage Over 5 Seconds!7% Life Stolen Per Hit!Prevent Monster Heal!+5-10 To All Attributes <span class='varies'>(varies)</span>!+2 To Mana After Each Kill!Reduces All Vendor Prices 15%!!!*!",
-  "runewordReqLevel": "25 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "25 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Faith",
   "allowedItems": "4 Socket Missile Weapons",
   "runes": "Ohm + Jah + Lem + Eld",
   "modifiers": "!Level 12-15 Fanaticism Aura When Equipped <span class='varies'>(varies)</span>!+1-2 To All Skills <span class='varies'>(varies)</span>!+330% Enhanced Damage!Ignore Target's Defense!300% Bonus To Attack Rating!+75% Damage To Undead!+50 To Attack Rating Against Undead!+120 Fire Damage!All Resistances +15!10% Reanimate As: Returned!75% Extra Gold From Monsters!",
-  "runewordReqLevel": "65 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "65 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Fortitude",
   "allowedItems": "4 Socket Weapons/Body Armor",
   "runes": "El + Sol + Dol + Lo",
   "modifiers": "!Weapons!20% Chance To Cast Level 15 Chilling Armor when Struck!+25% Faster Cast Rate!+300% Enhanced Damage!+9 To Minimum Damage!+50 To Attack Rating!20% Deadly Strike!Hit Causes Monster To Flee 25%!+200% Enhanced Defense!+X To Life (Based on Character Level)*!All Resistances +25-30 <span class='varies'>(varies)</span>!12% Damage Taken Goes To Mana!+1 To Light Radius!!!Body Armor!20% Chance To Cast Level 15 Chilling Armor when Struck!+25% Faster Cast Rate!+300% Enhanced Damage!+200% Enhanced Defense!+15 Defense!+X To Life (Based on Character Level)*!Replenish Life +7!+5% To Maximum Lightning Resist!All Resistances +25-30 <span class='varies'>(varies)</span>!Damage Reduced By 7!12% Damage Taken Goes To Mana!+1 To Light Radius!",
-  "runewordReqLevel": "59 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "59 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Grief",
   "allowedItems": "5 Socket Swords/Axes",
   "runes": "Eth + Tir + Lo + Mal + Ral",
   "modifiers": "!35% Chance To Cast Level 15 Venom On Striking!+30-40% Increased Attack Speed <span class='varies'>(varies)</span>!Damage +340-400 <span class='varies'>(varies)</span>!Ignore Target's Defense!-25% Target Defense!+(1.875 per character level) 1.875-185.625% Damage To Demons (Based on Character Level) !Adds 5-30 Fire Damage!-20-25% To Enemy Poison Resistance <span class='varies'>(varies)</span>!20% Deadly Strike!Prevent Monster Heal!+2 To Mana After Each Kill!+10-15 Life After Each Kill <span class='varies'>(varies)</span>!",
-  "runewordReqLevel": "59 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "59 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Harmony",
   "allowedItems": "4 Socket Missile Weapons",
   "runes": "Tir + Ith + Sol + Ko",
   "modifiers": "!Level 10 Vigor Aura When Equipped!+200-275% Enhanced Damage <span class='varies'>(varies)</span>!+9 To Minimum Damage!+9 To Maximum Damage!Adds 55-160 Lightning Damage!Adds 55-160 Fire Damage!Adds 55-160 Cold Damage!+2-6 To Valkyrie <span class='varies'>(varies)</span>!+10 To Dexterity!Regenerate Mana 20%!+2 To Mana After Each Kill!+2 To Light Radius!Level 20 Revive (25 Charges)!",
-  "runewordReqLevel": "39 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "39 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Ice",
   "allowedItems": "4 Socket Missile Weapons",
   "runes": "Amn + Shael + Jah + Lo",
   "modifiers": "!100% Chance To Cast Level 40 Blizzard When You Level-up!25% Chance To Cast Level 22 Frost Nova On Striking!Level 18 Holy Freeze Aura When Equipped!+20% Increased Attack Speed!+140-210% Enhanced Damage <span class='varies'>(varies)</span>!Ignore Target's Defense!+25-30% To Cold Skill Damage <span class='varies'>(varies)</span>!-20% To Enemy Cold Resistance!7% Life Stolen Per Hit!20% Deadly Strike!3.125-309.375 Extra Gold From Monsters (Based on Character Level)!",
-  "runewordReqLevel": "65 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "65 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Infinity",
   "allowedItems": "4 Socket Polearms",
   "runes": "Ber + Mal + Ber + Ist",
   "modifiers": "!50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy!Level 12 Conviction Aura When Equipped!+35% Faster Run/Walk!+255-325% Enhanced Damage <span class='varies'>(varies)</span>!-(45-55)% To Enemy Lightning Resistance <span class='varies'>(varies)</span>!40% Chance of Crushing Blow!Prevent Monster Heal!0.5-49.5 To Vitality (Based on Character Level)!30% Better Chance of Getting Magic Items!Level 21 Cyclone Armor (30 Charges)!",
-  "runewordReqLevel": "63 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "63 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Insight",
   "allowedItems": "4 Socket Polearms/Staves",
   "runes": "Ral + Tir + Tal + Sol",
   "modifiers": "!Level 12-17 Meditation Aura When Equipped <span class='varies'>(varies)</span>!+35% Faster Cast Rate!+200-260% Enhanced Damage <span class='varies'>(varies)</span>!+9 To Minimum Damage!180-250% Bonus to Attack Rating <span class='varies'>(varies)</span>!Adds 5-30 Fire Damage!+75 Poison Damage Over 5 Seconds!+1-6 To Critical Strike <span class='varies'>(varies)</span>!+5 To All Attributes!+2 To Mana After Each Kill!23% Better Chance of Getting Magic Items!",
-  "runewordReqLevel": "27 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "27 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Last Wish",
   "allowedItems": "6 Socket Swords/Hammers/Axes",
   "runes": "Jah + Mal + Jah + Sur + Jah + Ber",
   "modifiers": "!6% Chance To Cast Level 11 Fade When Struck!10% Chance To Cast Level 18 Life Tap On Striking!20% Chance To Cast Level 20 Charged Bolt On Attack!Level 17 Might Aura When Equipped!+330-375% Enhanced Damage <span class='varies'>(varies)</span>!Ignore Target's Defense!60-70% Chance of Crushing Blow <span class='varies'>(varies)</span>!Prevent Monster Heal!Hit Blinds Target!+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level) !",
-  "runewordReqLevel": "65 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "65 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Lawbringer",
   "allowedItems": "3 Socket Swords/Hammers/Scepters ",
   "runes": "Amn + Lem + Ko",
   "modifiers": "!20% Chance To Cast Level 15 Decrepify On Striking!Level 16-18 Sanctuary Aura When Equipped <span class='varies'>(varies)</span>!-50% Target Defense!Adds 150-210 Fire Damage!Adds 130-180 Cold Damage!7% Life Stolen Per Hit!Slain Monsters Rest In Peace!+200-250 Defense Vs. Missile <span class='varies'>(varies)</span>!+10 To Dexterity!75% Extra Gold From Monsters!",
-  "runewordReqLevel": "43 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "43 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Oath",
   "allowedItems": "4 Socket Swords/Axes/Maces",
   "runes": "Shael + Pul + Mal + Lum",
   "modifiers": "!30% Chance To Cast Level 20 Bone Spirit On Striking!Indestructible!+50% Increased Attack Speed!+210-340% Enhanced Damage <span class='varies'>(varies)</span>!+75% Damage To Demons!+100 To Attack Rating Against Demons!Prevent Monster Heal!+10 To Energy!+10-15 Magic Absorb <span class='varies'>(varies)</span>!Level 16 Heart Of Wolverine (20 Charges)!Level 17 Iron Golem (14 Charges)!",
-  "runewordReqLevel": "59 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "59 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Obedience",
   "allowedItems": "5 Socket Polearms",
   "runes": "Hel + Ko + Thul + Eth + Fal",
   "modifiers": "!30% Chance To Cast Level 21 Enchant When You Kill An Enemy!40% Faster Hit Recovery!+370% Enhanced Damage!-25% Target Defense!Adds 3-14 Cold Damage 3 Second Duration (Normal)!-25% To Enemy Fire Resistance!40% Chance of Crushing Blow!+200-300 Defense <span class='varies'>(varies)</span>!+10 To Strength!+10 To Dexterity!All Resistances +20-30 <span class='varies'>(varies)</span>!Requirements -20%!",
-  "runewordReqLevel": "41 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "41 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Phoenix",
   "allowedItems": "4 Socket Weapons/Shields",
   "runes": "Vex + Vex + Lo + Jah",
   "modifiers": "!Weapons!100% Chance To Cast level 40 Blaze When You Level-up!40% Chance To Cast Level 22 Firestorm On Striking!Level 10-15 Redemption Aura When Equipped <span class='varies'>(varies)</span>!+350-400% Enhanced Damage <span class='varies'>(varies)</span>!Ignores Target's Defense!14% Mana Stolen Per Hit!-28% To Enemy Fire Resistance!20% Deadly Strike!+350-400 Defense Vs. Missile <span class='varies'>(varies)</span>!+15-21 Fire Absorb <span class='varies'>(varies)</span>!!!Shields!100% Chance To Cast level 40 Blaze When You Level-up!40% Chance To Cast Level 22 Firestorm On Striking!Level 10-15 Redemption Aura When Equipped <span class='varies'>(varies)</span>!+350-400 Defense Vs. Missile <span class='varies'>(varies)</span>!+350-400% Enhanced Damage <span class='varies'>(varies)</span>!-28% To Enemy Fire Resistance!+50 To Life!+5% To Maximum Lightning Resist!+10% To Maximum Fire Resist!+15-21 Fire Absorb <span class='varies'>(varies)</span>!",
-  "runewordReqLevel": "65 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "65 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Pride",
   "allowedItems": "4 Socket Polearms",
   "runes": "Cham + Sur + Io + Lo",
   "modifiers": "!25% Chance To Cast Level 17 Fire Wall When Struck!Level 16-20 Concentration Aura When Equipped <span class='varies'>(varies)</span>!260-300% Bonus To Attack Rating <span class='varies'>(varies)</span>!+1-99% Damage To Demons (Based on Character Level)!Adds 50-280 Lightning Damage!20% Deadly Strike!Hit Blinds Target!Freezes Target +3!+10 To Vitality!Replenish Life +8!1.875-185.625% Extra Gold From Monsters (Based on Character Level)!",
-  "runewordReqLevel": "67 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "67 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Rift",
   "allowedItems": "4 Socket Polearms/Scepters",
   "runes": "Hel + Ko + Lem + Gul",
   "modifiers": "!20% Chance To Cast Level 16 Tornado On Striking!16% Chance To Cast Level 21 Frozen Orb On Attack!20% Bonus To Attack Rating!Adds 160-250 Magic Damage!Adds 60-180 Fire Damage!+5-10 To All Stats <span class='varies'>(varies)</span>!+10 To Dexterity!38% Damage Taken Goes To Mana!75% Extra Gold From Monsters!Level 15 Iron Maiden (40 Charges)!Requirements -20%!",
-  "runewordReqLevel": "53 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "53 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Spirit",
   "allowedItems": "4 Socket Swords/Shields",
   "runes": "Tal + Thul + Ort + Amn",
   "modifiers": "!!Weapons!+2 To All Skills!+25-35% Faster Cast Rate <span class='varies'>(varies)</span>!+55% Faster Hit Recovery!Adds 1-50 Lightning Damage!Adds 3-14 Cold Damage 3 Second Duration (Normal)!+75 Poison Damage Over 5 Seconds!7% Life Stolen Per Hit!+250 Defense Vs. Missile!+22 To Vitality!+89-112 To Mana <span class='varies'>(varies)</span>!+3-8 Magic Absorb <span class='varies'>(varies)</span>!!Shields!+2 To All Skills!+25-35% Faster Cast Rate <span class='varies'>(varies)</span>!+55% Faster Hit Recovery!+250 Defense Vs. Missile!+22 To Vitality!+89-112 To Mana <span class='varies'>(varies)</span>!Cold Resist +35%!Lightning Resist +35%!Poison Resist +35%!+3-8 Magic Absorb <span class='varies'>(varies)</span>!Attacker Takes Damage of 14!",
-  "runewordReqLevel": "25 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "25 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Voice of Reason",
   "allowedItems": "4 Socket Swords/Maces",
   "runes": "Lem + Ko + El + Eld",
   "modifiers": "!15% Chance To Cast Level 13 Frozen Orb On Striking!18% Chance To Cast Level 20 Ice Blast On Striking!+50 To Attack Rating!+220-350% Damage To Demons!+355-375% Damage To Undead <span class='varies'>(varies)</span>!+50 To Attack Rating Against Undead!Adds 100-220 Cold Damage!-24% To Enemy Cold Resistance!+10 To Dexterity!Cannot Be Frozen!75% Extra Gold From Monsters!+1 To Light Radius!",
-  "runewordReqLevel": "43 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "43 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Wrath",
   "allowedItems": "4 Socket Missile Weapons",
   "runes": "Pul + Lum + Ber + Mal",
   "modifiers": "!30% Chance To Cast Level 1 Decrepify On Striking!5% Chance To Cast Level 10 Life Tap On Striking!+375% Damage To Demons!+100 To Attack Rating Against Demons!+250-300% Damage To Undead <span class='varies'>(varies)</span>!Adds 85-120 Magic Damage!Adds 41-240 Lightning Damage!20% Chance of Crushing Blow!Prevent Monster Heal!+10 To Energy!Cannot Be Frozen!",
-  "runewordReqLevel": "63 <span class ='ladder'>(Ladder Only)</span>"
+  "runewordReqLevel": "63 \n<span class ='ladder'>(Ladder Only)</span>"
 }, {
   "type": "runeword",
   "name": "Bone",

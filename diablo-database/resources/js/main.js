@@ -93,7 +93,7 @@ $(document).ready(function () {
 				document.getElementById("allowedItems").textContent = data.allowedItems;
 				document.getElementById("runes").textContent = data.runes.split(' + ').join('-')
 				document.getElementById("modifiers").innerHTML = data.modifiers.split('!').join('\n');
-				document.getElementById("runeWordReqLevel").textContent = 'req.lvl: ' + data.runewordReqLevel;
+				document.getElementById("runeWordReqLevel").innerHTML = 'req.lvl: ' + data.runewordReqLevel;
 				break;
 			case 'rune':
 				document.getElementById("rune").className = "rune";
