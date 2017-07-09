@@ -145,7 +145,7 @@
 }, {
 	"type": "set",
 	"setName": "Berserker's Arsenal",
-	"setItemName": "Berserker's",
+	"setItemName": "Berserker's Headgear",
 	"setBaseItem": "Helm",
 	"setSrcIcon": "resources/images/Berserker's_Headgear_(Diablo_II).gif",
 	"setRequirements": "Defense: 30 - 33\nMinimum Strength: 26\nDurability: 24\nLevel Requirement: 3",
