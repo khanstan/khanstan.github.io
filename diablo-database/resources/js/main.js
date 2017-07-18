@@ -1,34 +1,4 @@
 $(document).ready(function () {
-	var emptyChar = ' ';
-	var clipboard = new Clipboard('.btn', {
-        text: function(trigger) {
-	        var runewordName = document.querySelector('#runewordName').innerHTML;
-	        var allowedItems = document.querySelector('#allowedItems').innerHTML;
-	        var runes = document.querySelector('#runes').innerHTML;
-	        var modifiers = document.querySelector('#modifiers').innerHTML;
-	        //var runewordReqLevel = document.querySelector('#runewordReqLevel').innerHTML;
-        return runewordName + allowedItems + runes + modifiers;
-    	}
-	});
-
-	clipboard.on('success', function(e) {
-		console.info('Action:', e.action);
-		console.info('Text:', e.text);
-		console.info('Trigger:', e.trigger);
-
-		e.clearSelection();
-	});
-
-	clipboard.on('error', function(e) {
-		console.error('Action:', e.action);
-		console.error('Trigger:', e.trigger);
-	});
-
-
-
-
-
-
 	var query = window.location.hash.substring(1);
 	
 
