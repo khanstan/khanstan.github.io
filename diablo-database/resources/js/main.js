@@ -167,6 +167,14 @@ $(document).ready(function() {
 	copyShareBtn.addEventListener('click', function(event) {
 		var copyInput = document.getElementById('shareInput');
 		copyInput.select();
+
+		try {
+			var successful = document.execCommand('copy');
+			var msg = successful ? 'successful' : 'unsuccessful';
+			console.log('Copied text: ' + msg);
+		} catch (err) {
+			console.log('Unable to copy. Something went wrong :(');
+		}
 	});
 
 	//Update on page load.
@@ -190,7 +198,7 @@ $(document).ready(function() {
 		}
 
 	};
-	// Page load listener
+
 	window.addEventListener('load', router());
 
 	function ifUnique(check) {
