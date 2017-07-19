@@ -1,18 +1,21 @@
 [{
+	"id": 493,
 	"type": "rune",
 	"runeName": "El",
 	"runeSrcIcon": "resources/images/runeEl.gif",
 	"runeWeaponBonus": "+50 To Attack Rating, +1 Light Radius",
-	"runeArmorBonus": "+15 Defense, +1 To Light Radius", 
+	"runeArmorBonus": "+15 Defense, +1 To Light Radius",
 	"runeReqLevel": "11"
 }, {
+	"id": 494,
 	"type": "rune",
 	"runeName": "Eld",
 	"runeSrcIcon": "resources/images/runeEld.gif",
 	"runeWeaponBonus": "+75% Damage To Undead, +50 Attack Rating Against Undead",
-	"runeArmorBonus": "15% Slower Stamina Drain/7% Increased Chance of Blocking(Shields)", 
+	"runeArmorBonus": "15% Slower Stamina Drain/7% Increased Chance of Blocking(Shields)",
 	"runeReqLevel": "11"
 }, {
+	"id": 495,
 	"type": "rune",
 	"runeName": "Tir",
 	"runeSrcIcon": "resources/images/runeTir.gif",
@@ -20,6 +23,7 @@
 	"runeArmorBonus": "+2 To Mana After Each Kill",
 	"runeReqLevel": "13"
 }, {
+	"id": 496,
 	"type": "rune",
 	"runeName": "Nef",
 	"runeSrcIcon": "resources/images/runeNef.gif",
@@ -27,6 +31,7 @@
 	"runeArmorBonus": "+30 Defense Vs. Missile",
 	"runeReqLevel": "13"
 }, {
+	"id": 497,
 	"type": "rune",
 	"runeName": "Eth",
 	"runeSrcIcon": "resources/images/runeEth.gif",
@@ -34,6 +39,7 @@
 	"runeArmorBonus": "Regenerate Mana 15%",
 	"runeReqLevel": "15"
 }, {
+	"id": 498,
 	"type": "rune",
 	"runeName": "Ith",
 	"runeSrcIcon": "resources/images/runeIth.gif",
@@ -41,6 +47,7 @@
 	"runeArmorBonus": "15% Damage Taken Goes to Mana",
 	"runeReqLevel": "15"
 }, {
+	"id": 499,
 	"type": "rune",
 	"runeName": "Tal",
 	"runeSrcIcon": "resources/images/runeTal.gif",
@@ -48,6 +55,7 @@
 	"runeArmorBonus": "Poison Resist 30%/Poison Resist 35%(Shields)",
 	"runeReqLevel": "17"
 }, {
+	"id": 500,
 	"type": "rune",
 	"runeName": "Ral",
 	"runeSrcIcon": "resources/images/runeRal.gif",
@@ -55,6 +63,7 @@
 	"runeArmorBonus": "Fire Resist 30%/Fire Resist 35%(Shields)",
 	"runeReqLevel": "19"
 }, {
+	"id": 501,
 	"type": "rune",
 	"runeName": "Ort",
 	"runeSrcIcon": "resources/images/runeOrt.gif",
@@ -62,6 +71,7 @@
 	"runeArmorBonus": "Lightning Resist 30%/Lightning Resist 35%(Shields)",
 	"runeReqLevel": "21"
 }, {
+	"id": 502,
 	"type": "rune",
 	"runeName": "Thul",
 	"runeSrcIcon": "resources/images/runeThul.gif",
@@ -69,6 +79,7 @@
 	"runeArmorBonus": "Cold Resist 30%/Cold Resist 35%(Shields)",
 	"runeReqLevel": "23"
 }, {
+	"id": 503,
 	"type": "rune",
 	"runeName": "Amn",
 	"runeSrcIcon": "resources/images/runeAmn.gif",
@@ -76,6 +87,7 @@
 	"runeArmorBonus": "Attacker Takes Damage of 14",
 	"runeReqLevel": "25"
 }, {
+	"id": 504,
 	"type": "rune",
 	"runeName": "Sol",
 	"runeSrcIcon": "resources/images/runeSol.gif",
@@ -83,6 +95,7 @@
 	"runeArmorBonus": "Damage Reduced By 7",
 	"runeReqLevel": "27"
 }, {
+	"id": 505,
 	"type": "rune",
 	"runeName": "Shael",
 	"runeSrcIcon": "resources/images/runeShae.gif",
@@ -90,6 +103,7 @@
 	"runeArmorBonus": "20% Faster Hit Recovery/20% Faster Block Rate(Shields)",
 	"runeReqLevel": "29"
 }, {
+	"id": 506,
 	"type": "rune",
 	"runeName": "Dol",
 	"runeSrcIcon": "resources/images/runeDol.gif",
@@ -97,6 +111,7 @@
 	"runeArmorBonus": "Replenish Life +7",
 	"runeReqLevel": "31"
 }, {
+	"id": 507,
 	"type": "rune",
 	"runeName": "Hel",
 	"runeSrcIcon": "resources/images/runeHel.gif",
@@ -104,6 +119,7 @@
 	"runeArmorBonus": "Requirements -15%",
 	"runeReqLevel": "-"
 }, {
+	"id": 508,
 	"type": "rune",
 	"runeName": "Io",
 	"runeSrcIcon": "resources/images/runeIo.gif",
@@ -111,6 +127,7 @@
 	"runeArmorBonus": "+10 To Vitality",
 	"runeReqLevel": "35"
 }, {
+	"id": 509,
 	"type": "rune",
 	"runeName": "Lum",
 	"runeSrcIcon": "resources/images/runeLum.gif",
@@ -118,6 +135,7 @@
 	"runeArmorBonus": "+10 To Energy",
 	"runeReqLevel": "37"
 }, {
+	"id": 510,
 	"type": "rune",
 	"runeName": "Ko",
 	"runeSrcIcon": "resources/images/runeKo.gif",
@@ -125,6 +143,7 @@
 	"runeArmorBonus": "+10 To Dexterity",
 	"runeReqLevel": "39"
 }, {
+	"id": 511,
 	"type": "rune",
 	"runeName": "Fal",
 	"runeSrcIcon": "resources/images/runeFal.gif",
@@ -132,6 +151,7 @@
 	"runeArmorBonus": "+10 To Strength",
 	"runeReqLevel": "41"
 }, {
+	"id": 512,
 	"type": "rune",
 	"runeName": "Lem",
 	"runeSrcIcon": "resources/images/runeLem.gif",
@@ -139,6 +159,7 @@
 	"runeArmorBonus": "50% Extra Gold From Monsters",
 	"runeReqLevel": "43"
 }, {
+	"id": 513,
 	"type": "rune",
 	"runeName": "Pul",
 	"runeSrcIcon": "resources/images/runePul.gif",
@@ -146,6 +167,7 @@
 	"runeArmorBonus": "+30% Enhanced Defense",
 	"runeReqLevel": "45"
 }, {
+	"id": 514,
 	"type": "rune",
 	"runeName": "Um",
 	"runeSrcIcon": "resources/images/runeUm.gif",
@@ -153,6 +175,7 @@
 	"runeArmorBonus": "All Resistances +15(Armor/Helms) +22(Shields)",
 	"runeReqLevel": "47"
 }, {
+	"id": 515,
 	"type": "rune",
 	"runeName": "Mal",
 	"runeSrcIcon": "resources/images/runeMal.gif",
@@ -160,6 +183,7 @@
 	"runeArmorBonus": "Magic Damage Reduced By 7",
 	"runeReqLevel": "49"
 }, {
+	"id": 516,
 	"type": "rune",
 	"runeName": "Ist",
 	"runeSrcIcon": "resources/images/runeIst.gif",
@@ -167,6 +191,7 @@
 	"runeArmorBonus": "25% Better Chance of Getting Magic Items",
 	"runeReqLevel": "51"
 }, {
+	"id": 517,
 	"type": "rune",
 	"runeName": "Gul",
 	"runeSrcIcon": "resources/images/runeGul.gif",
@@ -174,6 +199,7 @@
 	"runeArmorBonus": "5% To Maximum Poison Resist",
 	"runeReqLevel": "53"
 }, {
+	"id": 518,
 	"type": "rune",
 	"runeName": "Vex",
 	"runeSrcIcon": "resources/images/runeVex.gif",
@@ -181,6 +207,7 @@
 	"runeArmorBonus": "5% To Maximum Fire Resist",
 	"runeReqLevel": "55"
 }, {
+	"id": 519,
 	"type": "rune",
 	"runeName": "Ohm",
 	"runeSrcIcon": "resources/images/runeOhm.gif",
@@ -188,6 +215,7 @@
 	"runeArmorBonus": "5% To Maximum Cold Resist",
 	"runeReqLevel": "57"
 }, {
+	"id": 520,
 	"type": "rune",
 	"runeName": "Lo",
 	"runeSrcIcon": "resources/images/runeLo.gif",
@@ -195,6 +223,7 @@
 	"runeArmorBonus": "5% To Maximum Lightning Resist",
 	"runeReqLevel": "59"
 }, {
+	"id": 521,
 	"type": "rune",
 	"runeName": "Sur",
 	"runeSrcIcon": "resources/images/runeSur.gif",
@@ -202,6 +231,7 @@
 	"runeArmorBonus": "Maximum Mana 5%/+50 To Mana (Shields)",
 	"runeReqLevel": "61"
 }, {
+	"id": 522,
 	"type": "rune",
 	"runeName": "Ber",
 	"runeSrcIcon": "resources/images/runeBer.gif",
@@ -209,6 +239,7 @@
 	"runeArmorBonus": "Damage Reduced by 8%",
 	"runeReqLevel": "63"
 }, {
+	"id": 523,
 	"type": "rune",
 	"runeName": "Jah",
 	"runeSrcIcon": "resources/images/runeJo.gif",
@@ -216,6 +247,7 @@
 	"runeArmorBonus": "Increase Maximum Life 5%/+50 Life (Shields)",
 	"runeReqLevel": "65"
 }, {
+	"id": 524,
 	"type": "rune",
 	"runeName": "Cham",
 	"runeSrcIcon": "resources/images/runeCham.gif",
@@ -223,6 +255,7 @@
 	"runeArmorBonus": "Cannot Be Frozen",
 	"runeReqLevel": "67"
 }, {
+	"id": 525,
 	"type": "rune",
 	"runeName": "Zod",
 	"runeSrcIcon": "resources/images/runeZod.gif",

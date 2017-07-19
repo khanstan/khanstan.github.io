@@ -1,4 +1,5 @@
 [{
+	"id": 604,
 	"type": "set",
 	"setName": "Angelic Raiment",
 	"setItemName": "Angelic Sickle",
@@ -8,6 +9,7 @@
 	"setModifiers": "\n+250% Damage to Undead\n+75 to Attack Rating",
 	"setBonuses": "\n+75% Enhanced Damage (2 Items)\n30% Increased Attack Speed (3 Items)"
 }, {
+	"id": 605,
 	"type": "set",
 	"setName": "Angelic Raiment",
 	"setItemName": "Angelic Mantle",
@@ -17,6 +19,7 @@
 	"setModifiers": "\n+40% Enhanced Defense\nDamage Reduced by 3",
 	"setBonuses": "\n+150 Defense (2 Items)\nFire Resist +50% (3 Items)"
 }, {
+	"id": 606,
 	"type": "set",
 	"setName": "Angelic Raiment",
 	"setItemName": "Angelic Halo",
@@ -26,6 +29,7 @@
 	"setModifiers": "\nReplenish Life +6\n+20 To Life",
 	"setBonuses": "\n+144-1188 to Attack Rating (+12 per Character Level) (2 Items)\n+50% Better Chance Of Getting Magic Items (3 Items)"
 }, {
+	"id": 607,
 	"type": "set",
 	"setName": "Angelic Raiment",
 	"setItemName": "Angelic Wings",
@@ -41,6 +45,7 @@
 
 	"fullBonuses": "Half Freeze Duration\nAll Resistances +25\n40% Better Chance of Getting Magic Item\nRegenerate Mana +8%\n+10 Dexterity\n+50 Mana"
 }, {
+	"id": 608,
 	"type": "set",
 	"setName": "Arcanna's Tricks",
 	"setItemName": "Arcanna's Deathwand",
@@ -50,6 +55,7 @@
 	"setModifiers": "\n+50% Damage to Undead\n+1 to Sorceress Skill Levels\n75% Deadly Strike",
 	"setBonuses": "\n+50 to Mana (2 Items)\nRegenerate Mana 5% (3 Items)"
 }, {
+	"id": 609,
 	"type": "set",
 	"setName": "Arcanna's Tricks",
 	"setItemName": "Arcanna's Flesh",
@@ -59,6 +65,7 @@
 	"setModifiers": "\n+2 to Light Radius\nDamage Reduced by 3",
 	"setBonuses": "\n+100 Defense (2 Items)\n+10 to Energy (3 Items)"
 }, {
+	"id": 610,
 	"type": "set",
 	"setName": "Arcanna's Tricks",
 	"setItemName": "Arcanna's Head",
@@ -68,6 +75,7 @@
 	"setModifiers": "\nReplenish Life +4\nAttacker Takes Damage of 2",
 	"setBonuses": "\n+3-297 Defense (+3 per Character Level) (2 Items)\nLightning Resist +15% (3 Items)"
 }, {
+	"id": 611,
 	"type": "set",
 	"setName": "Arcanna's Tricks",
 	"setItemName": "Arcanna's Sign",
@@ -83,6 +91,7 @@
 
 	"fullBonuses": "+50 to Mana\n+50 to Life\n20% Faster Cast Rate\n5% Mana Stolen per Hit"
 }, {
+	"id": 612,
 	"type": "set",
 	"setName": "Arctic Gear",
 	"setItemName": "Arctic Horn",
@@ -92,6 +101,7 @@
 	"setModifiers": "\n+50% Enhanced Damage\n20% Bonus to Attack Rating",
 	"setBonuses": "\n+8-792 to Attack Rating (+8 per Character Level) (2 Items)\n+20-30 Cold Damage - 3 Second Duration (3 Items)"
 }, {
+	"id": 613,
 	"type": "set",
 	"setName": "Arctic Gear",
 	"setItemName": "Arctic Furs",
@@ -101,6 +111,7 @@
 	"setModifiers": "\n+275-325% Enhanced Defense <span class='varies'>(varies)</span>\nAll Resistances +10",
 	"setBonuses": "\n+3-297 Defense (+3 per Character Level) (2 Items)\nCold Resist +15% (3 Items)"
 }, {
+	"id": 614,
 	"type": "set",
 	"setName": "Arctic Gear",
 	"setItemName": "Arctic Mitts",
@@ -110,6 +121,7 @@
 	"setModifiers": "\n+20 to Life\n10% Increased Attack Speed",
 	"setBonuses": "\n+50 to Attack rating (2 Items)\n+10 to Dexterity (3 Items)"
 }, {
+	"id": 615,
 	"type": "set",
 	"setName": "Arctic Gear",
 	"setItemName": "Arctic Binding",
@@ -125,6 +137,7 @@
 
 	"fullBonuses": "+5 to Strength\n+50 to Life\nCannot be Frozen\nAdds 6-14 Cold Damage - 4 Second Duration"
 }, {
+	"id": 616,
 	"type": "set",
 	"setName": "Berserker's Arsenal",
 	"setItemName": "Berserker's Hatchet",
@@ -134,6 +147,7 @@
 	"setModifiers": "\n30% Bonus to Attack Rating\n5% Mana Stolen per Hit",
 	"setBonuses": "\n+50% Enhanced Damage (2 Items)"
 }, {
+	"id": 617,
 	"type": "set",
 	"setName": "Berserker's Arsenal",
 	"setItemName": "Berserker's Hauberk",
@@ -143,6 +157,7 @@
 	"setModifiers": "\n+1 to Barbarian Skill Levels\nMagic Damage Reduced by 2",
 	"setBonuses": "\n+3-297 Defense (+3 per Character Level) (2 Items)"
 }, {
+	"id": 618,
 	"type": "set",
 	"setName": "Berserker's Arsenal",
 	"setItemName": "Berserker's Headgear",
@@ -158,6 +173,7 @@
 
 	"fullBonuses": "+50 to Life\n+75 Defense\nPoison Length Reduced by 75%\nAdds 5-9 Poison Damage Over 3 Seconds"
 }, {
+	"id": 619,
 	"type": "set",
 	"setName": "Cathan's Traps",
 	"setItemName": "Cathan's Rule",
@@ -167,6 +183,7 @@
 	"setModifiers": "\n+1 to Fire Skills\n+10 to Maximum Fire Damage\n+50% Damage to Undead",
 	"setBonuses": "\n+50 to Mana (2 Items)\nAll Resistances +10 (3 Items)"
 }, {
+	"id": 620,
 	"type": "set",
 	"setName": "Cathan's Traps",
 	"setItemName": "Cathan's Mesh",
@@ -176,6 +193,7 @@
 	"setModifiers": "\n+15 Defense\nRequirements -50%",
 	"setBonuses": "\nAttacker Takes Damage of 5 (2 Items)\nResist Fire +30% (3 Items)"
 }, {
+	"id": 621,
 	"type": "set",
 	"setName": "Cathan's Traps",
 	"setItemName": "Cathan's Visage",
@@ -185,6 +203,7 @@
 	"setModifiers": "\nCold Resist +25%\n+20 to Mana",
 	"setBonuses": "\n+2-198 Defense (+2 per Character Level)"
 }, {
+	"id": 622,
 	"type": "set",
 	"setName": "Cathan's Traps",
 	"setItemName": "Cathan's Sigil",
@@ -194,6 +213,7 @@
 	"setModifiers": "\n10% Faster Hit Recovery\nAttacker Takes Lightning Damage of 5",
 	"setBonuses": "\n+50 To Attack Rating (2 Items)\n+25% Better Chance of Finding Magic Items (3 Items)"
 }, {
+	"id": 623,
 	"type": "set",
 	"setName": "Cathan's Traps",
 	"setItemName": "Cathan's Seal",
@@ -209,6 +229,7 @@
 
 	"fullBonuses": "Resist Lightning +25%\n+15-20 Fire Damage\nResist Lightning +25%\n10% Faster Cast Rate\nMagic Damage Reduced by 3\nAll Resistances +25\n+60 to Attack Rating\n+20 to Mana"
 }, {
+	"id": 624,
 	"type": "set",
 	"setName": "Civerb's Vestments",
 	"setItemName": "Civerb's Cudgel",
@@ -218,6 +239,7 @@
 	"setModifiers": "\n+1-99 to Maximum Damage (+1 per Character Level)\n+17-23 to Maximum Damage <span class='varies'>(varies)</span>\n+50% Damage to Undead\n+75 to Attack Rating",
 	"setBonuses": ""
 }, {
+	"id": 625,
 	"type": "set",
 	"setName": "Civerb's Vestments",
 	"setItemName": "Civerb's Ward",
@@ -227,6 +249,7 @@
 	"setModifiers": "\n+15 Defense\n+15% Increased Chance of Blocking",
 	"setBonuses": "\n+21-22 to Mana <span class='varies'>(varies)</span> (Civerb's Icon)\nPoison Resist +25-26% <span class='varies'>(varies)</span> (Civerb's Cudgel)"
 }, {
+	"id": 626,
 	"type": "set",
 	"setName": "Civerb's Vestments",
 	"setItemName": "Civerb's Icon",
@@ -242,6 +265,7 @@
 
 	"fullBonuses": "+200% Damage to Undead\n+15 to Strength\nFire Resist +15%\nLightning Resist +25%"
 }, {
+	"id": 627,
 	"type": "set",
 	"setName": "Cleglaw's Brace",
 	"setItemName": "Cleglaw's Tooth",
@@ -251,6 +275,7 @@
 	"setModifiers": "\n50% Deadly Strike\n30% Bonus to Attack Rating",
 	"setBonuses": "\n+1-123 to Maximum Damage (+1.25 per Character Level) (2 Items)"
 }, {
+	"id": 628,
 	"type": "set",
 	"setName": "Cleglaw's Brace",
 	"setItemName": "Cleglaw's Claw",
@@ -260,6 +285,7 @@
 	"setModifiers": "\nPoison Length Reduced by 75%\n+17 Defense",
 	"setBonuses": "\nAll Resistances +15 (2 Items)"
 }, {
+	"id": 629,
 	"type": "set",
 	"setName": "Cleglaw's Brace",
 	"setItemName": "Cleglaw's Pincers",
@@ -275,6 +301,7 @@
 
 	"fullBonuses": "+100 Defense\n35% Chance of Crushing Blow\n6% Mana Stolen per Hit\n20% Increased Attack Speed"
 }, {
+	"id": 630,
 	"type": "set",
 	"setName": "Death's Disguise",
 	"setItemName": "Death's Touch",
@@ -284,6 +311,7 @@
 	"setModifiers": "\n+25% Enhanced Damage\n4% Life Stolen per Hit",
 	"setBonuses": "\nAdds 25-75 Cold Damage - 3 Second Duration (2 Items)"
 }, {
+	"id": 631,
 	"type": "set",
 	"setName": "Death's Disguise",
 	"setItemName": "Death's Hand",
@@ -293,6 +321,7 @@
 	"setModifiers": "\nPoison Length Reduced By 75%\nPoison Resist +50%",
 	"setBonuses": "\n30% Increased Attack Speed (2 Items)"
 }, {
+	"id": 632,
 	"type": "set",
 	"setName": "Death's Disguise",
 	"setItemName": "Death's Guard",
@@ -308,6 +337,7 @@
 
 	"fullBonuses": "8% Life Stolen per Hit\n40% Bonus to Attack Rating\nAll Resistances +25\n+10 to Minimum Damage"
 }, {
+	"id": 633,
 	"type": "set",
 	"setName": "Hsarus' Defense",
 	"setItemName": "Hsarus' Iron Fist",
@@ -317,6 +347,7 @@
 	"setModifiers": "\nDamage Reduced by 2\n+10 to Strength",
 	"setBonuses": "\n+2-247 Defense (+2.5 per Character Level) (2 Items)"
 }, {
+	"id": 634,
 	"type": "set",
 	"setName": "Hsarus' Defense",
 	"setItemName": "Hsarus' Iron Stay",
@@ -326,6 +357,7 @@
 	"setModifiers": "\nCold Resist +20%\n+20 to Life",
 	"setBonuses": "\n+2-247 Defense (+2.5 per Character Level) (2 Items)"
 }, {
+	"id": 635,
 	"type": "set",
 	"setName": "Hsarus' Defense",
 	"setItemName": "Hsarus' Iron Heel",
@@ -341,6 +373,7 @@
 
 	"fullBonuses": "Attacker Takes Damage of 5\nCannot be Frozen\nLightning Resist +25%\n+5 to Maximum Damage"
 }, {
+	"id": 636,
 	"type": "set",
 	"setName": "Infernal Tools",
 	"setItemName": "Infernal Torch",
@@ -350,6 +383,7 @@
 	"setModifiers": "\n+1 to Necromancer Skill Levels\n+8 to Minimum Damage\n+150% Damage to Undead",
 	"setBonuses": "\n+10-990 to Attack Rating (+10 per Character Level) (2 Items)"
 }, {
+	"id": 637,
 	"type": "set",
 	"setName": "Infernal Tools",
 	"setItemName": "Infernal Cranium",
@@ -359,6 +393,7 @@
 	"setModifiers": "\n20% Damage Taken Goes to Mana\nAll Resistances +10",
 	"setBonuses": "\n+2-198 Defense (+2 per Character Level) (2 Items)"
 }, {
+	"id": 638,
 	"type": "set",
 	"setName": "Infernal Tools",
 	"setItemName": "Infernal Sign",
@@ -374,6 +409,7 @@
 
 	"fullBonuses": "+8 Poison Damage Over 3 Seconds\n20% Chance of Open Wounds\n+1 to Necromancer Skill Levels\n20% Bonus to Attack Rating\n6% Mana Stolen per Hit"
 }, {
+	"id": 639,
 	"type": "set",
 	"setName": "Iratha's Finery",
 	"setItemName": "Iratha's Coil",
@@ -383,6 +419,7 @@
 	"setModifiers": "\nLightning Resist +30%\nFire Resist +30%",
 	"setBonuses": "\n+2-198 Defense (+2 per Character Level) (2 Items)"
 }, {
+	"id": 640,
 	"type": "set",
 	"setName": "Iratha's Finery",
 	"setItemName": "Iratha's Cuff",
@@ -392,6 +429,7 @@
 	"setModifiers": "\nHalf Freeze Duration\nCold Resist +30%",
 	"setBonuses": "\n20% Increased Attack Speed (2 Items)"
 }, {
+	"id": 641,
 	"type": "set",
 	"setName": "Iratha's Finery",
 	"setItemName": "Iratha's Cord",
@@ -401,6 +439,7 @@
 	"setModifiers": "\n+25 Defense\n+5 to Minimum Damage",
 	"setBonuses": "\n+10 to Dexterity (2 Items)"
 }, {
+	"id": 642,
 	"type": "set",
 	"setName": "Iratha's Finery",
 	"setItemName": "Iratha's Collar",
@@ -416,6 +455,7 @@
 
 	"fullBonuses": "+50 to Defense\n20% Faster Run/Walk\n+15 to Dexterity\n+10% to Maximum Poison Resist\n+10% to Maximum Cold Resist\n+10% to Maximum Lightning Resist\n+10% to Maximum Fire Resist\nAll Resistances +20"
 }, {
+	"id": 643,
 	"type": "set",
 	"setName": "Isenhart's Armory",
 	"setItemName": "Isenhart's Lightbrand",
@@ -425,6 +465,7 @@
 	"setModifiers": "\n+10 to Minimum Damage\n20% Increased Attack Speed",
 	"setBonuses": "\n+5-495 to Attack Rating (+5 per Character Level) (2 Items)"
 }, {
+	"id": 644,
 	"type": "set",
 	"setName": "Isenhart's Armory",
 	"setItemName": "Isenhart's Case",
@@ -434,6 +475,7 @@
 	"setModifiers": "\nMagic Damage Reduced by 2\n+40 Defense",
 	"setBonuses": "\n+2-198 Defense (+2 per Character Level) (2 Items)"
 }, {
+	"id": 645,
 	"type": "set",
 	"setName": "Isenhart's Armory",
 	"setItemName": "Isenhart's Parry",
@@ -443,6 +485,7 @@
 	"setModifiers": "\nAttacker Takes Damage of 4\n+40 Defense",
 	"setBonuses": "\nAll Resistances +8 (2 Items)"
 }, {
+	"id": 646,
 	"type": "set",
 	"setName": "Isenhart's Armory",
 	"setItemName": "Isenhart's Horns",
@@ -458,6 +501,7 @@
 
 	"fullBonuses": "+10 to Strength\n+10 to Dexterity\n20% Faster Run/Walk\n30% Increased Chance of Blocking\n35% Bonus to Attack Rating\n5% Life Stolen per Hit\nAll Resistances +10"
 }, {
+	"id": 647,
 	"type": "set",
 	"setName": "Milabrega's Regalia",
 	"setItemName": "Milabrega's Rod",
@@ -467,6 +511,7 @@
 	"setModifiers": "\n+50% Enhanced Damage\n+50% Damage to Undead\n+1 to Paladin Skills\n+2 to Light Radius",
 	"setBonuses": ""
 }, {
+	"id": 648,
 	"type": "set",
 	"setName": "Milabrega's Regalia",
 	"setItemName": "Milabrega's Robe",
@@ -476,6 +521,7 @@
 	"setModifiers": "\nDamage Reduced by 2\nAttacker Takes Damage of 3",
 	"setBonuses": "\n+100% Enhanced Defense (2 Items)"
 }, {
+	"id": 649,
 	"type": "set",
 	"setName": "Milabrega's Regalia",
 	"setItemName": "Milabrega's Orb",
@@ -485,6 +531,7 @@
 	"setModifiers": "\n+25 Defense\n20% Better Chance of Getting Magic Items",
 	"setBonuses": "\n+50 to Life (2 Items)\n+50% Enhanced Defense (3 Items)"
 }, {
+	"id": 650,
 	"type": "set",
 	"setName": "Milabrega's Regalia",
 	"setItemName": "Milabrega's Diadem",
@@ -500,6 +547,7 @@
 
 	"fullBonuses": "+200 to Attack Rating\n+2 to Paladin Skill Levels\n8% Life Stolen per Hit\n10% Mana Stolen per Hit\nPoison Resist +15%"
 }, {
+	"id": 651,
 	"type": "set",
 	"setName": "Sigon's Complete Steel",
 	"setItemName": "Sigon's Shelter",
@@ -509,6 +557,7 @@
 	"setModifiers": "\n+25% Enhanced Defense\nLightning Resist +30%",
 	"setBonuses": "\nAttacker Takes Damage of 20 (2 Items)"
 }, {
+	"id": 652,
 	"type": "set",
 	"setName": "Sigon's Complete Steel",
 	"setItemName": "Sigon's Guard",
@@ -518,6 +567,7 @@
 	"setModifiers": "\n+1 to All Skills\n20% Increased Chance to Block",
 	"setBonuses": ""
 }, {
+	"id": 653,
 	"type": "set",
 	"setName": "Sigon's Complete Steel",
 	"setItemName": "Sigon's Visor",
@@ -527,6 +577,7 @@
 	"setModifiers": "\n+25 Defense\n+30 to Mana",
 	"setBonuses": "\n+8-792 to Attack Rating (+8 per Character Level) (2 Items)"
 }, {
+	"id": 654,
 	"type": "set",
 	"setName": "Sigon's Complete Steel",
 	"setItemName": "Sigon's Gage",
@@ -536,6 +587,7 @@
 	"setModifiers": "\n+20 to Attack Rating\n+10 to Strength",
 	"setBonuses": "\n30% Increased Attack Speed (2 Items)"
 }, {
+	"id": 655,
 	"type": "set",
 	"setName": "Sigon's Complete Steel",
 	"setItemName": "Sigon's Wrap",
@@ -545,6 +597,7 @@
 	"setModifiers": "\nFire Resist +20%\n+20 to Life",
 	"setBonuses": "\n+2-198 Defense (+2 per Character Level) (2 Items)"
 }, {
+	"id": 656,
 	"type": "set",
 	"setName": "Sigon's Complete Steel",
 	"setItemName": "Sigon's Sabot",
@@ -560,6 +613,7 @@
 
 	"fullBonuses": "10% Life Stolen per Hit\n+100 Defense\n+20 to Mana\nFire Resist +12%\n+24 to Maximum Fire Damage\nAttacker Takes Damage of 12\nDamage Reduced by 7"
 }, {
+	"id": 657,
 	"type": "set",
 	"setName": "Tancred's Battlegear",
 	"setItemName": "Tancred's Crowbill",
@@ -569,6 +623,7 @@
 	"setModifiers": "\n+80% Enhanced Damage\n+75 to Attack Rating",
 	"setBonuses": "\n+20 to Mana (2 Items)\n20% Increased Attack Speed (3 Items)"
 }, {
+	"id": 658,
 	"type": "set",
 	"setName": "Tancred's Battlegear",
 	"setItemName": "Tancred's Spine",
@@ -578,6 +633,7 @@
 	"setModifiers": "\n+40 to Life\n+15 to Strength",
 	"setBonuses": "\n+2-198 Defense (+2 per Character Level) (2 Items)"
 }, {
+	"id": 659,
 	"type": "set",
 	"setName": "Tancred's Battlegear",
 	"setItemName": "Tancred's Skull",
@@ -587,6 +643,7 @@
 	"setModifiers": "\n+10% Enhanced Damage\n+40 to Attack Rating",
 	"setBonuses": "\nAll Resistances +10 (2 Items)"
 }, {
+	"id": 660,
 	"type": "set",
 	"setName": "Tancred's Battlegear",
 	"setItemName": "Tancred's Hobnails",
@@ -596,6 +653,7 @@
 	"setModifiers": "\nHeal Stamina Plus 25%\n+10 to Dexterity",
 	"setBonuses": "\n30% Faster Run/Walk (2 Items)\n+10 to Strength (3 Items)"
 }, {
+	"id": 661,
 	"type": "set",
 	"setName": "Tancred's Battlegear",
 	"setItemName": "Tancred's Weird",
@@ -611,6 +669,7 @@
 
 	"fullBonuses": "+15 Lightning Damage\n+5% Life Stolen per Hit\nSlows Target by 35%\n5% Mana Stolen per Hit\nAll Resistances +10\n75% Extra Gold From Monsters"
 }, {
+	"id": 662,
 	"type": "set",
 	"setName": "Vidala's Rig",
 	"setItemName": "Vidala's Barb",
@@ -620,6 +679,7 @@
 	"setModifiers": "\nAdds 1-20 Lightning Damage",
 	"setBonuses": "\n+8-792 to Attack Rating (+8 per Character Level) (2 Items)"
 }, {
+	"id": 663,
 	"type": "set",
 	"setName": "Vidala's Rig",
 	"setItemName": "Vidala's Ambush",
@@ -629,6 +689,7 @@
 	"setModifiers": "\n+50 Defense\n+11 to Dexterity",
 	"setBonuses": "\n+24% Fire Resist (2 Items)\n+2-247 Defense (+2.5 per Character Level) (3 Items)"
 }, {
+	"id": 664,
 	"type": "set",
 	"setName": "Vidala's Rig",
 	"setItemName": "Vidala's Fetlock",
@@ -638,6 +699,7 @@
 	"setModifiers": "\n30% Faster Run/Walk\n+150 to Maximum Stamina",
 	"setBonuses": "\nAll Resistances +8 (2 Items)"
 }, {
+	"id": 665,
 	"type": "set",
 	"setName": "Vidala's Rig",
 	"setItemName": "Vidala's Snare",
@@ -653,6 +715,7 @@
 
 	"fullBonuses": "+75 to Attack Rating\nAdds 15-20 Cold Damage - 2 Second Duration\nPiercing Attack (50%)\nFreezes Target\n+15 to Dexterity\n+10 to Strength"
 }, {
+	"id": 666,
 	"type": "set",
 	"setName": "Aldur's Watchtower",
 	"setItemName": "Aldur's Rhythm",
@@ -662,6 +725,7 @@
 	"setModifiers": "\n+200% Damage To Demons\n+50% Damage To Undead\nAdds 40-62 Damage\nAdds 50-75 Lightning Damage\n30% Increased Attack Speed\n10% Life Stolen per Hit\n5% Mana Stolen per Hit\nSocketed (2-3) <span class='varies'>(varies)</span>",
 	"setBonuses": "\n+15 to Strength (2 Items)\n+15 to Strength (3 Items)\n+15 to Strength (Full Set)"
 }, {
+	"id": 667,
 	"type": "set",
 	"setName": "Aldur's Watchtower",
 	"setItemName": "Aldur's Deception",
@@ -671,6 +735,7 @@
 	"setModifiers": "\n+300 Defense\nRequirements -50%\nLightning Resist +40-50% <span class='varies'>(varies)</span>\n+15 to Dexterity\n+20 to Strength\n+1 to Elemental Skills (Druid Only)\n+1 to Shape Shifting Skills (Druid Only)",
 	"setBonuses": "\n+15 to Vitality (2 Items)\n+15 to Vitality (3 Items)\n+15 to Vitality (Full Set)"
 }, {
+	"id": 668,
 	"type": "set",
 	"setName": "Aldur's Watchtower",
 	"setItemName": "Aldur's Stony Gaze",
@@ -680,6 +745,7 @@
 	"setModifiers": "\n+90 Defense\n25% Faster Hit Recovery\nRegenerate Mana 17%\nCold Resist +40-50% <span class='varies'>(varies)</span>\n+5 to Light Radius\nSocketed (2)",
 	"setBonuses": "\n+15 to Energy (2 Items)\n+15 to Energy (3 Items)\n+15 to Energy (Full Set)"
 }, {
+	"id": 669,
 	"type": "set",
 	"setName": "Aldur's Watchtower",
 	"setItemName": "Aldur's Advance",
@@ -695,6 +761,7 @@
 
 	"fullBonuses": "+3 to Druid Skills\n+350% Enhanced Damage\n150% Bonus to Attack Rating\n50% Better Chance of Getting Magic Items\n10% Mana Stolen per Hit\nAll Resistances +50\n+150 Defense\n+150 to Mana"
 }, {
+	"id": 670,
 	"type": "set",
 	"setName": "Bul-Kathos' Children",
 	"setItemName": "Bul-Kathos' Sacred Charge",
@@ -704,6 +771,7 @@
 	"setModifiers": "\n+120% Enhanced Damage\n30% Chance of Crushing Blow\nAll Resistances +20\n20% Increased Attack Speed\nKnockback",
 	"setBonuses": ""
 }, {
+	"id": 671,
 	"type": "set",
 	"setName": "Bul-Kathos' Children",
 	"setItemName": "Bul-Kathos' Tribal Guardian",
@@ -719,6 +787,7 @@
 
 	"fullBonuses": "+2 to All Skill Levels\n+200 to Attack Rating\n+200% Damage to Demons"
 }, {
+	"id": 672,
 	"type": "set",
 	"setName": "Cow King's Leathers",
 	"setItemName": "Cow King's Horns",
@@ -728,6 +797,7 @@
 	"setModifiers": "\n+75 Defense\nHalf Freeze Duration\nAttacker Takes Damage of 10\n35% Damage Taken Goes to Mana",
 	"setBonuses": ""
 }, {
+	"id": 673,
 	"type": "set",
 	"setName": "Cow King's Leathers",
 	"setItemName": "Cow King's Hide",
@@ -737,6 +807,7 @@
 	"setModifiers": "\n+60% Enhanced Defense\n18% Chance to Cast Level 5 Chain Lightning When Struck\nAll Resistances +18\n+30 to Life",
 	"setBonuses": ""
 }, {
+	"id": 674,
 	"type": "set",
 	"setName": "Cow King's Leathers",
 	"setItemName": "Cow King's Hooves",
@@ -752,6 +823,7 @@
 
 	"fullBonuses": "Poison Resist +25%\n25% Chance to Cast Level 5 Static Field When Struck\n+100 to Maximum Stamina\n+20 to Strength\n30% Increased Attack Speed\n100% Better Chance of Getting Magic Items"
 }, {
+	"id": 675,
 	"type": "set",
 	"setName": "The Disciple",
 	"setItemName": "Dark Adherent",
@@ -761,6 +833,7 @@
 	"setModifiers": "\n+305-415 Defense <span class='varies'>(varies)</span>\nFire Resist +24%\n25% Chance to Cast Level 3 Nova When Struck\nAdds 24-34 Poison Damage Over 2 Seconds",
 	"setBonuses": ""
 }, {
+	"id": 676,
 	"type": "set",
 	"setName": "The Disciple",
 	"setItemName": "Laying of Hands",
@@ -770,6 +843,7 @@
 	"setModifiers": "\n+25 Defense\n20% Increased Attack Speed\n+350% Damage to Demons\nFire Resist +50%\n10% Chance to Cast Level 3 Holy Bolt on Striking",
 	"setBonuses": ""
 }, {
+	"id": 677,
 	"type": "set",
 	"setName": "The Disciple",
 	"setItemName": "Credendum",
@@ -779,6 +853,7 @@
 	"setModifiers": "\n+50 Defense\nAll Resistances +15\n+10 to Dexterity\n+10 to Strength",
 	"setBonuses": ""
 }, {
+	"id": 678,
 	"type": "set",
 	"setName": "The Disciple",
 	"setItemName": "Rite of Passage",
@@ -788,6 +863,7 @@
 	"setModifiers": "\n+25 Defense\n30% Faster Run/Walk\n+15-25 to Maximum Stamina\nHalf Freeze Duration",
 	"setBonuses": ""
 }, {
+	"id": 679,
 	"type": "set",
 	"setName": "The Disciple",
 	"setItemName": "Telling of Beads",
@@ -803,6 +879,7 @@
 
 	"fullBonuses": "+10 to Strength\n+150 Defense\n+22 Poison Damage Over 3 Seconds\n+10 to Strength\n+2 to All Skills\nAll Resistances +50\n+100 to Mana"
 }, {
+	"id": 680,
 	"type": "set",
 	"setName": "Griswold's Legacy",
 	"setItemName": "Griswold's Redemption",
@@ -812,6 +889,7 @@
 	"setModifiers": "\n+200-240% Enhanced Damage <span class='varies'>(varies)</span>\n+250% Damage to Undead\nRequirements -20%\n40% Increased Attack Speed\nSocketed (3-4) <span class='varies'>(varies)</span>",
 	"setBonuses": "\n+2 to Combat Skills (Paladin Only) (2 Items)\nAdds 10-20 Damage (3 Items)\nAdds 10-20 Damage (Complete Set)"
 }, {
+	"id": 681,
 	"type": "set",
 	"setName": "Griswold's Legacy",
 	"setItemName": "Griswold's Heart",
@@ -821,6 +899,7 @@
 	"setModifiers": "\n+500 Defense\nRequirements -40%\n+20 to Strength\n+2 to Defensive Auras (Paladin Only)\nSocketed (3)",
 	"setBonuses": ""
 }, {
+	"id": 682,
 	"type": "set",
 	"setName": "Griswold's Legacy",
 	"setItemName": "Griswold's Honor",
@@ -830,6 +909,7 @@
 	"setModifiers": "\n65% Faster Block Rate\n20% Increased Chance of Blocking\n+108 Defense\nAll Resistances +45\nSocketed (3)",
 	"setBonuses": ""
 }, {
+	"id": 683,
 	"type": "set",
 	"setName": "Griswold's Legacy",
 	"setItemName": "Griswold's Valor",
@@ -845,6 +925,7 @@
 
 	"fullBonuses": "+3 to Paladin Skill Levels\n+30% Faster Hit Recovery\n+200 to Attack Rating\n+20 to Strength\n+30 to Dexterity\n+150 to Life\nAll Resistances +50\nDisplay Aura"
 }, {
+	"id": 684,
 	"type": "set",
 	"setName": "Heaven's Brethren",
 	"setItemName": "Dangoon's Teaching",
@@ -854,6 +935,7 @@
 	"setModifiers": "\n+1-148 to Maximum Damage (+1.5 per Character Level)\n+50% Damage to Undead\n40% Increased Attack Speed\n10% Chance to Cast Level 3 Frost Nova on Striking\nAdds 20-30 Fire Damage",
 	"setBonuses": ""
 }, {
+	"id": 685,
 	"type": "set",
 	"setName": "Heaven's Brethren",
 	"setItemName": "Haemosu's Adamant",
@@ -863,6 +945,7 @@
 	"setModifiers": "\n+500 Defense\n+40 Defense vs. Melee\n+35 Defense vs. Missile\nRequirements -20%\n+75 to Life",
 	"setBonuses": ""
 }, {
+	"id": 686,
 	"type": "set",
 	"setName": "Heaven's Brethren",
 	"setItemName": "Taebaek's Glory",
@@ -872,6 +955,7 @@
 	"setModifiers": "\nIndestructible\n+50 Defense\n25% Increased Chance of Blocking\nLightning Resist +30%\n30% Faster Block Rate\n+100 to Mana\nAttacker Takes Damage of 30",
 	"setBonuses": ""
 }, {
+	"id": 687,
 	"type": "set",
 	"setName": "Heaven's Brethren",
 	"setItemName": "Ondal's Almighty",
@@ -887,6 +971,7 @@
 
 	"fullBonuses": "Heal Stamina +50% (2 Items)\nReplenish Life +20 (3 Items)\n+2 to All Skills\nReplenish Life +20\nHeal Stamina Plus 50%\nAll Resistances +50\nCannot be Frozen\n+5 to Light Radius"
 }, {
+	"id": 688,
 	"type": "set",
 	"setName": "Hwanin's Majesty",
 	"setItemName": "Hwanin's Justice",
@@ -896,6 +981,7 @@
 	"setModifiers": "\nIndestructible\n+200% Enhanced Damage\nAdds 5-25 Lightning Damage\n40% Increased Attack Speed\n+330 to Attack Rating\n10% Chance to Cast Level 3 Ice Blast on Striking",
 	"setBonuses": ""
 }, {
+	"id": 689,
 	"type": "set",
 	"setName": "Hwanin's Majesty",
 	"setItemName": "Hwanin's Refuge",
@@ -905,6 +991,7 @@
 	"setModifiers": "\n+200 Defense\n10% Chance to Cast Level 3 Static Field When Struck\nPoison Resist +27%\n+100 to Life",
 	"setBonuses": ""
 }, {
+	"id": 690,
 	"type": "set",
 	"setName": "Hwanin's Majesty",
 	"setItemName": "Hwanin's Splendor",
@@ -914,6 +1001,7 @@
 	"setModifiers": "\n+100% Enhanced Defense\nReplenish Life +20\nMagic Damage Reduced By 10\nCold Resist +37%",
 	"setBonuses": ""
 }, {
+	"id": 691,
 	"type": "set",
 	"setName": "Hwanin's Majesty",
 	"setItemName": "Hwanin's Blessing",
@@ -929,6 +1017,7 @@
 
 	"fullBonuses": "+2 to All Skills\n30% Faster Run/Walk\n20% Life Stolen per Hit\n+300 Defense\nAll Resistances +30"
 }, {
+	"id": 692,
 	"type": "set",
 	"setName": "M'avina's Battle Hymn",
 	"setItemName": "M'avina's Caster",
@@ -938,6 +1027,7 @@
 	"setModifiers": "\n+188% Enhanced Damage\n40% Increased Attack Speed\n+50 to Attack Rating\nFires Magic Arrows (Level 1)",
 	"setBonuses": "\nAdds 114-377 Magic Damage (2 Items)\n10% Chance to Cast Level 15 Nova on Striking (3 Items)\n+2 to Bow and Crossbow Skills (Amazon Only) (4 Items)"
 }, {
+	"id": 693,
 	"type": "set",
 	"setName": "M'avina's Battle Hymn",
 	"setItemName": "M'avina's Embrace",
@@ -947,6 +1037,7 @@
 	"setModifiers": "\n+350 Defense\n+4-396 Defense (+4 per Character Level)\nRequirements -30%\n10% Chance to Cast Level 3 Glacial Spike When Struck\nMagic Damage Reduced By 5-12\n+2 to Passive and Magic Skills (Amazon Only)",
 	"setBonuses": "\n30% Faster Hit Recovery (3 Items)"
 }, {
+	"id": 694,
 	"type": "set",
 	"setName": "M'avina's Battle Hymn",
 	"setItemName": "M'avina's True Sight",
@@ -956,6 +1047,7 @@
 	"setModifiers": "\n+150 Defense\nReplenish Life +10\n+25 to Mana\n30% Increased Attack Speed",
 	"setBonuses": "\n+1 to All Skills (2 Items)\n50% Bonus to Attack Rating (3 Items)\nAll Resistances +25 (4 Items)"
 }, {
+	"id": 695,
 	"type": "set",
 	"setName": "M'avina's Battle Hymn",
 	"setItemName": "M'avina's Icy Clutch",
@@ -965,6 +1057,7 @@
 	"setModifiers": "\n+45-50 Defense <span class='varies'>(varies)</span>\nAdds 6-18 Cold Damage - 6 Second Duration\nHalf Freeze Duration\n56% Extra Gold From Monsters\n+10 to Strength\n+15 to Dexterity",
 	"setBonuses": "\nAdds 131-252 Cold Damage - 4 Second Duration (4 Items)\n+20% to Cold Skill Damage (Full Set)"
 }, {
+	"id": 696,
 	"type": "set",
 	"setName": "M'avina's Battle Hymn",
 	"setItemName": "M'avina's Tenet",
@@ -980,6 +1073,7 @@
 
 	"fullBonuses": "+3 to Amazon Skill Levels\n+20 to Strength\n+30 to Dexterity\nAll Resistances +50\n+100 Defense\n+100 to Attack Rating\n100% Better Chance of Getting Magic Items\nDisplay Aura"
 }, {
+	"id": 697,
 	"type": "set",
 	"setName": "Immortal King",
 	"setItemName": "Immortal King's Stone Crusher",
@@ -989,6 +1083,7 @@
 	"setModifiers": "\n+200% Enhanced Damage\n+200% Damage to Demons\n+250% Damage to Undead\n40% Increased Attack Speed\nIndestructible\n35-40% Chance of Crushing Blow <span class='varies'>(varies)</span>\nSocketed (2)",
 	"setBonuses": "Adds 211-397 Fire Damage (2 Items)\nAdds 7-477 Lightning Damage (3 Items)\nAdds 127-364 Cold Damage - 6 Second Duration (4 Items)\n+204 Poison Damage Over 6 Seconds (5 Items)\nAdds 250-361 Magic Damage (Full Set)"
 }, {
+	"id": 698,
 	"type": "set",
 	"setName": "Immortal King",
 	"setItemName": "Immortal King's Soul Cage",
@@ -998,6 +1093,7 @@
 	"setModifiers": "\n+400 Defense\n5% Chance to Cast Level 5 Enchant When Struck\nPoison Resist +50%\n+2 to Combat Skills (Barbarian Only)",
 	"setBonuses": "25% Faster Hit Recovery (2 Items)\nCold Resist +40% (3 Items)\nFire Resist +40% (4 Items)\nLightning Resist +40% (5 Items)\n+50% Enhanced Defense (Full Set)"
 }, {
+	"id": 699,
 	"type": "set",
 	"setName": "Immortal King",
 	"setItemName": "Immortal King's Will",
@@ -1007,6 +1103,7 @@
 	"setModifiers": "\n+4 to Light Radius\n+125 Defense\n37% Extra Gold From Monsters\n25-40% Better Chance of Getting Magic Items <span class='varies'>(varies)</span>\n+2 to Warcries (Barbarian Only)\nSocketed (2)",
 	"setBonuses": ""
 }, {
+	"id": 700,
 	"type": "set",
 	"setName": "Immortal King",
 	"setItemName": "Immortal King's Forge",
@@ -1016,6 +1113,7 @@
 	"setModifiers": "\n+65 Defense\n12% Chance to Cast Level 4 Charged Bolt When Struck\n+20 to Dexterity\n+20 to Strength",
 	"setBonuses": "25% Increased Attack Speed (2 Items)\n+120 Defense (3 Items)\n10% Life Stolen per Hit (4 Items)\n10% Mana Stolen per Hit (5 Items)\nFreezes Target +2 (Full Set)"
 }, {
+	"id": 701,
 	"type": "set",
 	"setName": "Immortal King",
 	"setItemName": "Immortal King's Detail",
@@ -1025,6 +1123,7 @@
 	"setModifiers": "\n+36 Defense\nLightning Resist +31%\nFire Resist +28%\n+25 to Strength",
 	"setBonuses": "+105 Defense (2 Items)\n25% Faster Hit Recovery (3 Items)\n+100% Enhanced Defense (4 Items)\nDamage Reduced by 20% (5 Items)\n+2 to Masteries (Barbarian Only) (Full Set)"
 }, {
+	"id": 702,
 	"type": "set",
 	"setName": "Immortal King",
 	"setItemName": "Immortal King's Pillar",
@@ -1041,6 +1140,7 @@
 	"fivePieces": "Additional +200 to Attack Rating",
 	"fullBonuses": "+3 to Barbarian Skill Levels\n+450 to Attack Rating\n150 to Life\nAll Resistances +50\nMagic Damage Reduced by 10\nDisplay Aura"
 }, {
+	"id": 703,
 	"type": "set",
 	"setName": "Natalya's Odium",
 	"setItemName": "Natalya's Mark",
@@ -1050,6 +1150,7 @@
 	"setModifiers": "\n+200% Enhanced Damage\n+200% Damage to Undead\n+200% Damage to Demons\nAdds 12-17 Fire Damage\nIgnore Target's Defense\n40% Increased Attack Speed\nAdds 50 Cold Damage - 4 Second Duration",
 	"setBonuses": ""
 }, {
+	"id": 704,
 	"type": "set",
 	"setName": "Natalya's Odium",
 	"setItemName": "Natalya's Shadow",
@@ -1059,6 +1160,7 @@
 	"setModifiers": "\n+150-225 Defense <span class='varies'>(varies)</span>\n+1-99 to Life (+1 per Character Level)\nPoison Length Reduced by 75%\nPoison Resist +25%\n+2 to Shadow Disciplines (Assassin Only)\nSocketed (1-3) <span class='varies'>(varies)</span>",
 	"setBonuses": ""
 }, {
+	"id": 705,
 	"type": "set",
 	"setName": "Natalya's Odium",
 	"setItemName": "Natalya's Totem",
@@ -1068,6 +1170,7 @@
 	"setModifiers": "\n+135-175 Defense <span class='varies'>(varies)</span>\nAll Resistances +10-20 <span class='varies'>(varies)</span>\n+20-30 to Dexterity <span class='varies'>(varies)</span>\n+10-20 to Strength (vaires)\nMagic Damage Reduced by 3",
 	"setBonuses": ""
 }, {
+	"id": 706,
 	"type": "set",
 	"setName": "Natalya's Odium",
 	"setItemName": "Natalya's Soul",
@@ -1083,6 +1186,7 @@
 
 	"fullBonuses": "+3 to Assassin Skill Levels\n+350 Defense\n14% Life Stolen per Hit\n14% Mana Stolen per Hit\nAll Resistances +50\nDamage Reduced by 30%\nMagic Damage Reduced by 15\nFade"
 }, {
+	"id": 707,
 	"type": "set",
 	"setName": "Naj's Ancient Vestige",
 	"setItemName": "Naj's Puzzler",
@@ -1092,6 +1196,7 @@
 	"setModifiers": "\n+150% Enhanced Damage\n+50% Damage to Undead\nAdds 6-45 Lightning Damage\n30% Faster Cast Rate\n+1 to All Skills\n+70 to Mana\n+35 to Energy\nLevel 11 Teleport (69 Charges)",
 	"setBonuses": ""
 }, {
+	"id": 708,
 	"type": "set",
 	"setName": "Naj's Ancient Vestige",
 	"setItemName": "Naj's Light Plate",
@@ -1101,6 +1206,7 @@
 	"setModifiers": "\n+300 Defense\nRequirements -60%\n45% Damage Taken Goes to Mana\n+1 to All Skills\nAll Resistances +25\n+65 to Life",
 	"setBonuses": ""
 }, {
+	"id": 709,
 	"type": "set",
 	"setName": "Naj's Ancient Vestige",
 	"setItemName": "Naj's Circlet",
@@ -1116,6 +1222,7 @@
 
 	"fullBonuses": "Full Set Bonuses\n+175 Defense\n+15 to Dexterity\nAll Resistances +50\n+20 to Strength\n+100 to Mana\n+1 to All Skills"
 }, {
+	"id": 710,
 	"type": "set",
 	"setName": "Orphan's Call",
 	"setItemName": "Guillaume's Face",
@@ -1125,6 +1232,7 @@
 	"setModifiers": "\n+120% Enhanced Defense\n30% Faster Hit Recovery\n15% Deadly Strike\n35% Chance of Crushing Blow\n+15 to Strength",
 	"setBonuses": ""
 }, {
+	"id": 711,
 	"type": "set",
 	"setName": "Orphan's Call",
 	"setItemName": "Whitstan's Guard",
@@ -1134,6 +1242,7 @@
 	"setModifiers": "\n+175% Enhanced Defense\nHalf Freeze Duration\n40% Faster Block Rate\n55% Increased Chance of Blocking\n+5 to light Radius",
 	"setBonuses": ""
 }, {
+	"id": 712,
 	"type": "set",
 	"setName": "Orphan's Call",
 	"setItemName": "Magnus' Skin",
@@ -1143,6 +1252,7 @@
 	"setModifiers": "\n+50% Enhanced Defense\n20% Increased Attack Speed\n+100 to Attack Rating\n+3 to Light Radius\nFire Resist +15%",
 	"setBonuses": ""
 }, {
+	"id": 713,
 	"type": "set",
 	"setName": "Orphan's Call",
 	"setItemName": "Wilhelm's Pride",
@@ -1158,6 +1268,7 @@
 
 	"fullBonuses": "+ 85 to Life\nAttacker Takes Damage of 5\nAll Resistances +15\n+100 Defense\n+10 to Dexterity\n+20 to Strength\n80% Better Chance of Getting Magic Items"
 }, {
+	"id": 714,
 	"type": "set",
 	"setName": "Sander's Folly",
 	"setItemName": "Sander's Paragon",
@@ -1167,6 +1278,7 @@
 	"setModifiers": "\n+1-99 Defense (+1 per Character Level)\nAttacker Takes Damage of 8\n35% Better Chance of Getting Magic Items",
 	"setBonuses": ""
 }, {
+	"id": 715,
 	"type": "set",
 	"setName": "Sander's Folly",
 	"setItemName": "Sander's Superstition",
@@ -1176,6 +1288,7 @@
 	"setModifiers": "\n+75% Enhanced Damage\n+50% Damage to Undead\n20% Faster Cast Rate\n+25 to Mana\n8% Mana Stolen per Hit\nAdds 25-75 Cold Damage - 2 Second Duration",
 	"setBonuses": ""
 }, {
+	"id": 716,
 	"type": "set",
 	"setName": "Sander's Folly",
 	"setItemName": "Sander's Taboo",
@@ -1185,6 +1298,7 @@
 	"setModifiers": "\nAdds 9-11 Poison Damage Over 3 Seconds\n+20-25 Defense\n+40 to Life\n20% Increased Attack Speed",
 	"setBonuses": ""
 }, {
+	"id": 717,
 	"type": "set",
 	"setName": "Sander's Folly",
 	"setItemName": "Sander's Riprap",
@@ -1200,6 +1314,7 @@
 
 	"fullBonuses": "+50 Defense\n+75 to Attack Rating\n+1 to All Skills\n4% Life Stolen per Hit\n+50 to Mana\n50% Better Chance of Getting Magic Items"
 }, {
+	"id": 718,
 	"type": "set",
 	"setName": "Sazabi's Grand Tribute",
 	"setItemName": "Sazabi's Cobalt Redeemer",
@@ -1209,6 +1324,7 @@
 	"setModifiers": "\n+150% Enhanced Damage\n+318% Damage to Demons\nAdds 25-35 Cold Damage - 2 Second Duration\n40% Increased Attack Speed\nIndestructible\n+15 to Dexterity\n+5 to Strength",
 	"setBonuses": ""
 }, {
+	"id": 719,
 	"type": "set",
 	"setName": "Sazabi's Grand Tribute",
 	"setItemName": "Sazabi's Ghost Liberator",
@@ -1218,6 +1334,7 @@
 	"setModifiers": "\n+400 Defense\n30% Faster Hit Recovery\n+300 to Attack Rating Against Demons\n+25 to Strength\n+50-75 to Life <span class='varies'>(varies)</span>",
 	"setBonuses": ""
 }, {
+	"id": 720,
 	"type": "set",
 	"setName": "Sazabi's Grand Tribute",
 	"setItemName": "Sazabi's Mental Sheath",
@@ -1233,6 +1350,7 @@
 
 	"fullBonuses": "40% Faster Run/Walk\n15% Life Stolen per Hit\nIncrease Maximum Life 27%\nAll Resistances +30"
 }, {
+	"id": 721,
 	"type": "set",
 	"setName": "Tal Rasha's Wrappings",
 	"setItemName": "Tal Rasha's Lidless Eye",
@@ -1242,6 +1360,7 @@
 	"setModifiers": "\n20% Faster Cast Rate\n+77 to Mana\n+57 to Life\n+10 to Energy\n+1-2 to Lightning Mastery <span class='varies'>(varies)</span> (Sorceress Only)\n+1-2 to Fire Mastery <span class='varies'>(varies)</span> (Sorceress Only)\n+1-2 to Cold Mastery <span class='varies'>(varies)</span> (Sorceress Only)",
 	"setBonuses": "\n+1 to Sorceress Skill Levels (2 Items)\n-15% to Enemy Fire Resistance (3 Items)\n-15% to Enemy Lightning Resistance (4 Items)\n+15% to Cold Skill Damage (Complete Set)"
 }, {
+	"id": 722,
 	"type": "set",
 	"setName": "Tal Rasha's Wrappings",
 	"setItemName": "Tal Rasha's Guardianship",
@@ -1251,6 +1370,7 @@
 	"setModifiers": "\n+400 Defense\nRequirements -60%\nMagic Damage Reduced by 15\nCold Resist +40%\nLightning Resist +40%\nFire Resist +40%\n88% Better Chance of Getting Magic Items",
 	"setBonuses": "\n10% Faster Cast Rate (2 Items)"
 }, {
+	"id": 723,
 	"type": "set",
 	"setName": "Tal Rasha's Wrappings",
 	"setItemName": "Tal Rasha's Horadric Crest",
@@ -1260,6 +1380,7 @@
 	"setModifiers": "\n10% Life Stolen per Hit\n10% Mana Stolen per Hit\nAll Resistances +15\n+45 Defense\n+30 to Mana\n+60 to Life",
 	"setBonuses": ""
 }, {
+	"id": 724,
 	"type": "set",
 	"setName": "Tal Rasha's Wrappings",
 	"setItemName": "Tal Rasha's Fine-Spun Cloth",
@@ -1269,6 +1390,7 @@
 	"setModifiers": "\nRequirements -20%\n37% Damage Taken Goes to Mana\n+30 to Mana\n+20 to Dexterity\n10-15% Better Chance of Getting Magic Items <span class='varies'>(varies)</span>",
 	"setBonuses": "\n+60 Defense (2 Items)\n10% Faster Cast Rate (3 Items)"
 }, {
+	"id": 725,
 	"type": "set",
 	"setName": "Tal Rasha's Wrappings",
 	"setItemName": "Tal Rasha's Adjudication",
@@ -1284,6 +1406,7 @@
 
 	"fullBonuses": "25% Faster Hit Recovery\n+3 to Sorceress Skill Levels\nReplenish Life +10\n65% Better Chance of Getting Magic Items\n25% Faster Hit Recovery\n+150 to Life\nAll Resistances +50\n+50 Defense vs. Missile\n+150 Defense\nDisplay Aura"
 }, {
+	"id": 726,
 	"type": "set",
 	"setName": "Trang-Oul's Avatar",
 	"setItemName": "Trang-Oul's Scales",
@@ -1293,6 +1416,7 @@
 	"setModifiers": "\n+150% Enhanced Defense\nRequirements -40%\n40% Faster Run/Walk\nPoison Resist +40%\n+100 Defense vs. Missile\n+2 to Summoning Skills (Necromancer Only)",
 	"setBonuses": "\nLightning Resist +50% (3 items)\nDamage Reduced by 25% (Complete Set)"
 }, {
+	"id": 727,
 	"type": "set",
 	"setName": "Trang-Oul's Avatar",
 	"setItemName": "Trang-Oul's Wing",
@@ -1302,6 +1426,7 @@
 	"setModifiers": "\n+125 Defense\n30% Increased Chance of Blocking\nPoison Resist +40%\nFire Resist +38-45% <span class='varies'>(varies)</span>\n+15 to Dexterity\n+25 to Strength\n+2 to Poison and Bone Skills (Necromancer Only)",
 	"setBonuses": "\n-25% to Enemy Poison Resistance (3 items)\nReplenish Life +15 (4 items)"
 }, {
+	"id": 728,
 	"type": "set",
 	"setName": "Trang-Oul's Avatar",
 	"setItemName": "Trang-Oul's Guise",
@@ -1311,6 +1436,7 @@
 	"setModifiers": "\n25% Faster Hit Recovery\nReplenish Life +5\n+80-100 Defense\n+150 to Mana\nAttacker Takes Damage of 20",
 	"setBonuses": ""
 }, {
+	"id": 729,
 	"type": "set",
 	"setName": "Trang-Oul's Avatar",
 	"setItemName": "Trang-Oul's Claws",
@@ -1320,6 +1446,7 @@
 	"setModifiers": "\n20% Faster Cast Rate\nCold Resist +30%\n+30 Defense\n+25% to Poison Skill Damage\n+2 to Curses (Necromancer Only)",
 	"setBonuses": ""
 }, {
+	"id": 730,
 	"type": "set",
 	"setName": "Trang-Oul's Avatar",
 	"setItemName": "Trang-Oul's Girth",
