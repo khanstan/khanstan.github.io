@@ -314,7 +314,7 @@ div:empty {
 }
 
 #footer {
-
+	font-family: 'Cabin';
 	position: fixed;
 	color: #6f706f;
 	border-radius: 5px;
@@ -325,6 +325,7 @@ div:empty {
 }
 
 #contact {
+	font-family: 'Cabin';
 	position: fixed;
 	color: #6f706f;
 	border-radius: 5px;
