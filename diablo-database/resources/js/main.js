@@ -7,6 +7,21 @@ Number.prototype.between = function(a, b, inclusive) {
 
 $(document).ready(function() {
 
+	$('#compare').qtip({
+		content: {
+			text: 'Check if you want to compare different items.',
+		},
+		style: {
+			classes: 'qtip-bootstrap'
+		},
+		show: {
+			ready: true // Show when ready (page load)
+		},
+		hide: {
+			delay: 1000
+		}
+	});
+
 	var objects = {}; //contains all prefetched json files for easier access.
 
 	var dataSourceRunewords = new Bloodhound({
@@ -82,48 +97,59 @@ $(document).ready(function() {
 
 	var update = {
 			'runewords': function(x) {
-				document.getElementById("runeword").className = "runeword";
-				document.getElementById("runewordName").textContent = x.name;
-				document.getElementById("allowedItems").textContent = x.allowedItems;
-				document.getElementById("runes").textContent = x.runes.split(' + ').join('-')
-				document.getElementById("modifiers").innerHTML = x.modifiers.split('!').join('\n');
-				document.getElementById("runeWordReqLevel").innerHTML = 'req.lvl: ' + x.runewordReqLevel;
+				html = $("<div id='runeword' class='runeword'>")
+					.append("<h1 id='runewordName'>" + x.name + "</h1><br>")
+					.append("<span id='allowedItems'>" + x.allowedItems + "</span><br>")
+					.append("<span id='runes'>" + x.runes.split(' + ').join('-') + "</span><br>")
+					.append("<span id='modifiers'>" + x.modifiers.split('!').join('\n') + "</span>")
+					.append("<span id='runeWordReqLevel'>req.lvl: " + x.runewordReqLevel + "</span>");
+				html.appendTo(".mainSection")
+
 			},
 			'runes': function(x) {
-				document.getElementById("rune").className = "rune";
-				document.getElementById("runeIcon").src = x.runeSrcIcon;
-				document.getElementById("runeName").textContent = x.runeName;
-				document.getElementById("runeWeaponBonus").textContent = 'Weapons: \n' + x.runeWeaponBonus;
-				document.getElementById("runeArmorBonus").textContent = 'Armor/Helms/Shields: \n' + x.runeArmorBonus.split('/').join('\n');
-				document.getElementById("runeReqLevel").textContent = 'req.lvl: ' + x.runeReqLevel;
+				html = $("<div id='rune' class='rune'>")
+					.append('<img id="runeIcon" src="' + x.runeSrcIcon + '">')
+					.append("<h1 id='runeName'>" + x.runeName + "</h1>")
+					.append("<span id='runeWeaponBonus'>" + "Weapons: \n" + x.runeWeaponBonus + "</span><br>")
+					.append("<span id='runeArmorBonus'>Armor/Helms/Shields: \n" + x.runeArmorBonus.split('/').join('\n') + "</span><br>")
+					.append("<span id='runeReqLevel'>req.lvl: " + x.runeReqLevel + "</span>");
+				html.appendTo(".mainSection")
 			},
 			'uniques': function(x) {
-				document.getElementById("unique").className = "unique";
-				document.getElementById("uniqueName").textContent = x.uniqueName;
-				document.getElementById("uniqueSrcIcon").src = x.uniqueSrcIcon;
-				document.getElementById("baseItem").textContent = '(' + x.baseItem + ')';
-				document.getElementById("uniqueRequirements").textContent = x.uniqueRequirements;
-				document.getElementById("uniqueReqLevel").textContent = 'req.lvl: ' + x.uniqueReqLevel;
-				document.getElementById("uniqueModifiers").innerHTML = x.uniqueModifiers;
+				html = $("<div id='unique' class='unique'>")
+					.append("<h1 id='uniqueName'>" + x.uniqueName + "</h1>")
+					.append('<img id="uniqueSrcIcon" src="' + x.uniqueSrcIcon + '">')
+					.append("<h1 id='baseItem'>" + x.baseItem + "</h1><br>")
+					.append("<span id='uniqueRequirements'>" + x.uniqueRequirements + "</span><br>")
+					.append("<span id='uniqueModifiers'>" + x.uniqueModifiers + "</span><br>")
+					.append("<span id='uniqueReqLevel'>req.lvl: " + x.uniqueReqLevel + "</span><br>");
+				html.appendTo(".mainSection")
 			},
 			'sets': function(x) {
 				objects.keySet = x.setName;
-				document.getElementById("set").className = "set";
-				document.getElementById("setName").textContent = x.setName;
-				document.getElementById("setItemName").textContent = x.setItemName;
-				document.getElementById("setSrcIcon").src = x.setSrcIcon;
-				document.getElementById("setBaseItem").textContent = '(' + x.setBaseItem + ')';
-				document.getElementById("setRequirements").textContent = x.setRequirements;
-				document.getElementById("setModifiers").innerHTML = x.setModifiers;
-				document.getElementById("setBonuses").innerHTML = x.setBonuses;
+				html = $("<div id='set' class='set'>")
+					.append("<h1 id='setName'>" + x.setName + "</h1>")
+					.append("<span id='showAll'>[display full set]</span><br><br>")
+					.append("<h1 id='setItemName'>" + x.setItemName + "</h1>")
+					.append('<img id="setSrcIcon" src="' + x.setSrcIcon + '"><br>')
+					.append("<span id='setBaseItem'>(" + x.setBaseItem + ")</span><br><br>")
+					.append("<span id='setRequirements'>" + x.setRequirements + "</span><br>")
+					.append("<span id='setModifiers'>" + x.setModifiers + "</span><br><br>")
+					.append("<span id='setBonuses'>" + x.setBonuses + "</span><br>");
+				html.appendTo(".mainSection")
+
+				document.getElementById("showAll").addEventListener("click", populate);
+
 			},
 			'normal': function(x) {
-				document.getElementById("normal").className = "normal";
-				document.getElementById("normalName").textContent = x.itemName;
-				document.getElementById("uniqueVersion").textContent = ifUnique(x.uniqueVersion);
-				document.getElementById("setVersion").textContent = ifSet(x.setVersion);
-				document.getElementById("normalSrcIcon").src = x.srcIcon;
-				document.getElementById("normalRequirements").textContent = x.requirements;
+				html = $("<div id='normal' class='normal'>")
+					.append("<h1 id='normalName'>" + x.itemName + "</h1><br>")
+					.append("<span id='uniqueVersion' class='sugUnique'>" + ifUnique(x.uniqueVersion) + "</span><br>")
+					.append("<span id='setVersion' class='sugSet'>" + ifSet(x.setVersion) + "</span><br>")
+					.append('<img id="normalSrcIcon" src="' + x.srcIcon + '"><br>')
+					.append("<span id='normalRequirements'>" + x.requirements + "</span>")
+				html.appendTo(".mainSection")
+
 			}
 		}
 		// Update page using hash.
@@ -204,25 +230,35 @@ $(document).ready(function() {
 	function ifUnique(check) {
 		if (check.length > 1) {
 			return 'Unique: ' + check;
+		} else {
+			return '';
 		}
 	}
 
 	function ifSet(check) {
 		if (check.length > 1) {
 			return 'Set: ' + check;
+		} else {
+			return '';
 		}
 	}
 
 	function hideVisible() {
-		$('.runeword, .rune, .unique, .set, .one, .normal').removeClass().addClass('hidden');
+		$('.runeword, .rune, .unique, .set, .normal').remove();
+		$('.fullSet, .one').removeClass().addClass('hidden');
 		$('.setItemSrcIcon').attr('src', '');
 		$('.setItemName, .setBaseItem, .setItemSrcIcon, .setItemRequirements, .setItemModifiers, .setItemBonuses').empty();
 	};
 
+	var compare = document.getElementById('compare');
+
 
 
 	$('.typeahead').on('typeahead:select', function(ev, data) {
-		hideVisible();
+		if (!compare.checked) {
+			hideVisible();
+		}
+
 		updateShare(data.id);
 		switch (data.type) {
 			case 'runeword':
@@ -258,6 +294,7 @@ $(document).ready(function() {
 		for (var y = 0; y < result.length + 1; y++) {
 			children[y].className = 'one';
 		};
+		console.log(result.length)
 
 		var twoPieces = document.getElementById('twoPieces');
 		var threePieces = document.getElementById('threePieces');
@@ -274,7 +311,7 @@ $(document).ready(function() {
 
 
 
-		full.className = "set"
+		full.className = "fullSet"
 
 		fullSetName.textContent = result[0]['setName'];
 		twoPieces.textContent = bonuses[0]['twoPieces'];
@@ -294,8 +331,7 @@ $(document).ready(function() {
 		}
 	}
 
-	var el = document.getElementById("showAll");
-	el.addEventListener("click", populate)
+
 
 	$('.typeahead').typeahead({
 		highlight: true,

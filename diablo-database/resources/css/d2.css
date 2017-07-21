@@ -18,6 +18,21 @@ div:empty {
 	display: none;
 }
 
+.compare {
+	position: relative;
+	float: right;
+	top: 10px;
+}
+
+.compInput {
+
+}
+
+.compSpan {
+	display: none;
+}
+
+
 .input-wrapper {
 	text-align: center;
 	padding-top: 9px;
@@ -83,7 +98,7 @@ div:empty {
 	z-index: 1;
 }
 
-.mainSection input {
+.mainSection input:not([type="checkbox"]) {
 	background: #222;	
 	background: linear-gradient(#333, #222);	
 	border: 1px solid #444;
@@ -241,7 +256,11 @@ div:empty {
 	display: none;
 }
 
-.rune {
+.qtip-bootstrap {
+	background-color: #143243;
+}
+
+.rune, .normal, .unique, .set, .fullSet {
 	color: #fff;
 	white-space: pre-line;
 	padding: 20px;
@@ -251,35 +270,6 @@ div:empty {
 	display: inline-block;
 }
 
-.normal {
-	color: #fff;
-	white-space: pre-line;
-	padding: 20px;
-	border: 2px solid rgb(93, 94, 96);
-	border-radius: 15px;
-	position: relative;
-	display: inline-block;
-}
-
-.unique {
-	color: #fff;
-	white-space: pre-line;
-	padding: 20px;
-	border: 2px solid rgb(93, 94, 96);
-	border-radius: 15px;
-	position: relative;
-	display: inline-block;
-}
-
-.set { 
-	color: #fff;
-	white-space: pre-line;
-	padding: 20px;
-	border: 2px solid rgb(93, 94, 96);
-	border-radius: 15px;
-	position: relative;
-	display: inline-block;
-}
 
 .partial {
 	color: #8c7c4b;
