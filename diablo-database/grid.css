@@ -6,6 +6,14 @@ body {
   color: #4850B8 !important;
 }
 
+.modifiers { 
+  color: #4850B8;
+}
+
+.unique {
+  color: rgb(144, 136, 88);
+}
+
 table.dataTable {
   width: 100%;
   margin: 0 auto;

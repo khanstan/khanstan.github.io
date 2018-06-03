@@ -167,7 +167,7 @@
 	"baseItem": "Bearded Axe",
 	"uniqueRequirements": "2H Damage: 55 to 129<br />Melee Range: 2<br />Attack Speed: [0]<br />Minimum Strength: 37<br />Minimum Dexterity: -<br />Durability: 35<br />",
 	"uniqueReqLevel": "39",
-	"uniqueModifiers": "+165% Enhanced Damage<br />10% Faster Cast Rate<br />uniqueRequirements -60%<br />Regenerate Mana 25%<br />+100 to Mana<br />Magic Damage Reduced by 12-15 <span class='varies'>(varies)</span><br />Level 12 Firestorm (60 Charges)<br />Level 10 Holy Bolt (100 Charges)<br />Level 1 Teleport (20 Charges)<br />(Only Spawns In Patch 1.09 or later)"
+	"uniqueModifiers": "+165% Enhanced Damage<br />10% Faster Cast Rate<br />Requirements -60%<br />Regenerate Mana 25%<br />+100 to Mana<br />Magic Damage Reduced by 12-15 <span class='varies'>(varies)</span><br />Level 12 Firestorm (60 Charges)<br />Level 10 Holy Bolt (100 Charges)<br />Level 1 Teleport (20 Charges)<br />(Only Spawns In Patch 1.09 or later)"
 }, {
 	"id": 748,
 	"type": "unique",
