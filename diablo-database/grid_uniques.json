@@ -1,4 +1,5 @@
-[{
+{
+  "data": [{
 	"id": 731,
 	"type": "unique",
 	"type2": "Axes",
@@ -3787,4 +3788,4 @@
 	"uniqueRequirements": "",
 	"uniqueReqLevel": "76",
 	"uniqueModifiers": "10% Chance to Cast Level 16 Lightning on Striking<br />Lightning Absorb 10-20% <span class='varies'>(varies)</span><br />10-20% Better Chance of Getting Magic Items <span class='varies'>(varies)</span><br />Level 7 Spirit of Barbs (11 Charges)<br />Level 5 Heart of Wolverine (13 Charges)<br />Level 2 Oak Sage (15 Charges)<br />(Only Spawns In Patch 1.10 or later)"
-}]
+}]}
