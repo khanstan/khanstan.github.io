@@ -380,6 +380,6 @@ $(document).ready(function() {
 				return '<p class="suggestion"> <span class = "sugNormal">Normal</span>: ' + data.itemName + '</p>';
 			}
 		}
-	});
+	}).focus();
 
 });
