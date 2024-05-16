@@ -1,24 +1,15 @@
 function getJSON(url) {
-    var resp;
-    var xmlHttp;
+    const xmlHttp = new XMLHttpRequest();
 
-    resp  = '';
-    xmlHttp = new XMLHttpRequest();
-
-    if(xmlHttp != null)
-    {
     xmlHttp.open( "GET", url, false );
-        xmlHttp.send( null );
-        resp = xmlHttp.responseText;
-     }
+    xmlHttp.send( null );
 
-    return resp;
+    return xmlHttp.responseText;
 }
 
+const str = getJSON('uniques.json');
 
-var str = getJSON('uniques.json');
-
-var obj = JSON.parse(str);
+const obj = JSON.parse(str);
 
 
 $(document).ready(function() {
@@ -45,16 +36,16 @@ $(document).ready(function() {
 } );
 
 function modifiers(data, type, row) {
-	let req = row['uniqueRequirements']
-	let mod = row['uniqueModifiers']
+	const req = row['uniqueRequirements']
+	const mod = row['uniqueModifiers']
     return req + '</br><span class="modifiers">' + mod + '</span>'
 }
 
 function main(data, type, row) {
-	let name  = row['uniqueName']
-	let base = row['baseItem']
-	let _type = row['type']
-	let type2 = row['type2']
+	const name  = row['uniqueName']
+	const base = row['baseItem']
+	const _type = row['type']
+	const type2 = row['type2']
 	if (row['type'] == 'unique') {
 		return '<span class = "unique">' + name + '</span></br>' + base + '</br>	' + type2 
 	} else {
