@@ -252,7 +252,7 @@ function getSpeed() {
 }
 
 function secondsToHms(seconds) {
-    const d = Number(seconds),
+    let d = Number(seconds),
         h = Math.floor(d / 3600),
         m = Math.floor(d % 3600 / 60),
         s = Math.floor(d % 3600 % 60);
