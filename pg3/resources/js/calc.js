@@ -249,10 +249,10 @@ function getSpeed() {
     } else {
         return finalspeed;
     }
-
 }
+
 function secondsToHms(d) {
-    cosnt d = Number(d),
+    const d = Number(d),
         h = Math.floor(d / 3600),
         m = Math.floor(d % 3600 / 60),
         s = Math.floor(d % 3600 % 60);
