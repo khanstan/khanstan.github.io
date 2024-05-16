@@ -47,7 +47,7 @@ function getID(id) {
     return document.getElementById(id);
 }
 
-cobst selectedOption = function (id) {
+const selectedOption = function (id) {
     const element = getID(id);
     
     return element.options[element.selectedIndex].value;
