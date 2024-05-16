@@ -1,4 +1,4 @@
-const ports = {
+var ports = {
     "Kanoni": {"x_cd": 47, "y_cd": 202},
     "Baramas": {"x_cd": 141, "y_cd": 173},
     "St. Martins": {"x_cd": 169, "y_cd": 63},
@@ -22,7 +22,7 @@ const ports = {
     "Akrotiri": {"x_cd": 888, "y_cd": 587}
 };
 
-const ships = {
+var ships = {
     "Howker": {"base": 21, "max_crew": 30, "cargo": 60},
     "Cutter": {"base": 50, "max_crew": 25, "cargo": 30},
     "Sloop": {"base": 40, "max_crew": 50, "cargo": 30},
@@ -47,14 +47,13 @@ function getID(id) {
     return document.getElementById(id);
 }
 
-const selectedOption = function (id) {
-    const element = getID(id);
-    
+var selectedOption = function (id) {
+    var element = getID(id);
     return element.options[element.selectedIndex].value;
 };
 
 function sumCargo() {
-    const s1 = selectedOption('ship1'),
+    var s1 = selectedOption('ship1'),
         s2 = selectedOption('ship2'),
         s3 = selectedOption('ship3'),
         s4 = selectedOption('ship4'),
@@ -69,7 +68,7 @@ function sumCargo() {
 }
 
 function gg(e) {
-    const g = e.innerText,
+    var g = e.innerText,
         split = g.split('-'),
         first = split[0],
         second = split[1];
@@ -141,6 +140,8 @@ if (!String.prototype.includes) {
     };
 }
 
+
+
 function workaround() {
     getTime();
     sumCargo();
@@ -154,7 +155,7 @@ function resetForm() {
 }
 
 function getByKey() {
-    const a = getID("portA").value,
+    var a = getID("portA").value,
         b = getID("portB").value,
         key1 = a + "-" + b,
         key2 = b + "-" + a,
@@ -164,13 +165,13 @@ function getByKey() {
     
     if (typeof keyz !== "undefined") {
         return keyz;
+    } else {
+        return keyz1;
     }
-    
-    return keyz1;
 }
 
 function save() {
-    const input0 = getID('ship'),
+    var input0 = getID('ship'),
         input1 = getID('ship1'),
         input2 = getID('ship2'),
         input3 = getID('ship3'),
@@ -187,14 +188,13 @@ function save() {
 }
 
 function load() {
-    const input0 = getID('ship'),
+    var input0 = getID('ship'),
         input1 = getID('ship1'),
         input2 = getID('ship2'),
         input3 = getID('ship3'),
         input4 = getID('ship4'),
         input5 = getID('ship5'),
         input6 = getID('quantity');
-
     input0.value = localStorage.ship;
     input1.value = localStorage.ship1;
     input2.value = localStorage.ship2;
@@ -202,22 +202,21 @@ function load() {
     input4.value = localStorage.ship4;
     input5.value = localStorage.ship5;
     input6.value = localStorage.quantity;
-    
     return workaround();
 }
 
 function getShips() {
-    return selectedOption('ship');
+    var s1 = selectedOption('ship');
+    return s1;
 }
 
 function getDistance() {
-    const pAv = selectedOption('portA'),
+    var pAv = selectedOption('portA'),
         pBv = selectedOption('portB'),
         x = Math.abs(ports[pAv]["x_cd"] - ports[pBv]["x_cd"]),
         y = Math.abs(ports[pAv]["y_cd"] - ports[pBv]["y_cd"]),
         total = x + y,
         distance = Math.round(total * 10 * 50);
-    
     return distance;
 }
 
@@ -226,7 +225,7 @@ function getSpeed() {
 //Ship speed = Base Ship Speed * ((Current Crew / Max Crew) + 1) / 2
 //Final Ship Speed = Ship Speed + (Ship Speed * Double Hammocks / 100)
 
-    const ccrew = getID("quantity").value,
+    var ccrew = getID("quantity").value,
         c1 = selectedOption('cotton'),
         h1 = selectedOption('hammocks'),
         sk1 = selectedOption('skies'),
@@ -241,50 +240,50 @@ function getSpeed() {
     }
 
     if (sk1 > 0 && w1 > 0) {
-        return finalspeed + (finalspeed * (w1 - sk1) * 10 / 100);
+        var cw = finalspeed + (finalspeed * (w1 - sk1) * 10 / 100);
+        return cw;
     } else if (sk1 > 0) {
-        return control = finalspeed - (finalspeed * sk1 * 10 / 100);
+        var control = finalspeed - (finalspeed * sk1 * 10 / 100);
+        return control;
     } else if (w1 > 0) {
-        return winds = finalspeed + (finalspeed * w1 * 10 / 100);
+        var winds = finalspeed + (finalspeed * w1 * 10 / 100);
+        return winds;
     } else {
         return finalspeed;
     }
-}
 
-function secondsToHms(seconds) {
-    let d = Number(seconds),
+}
+function secondsToHms(d) {
+    var d = Number(d),
         h = Math.floor(d / 3600),
         m = Math.floor(d % 3600 / 60),
         s = Math.floor(d % 3600 % 60);
     return ((h > 0 ? h + ":" + (m < 10 ? "0" : "") : "") + m + ":" + (s < 10 ? "0" : "") + s); 
 }
 
+
 function getTime() {
 
-    const time = getDistance() / getSpeed();
+    var time = getDistance() / getSpeed();
 
-    updateTimeTillArrival();
+    getID("totalTime").innerHTML = "Time till arrival:  " + secondsToHms(time);
 
     return time;
-}
 
-function updateTimeTillArrival() {
-    getID("totalTime").innerHTML = "Time till arrival:  " + secondsToHms(time);
 }
 
 function minTrip() {
-    let tradetime;
+    var tradetime;
     if (getTime() < 3600) {
         tradetime = 3600;}
     else {
         tradetime = getTime();
     }
-    
     return tradetime * 2;
 }
 
 function tradeCalc() {
-    const trips = 86400 / minTrip(),
+    var trips = 86400 / minTrip(),
         cargo = getID("cargo").value,
         pr = Math.round((trips * getByKey()) * cargo);
     
@@ -292,7 +291,13 @@ function tradeCalc() {
 }
 
 
-const selects = document.getElementsByTagName('select');
+/*$( "select" )
+  .change(function () {
+    sumCargo();
+    tradeCalc();
+  });*/
+
+var selects = document.getElementsByTagName('select');
 
 for(i = 0; i < selects.length; ++i) {
     selects[i].addEventListener('change', function (e) {
@@ -303,7 +308,7 @@ for(i = 0; i < selects.length; ++i) {
 
 
 function max() {
-    getID("quantity").value = ships[getShips()].max_crew;
-
+    var m = ships[getShips()].max_crew;
+    getID("quantity").value = m;
     return workaround();
 }
